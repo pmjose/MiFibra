@@ -1,0 +1,31 @@
+incident_id,node_id,region_key,incident_date,incident_type,severity,status,affected_subscribers,duration_hours,root_cause,resolution,reported_by,resolved_by
+INC-2026-0001,7,400,2026-02-01,Fiber Cut,P3,Resolved,850,2.5,Construction damage,Fiber splice repair,NOC Auto-Detection,Field Team Lima Norte
+INC-2026-0002,22,402,2026-02-01,Power Outage,P4,Resolved,120,1.2,Utility power failure,Power restored,Customer Call,Utility Company
+INC-2026-0003,17,401,2026-02-02,Equipment Failure,P3,Resolved,1200,3.8,OLT card failure,Card replacement,NOC Monitoring,Field Team Arequipa
+INC-2026-0004,5,400,2026-02-02,Performance Degradation,P4,Resolved,450,0.8,High utilization,Traffic optimization,NOC Monitoring,NOC Lima
+INC-2026-0005,26,403,2026-02-03,Fiber Cut,P2,Resolved,3500,4.2,Vehicle accident,Emergency splice,Customer Calls,Field Team Cusco
+INC-2026-0006,8,400,2026-02-03,ONT Failure,P4,Resolved,1,2.1,Hardware malfunction,ONT replacement,Customer Call,Field Team Lima Sur
+INC-2026-0007,30,404,2026-02-04,Network Congestion,P3,Resolved,2200,1.5,Peak usage spike,Capacity increase,NOC Monitoring,NOC Lima
+INC-2026-0008,33,405,2026-02-04,Fiber Cut,P3,Resolved,980,3.2,Road works,Fiber repair,NOC Auto-Detection,Field Team Chiclayo
+INC-2026-0009,1,400,2026-02-05,Scheduled Maintenance,P4,Resolved,0,4.0,Core router upgrade,Maintenance complete,Planned,NOC Lima
+INC-2026-0010,38,407,2026-02-05,Power Outage,P3,Resolved,1800,2.8,Regional blackout,Generator activated,Multiple Calls,Field Team Huancayo
+INC-2026-0011,43,409,2026-02-06,Equipment Failure,P4,Resolved,350,1.9,Switch port failure,Port migration,NOC Monitoring,Field Team Ica
+INC-2026-0012,49,411,2026-02-06,Connectivity Issue,P2,Resolved,2800,5.5,Upstream provider issue,Provider fix,NOC Monitoring,Provider + NOC
+INC-2026-0013,2,400,2026-02-07,Performance Degradation,P4,Resolved,180,0.6,DNS issue,DNS config fix,Customer Calls,NOC Lima
+INC-2026-0014,17,401,2026-02-07,Scheduled Maintenance,P4,Resolved,0,3.0,OLT firmware upgrade,Maintenance complete,Planned,Field Team Arequipa
+INC-2026-0015,41,408,2026-02-08,Fiber Cut,P3,Resolved,1100,2.9,Excavation damage,Emergency repair,NOC Auto-Detection,Field Team Chimbote
+INC-2026-0016,3,400,2026-02-08,ONT Failure,P4,Resolved,1,1.8,Lightning damage,ONT replacement,Customer Call,Field Team Lima
+INC-2026-0017,36,406,2026-02-09,Power Outage,P3,Resolved,1500,3.5,Substation failure,Power restored,Multiple Calls,Utility + Field Team
+INC-2026-0018,6,400,2026-02-09,Network Congestion,P4,Resolved,280,0.5,Gaming event traffic,QoS adjustment,NOC Monitoring,NOC Lima
+INC-2026-0019,22,402,2026-02-10,Equipment Failure,P3,Resolved,2100,2.2,OLT overheating,Cooling fix + restart,NOC Monitoring,Field Team Trujillo
+INC-2026-0020,46,410,2026-02-10,Fiber Cut,P4,Resolved,420,1.8,Accidental cut,Quick splice,Customer Call,Field Team Callao
+INC-2026-0021,7,400,2026-02-10,Performance Degradation,P4,Resolved,95,0.4,Configuration drift,Config correction,NOC Monitoring,NOC Lima
+INC-2026-0022,9,400,2026-02-11,Fiber Cut,P3,Resolved,1650,3.1,Municipal works,Fiber repair,NOC Auto-Detection,Field Team Lima Norte
+INC-2026-0023,27,403,2026-02-11,ONT Failure,P4,Resolved,1,2.4,Voltage spike,ONT + surge protector,Customer Call,Field Team Cusco
+INC-2026-0024,1,400,2026-02-12,Scheduled Maintenance,P4,Resolved,0,2.0,Security patches,Maintenance complete,Planned,NOC Lima
+INC-2026-0025,19,401,2026-02-12,Power Outage,P4,Resolved,380,1.1,Brief outage,UPS held,Customer Call,Field Team Arequipa
+INC-2026-0026,31,404,2026-02-13,Network Congestion,P3,Resolved,890,1.2,Streaming event,Bandwidth optimization,NOC Monitoring,NOC Lima
+INC-2026-0027,44,409,2026-02-13,Equipment Failure,P4,Resolved,220,2.6,Router failure,Router replacement,Customer Calls,Field Team Ica
+INC-2026-0028,6,400,2026-02-14,Fiber Cut,P3,Resolved,720,2.8,Tree fall,Emergency repair,NOC Auto-Detection,Field Team Lima Norte
+INC-2026-0029,50,411,2026-02-14,Connectivity Issue,P3,Resolved,850,4.8,Satellite link issue,Link restoration,NOC Monitoring,Provider Support
+INC-2026-0030,8,400,2026-02-15,ONT Failure,P4,Resolved,1,1.5,End of life,ONT upgrade,Customer Call,Field Team Lima

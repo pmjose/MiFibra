@@ -1,0 +1,21 @@
+maintenance_id,node_id,region_key,scheduled_date,maintenance_type,duration_hours,affected_subscribers_estimate,status,description,assigned_team,impact_level
+MAINT-2026-001,1,400,2026-02-18,Core Upgrade,4.0,0,Scheduled,Core router firmware upgrade - redundant failover,NOC Lima,
+MAINT-2026-002,17,401,2026-02-19,Capacity Expansion,3.0,500,Scheduled,Additional OLT card installation Arequipa,Field Team Arequipa,Low
+MAINT-2026-003,22,402,2026-02-20,Preventive Maintenance,2.0,0,Scheduled,OLT cleaning and inspection Trujillo,Field Team Trujillo,
+MAINT-2026-004,5,400,2026-02-21,XGS-PON Migration,6.0,2500,Scheduled,GPON to XGS-PON migration Surco sector 3,Field Team Lima Sur,Medium
+MAINT-2026-005,26,403,2026-02-22,Fiber Route Upgrade,4.0,800,Scheduled,Secondary fiber route installation Cusco,Field Team Cusco,Low
+MAINT-2026-006,46,410,2026-02-23,Equipment Refresh,2.5,0,Scheduled,Router replacement Callao hub,Field Team Callao,
+MAINT-2026-007,33,405,2026-02-24,Capacity Expansion,3.5,600,Scheduled,New splitter installation Chiclayo expansion,Field Team Chiclayo,Low
+MAINT-2026-008,38,407,2026-02-25,Power System,2.0,0,Scheduled,UPS battery replacement Huancayo,Field Team Huancayo,
+MAINT-2026-009,43,409,2026-02-26,Preventive Maintenance,2.5,0,Scheduled,Annual inspection Ica hub,Field Team Ica,
+MAINT-2026-010,49,411,2026-02-27,Connectivity Upgrade,5.0,1200,Scheduled,Backup link installation Iquitos,Provider + NOC,Medium
+MAINT-2026-011,8,400,2026-02-28,XGS-PON Migration,8.0,4500,Scheduled,Mass migration SJL district,Field Team Lima Norte,Medium
+MAINT-2026-012,30,404,2026-03-01,Capacity Expansion,3.0,400,Scheduled,OLT expansion Piura zone 2,Field Team Piura,Low
+MAINT-2026-013,3,400,2026-03-02,Security Upgrade,1.5,0,Scheduled,Firewall rules update Miraflores,NOC Lima,
+MAINT-2026-014,41,408,2026-03-03,Fiber Route Upgrade,4.5,950,Scheduled,Redundant path Chimbote,Field Team Chimbote,Low
+MAINT-2026-015,36,406,2026-03-04,Power System,3.0,0,Scheduled,Generator maintenance Cajamarca,Field Team Cajamarca,
+MAINT-2026-016,2,400,2026-03-05,Equipment Refresh,2.0,0,Scheduled,Switch upgrade San Isidro,Field Team Lima,
+MAINT-2026-017,20,401,2026-03-06,XGS-PON Migration,6.0,3200,Scheduled,Migration JLB y Rivero district,Field Team Arequipa,Medium
+MAINT-2026-018,6,400,2026-03-07,Capacity Expansion,4.0,1800,Scheduled,New OLT installation VES expansion,Field Team Lima Sur,Low
+MAINT-2026-019,1,400,2026-03-08,Core Upgrade,3.0,0,Scheduled,Backbone capacity upgrade 400G,NOC Lima,
+MAINT-2026-020,24,402,2026-03-09,Preventive Maintenance,2.0,0,Scheduled,Equipment inspection Huanchaco,Field Team Trujillo,

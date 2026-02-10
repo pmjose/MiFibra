@@ -1,0 +1,1001 @@
+account_id,account_name,customer_key,industry,vertical,billing_street,billing_city,billing_state,billing_postal_code,account_type,annual_revenue,employees,created_date
+ACC000001,University of Sheffield,1,Education,Public Sector,58 Mill Lane,Liverpool,Merseyside,L95 9DY,Customer,7178673,5,2020-03-02
+ACC000002,Harrison Martin Ltd,2,Financial Services,SMB,24 Church Road,London,Greater London,EC30 1TW,Prospect,9986237,25,2024-07-15
+ACC000003,Lee Turner Solutions,3,Hospitality,Enterprise,151 Park Lane,Cambridge,Cambridgeshire,CB1 7FZ,Prospect,1722631,25,2024-10-01
+ACC000004,Edwards Johnson Solutions,4,Transport & Logistics,SMB,27 Station Road,Nottingham,Nottinghamshire,NG49 6DM,Partner,480373285,1000,2023-03-28
+ACC000005,Williams Hill UK,5,Manufacturing,Enterprise,97 Station Road,Leeds,West Yorkshire,LS71 6KX,Prospect,346280485,1000,2020-11-29
+ACC000006,Taylor Williams and Co,6,Hospitality,Enterprise,198 Park Lane,Liverpool,Merseyside,L11 7HD,Customer,253174062,2500,2021-07-06
+ACC000007,Hill Patel Group,7,Professional Services,SMB,91 Church Road,Cardiff,Wales,CF86 2JZ,Customer,1210460,10,2023-03-07
+ACC000008,Lee White Group,8,Retail,Enterprise,98 Park Lane,Cambridge,Cambridgeshire,CB82 4ZU,Partner,154680614,2500,2024-03-09
+ACC000009,Brown Thompson Ltd,9,Construction,Enterprise,103 Park Lane,Nottingham,Nottinghamshire,NG9 6GV,Customer,2664251,10,2024-06-10
+ACC000010,Morris Wood and Co,10,Technology,SMB,37 Park Lane,Cambridge,Cambridgeshire,CB18 9HU,Customer,370990466,5000,2024-03-17
+ACC000011,Harrison Martin International,11,Manufacturing,Enterprise,93 Church Road,Belfast,Northern Ireland,BT18 2TS,Customer,8617485,5,2024-11-17
+ACC000012,Evans Johnson and Co,12,Healthcare,Enterprise,175 Queens Road,Edinburgh,Scotland,EH77 7CN,Customer,5538436,50,2020-02-09
+ACC000013,Clark Hughes UK,13,Charity,SMB,175 Innovation Drive,London,Greater London,EC15 5YU,Customer,73929643,10000,2022-08-31
+ACC000014,Evans Green Services,14,Transport & Logistics,SMB,117 High Street,Edinburgh,Scotland,EH93 3JT,Customer,240203188,5000,2022-07-13
+ACC000015,Wilson Hall and Co,15,Insurance,Enterprise,156 Church Road,Brighton,East Sussex,BN20 9MF,Customer,127912186,250,2020-03-05
+ACC000016,Smith Morgan Associates,16,Recruitment,SMB,5 Station Road,Oxford,Oxfordshire,OX47 1KH,Prospect,4176817,50,2024-07-11
+ACC000017,Baker Davies PLC,17,Manufacturing,SMB,18 Commerce Way,Oxford,Oxfordshire,OX69 8EE,Customer,37541181,2500,2024-01-31
+ACC000018,Hughes Clark International,18,Retail,Enterprise,55 Technology Park,Reading,Berkshire,RG70 5ZG,Prospect,4291056,5,2022-06-26
+ACC000019,Patel Networks Group,19,MSP,Partner,31 Church Road,Cambridge,Cambridgeshire,CB29 1CL,Partner,32803416,25,2024-11-05
+ACC000020,Harrison Thompson Ltd,20,Technology,Enterprise,182 Business Park,Birmingham,West Midlands,B8 1HC,Partner,8264991,10,2021-01-23
+ACC000021,Taylor Moore Solutions,21,Transport & Logistics,SMB,172 Kings Road,Sheffield,South Yorkshire,S28 8UE,Partner,260973885,5000,2024-10-12
+ACC000022,Ward Turner Solutions,22,Manufacturing,SMB,25 Business Park,Leeds,West Yorkshire,LS56 7MP,Partner,4230808,100,2023-05-02
+ACC000023,Brown Wilson Ltd,23,Charity,SMB,187 Victoria Road,Belfast,Northern Ireland,BT14 4HG,Customer,133143547,1000,2022-03-21
+ACC000024,Cooper Thomas Services,24,Media & Entertainment,Enterprise,72 Kings Road,Edinburgh,Scotland,EH32 9CR,Customer,29665774,1000,2022-11-02
+ACC000025,Brown Lee Ltd,25,Financial Services,Enterprise,193 Enterprise Road,Birmingham,West Midlands,B31 8FP,Customer,8974152,5,2023-09-29
+ACC000026,Robinson Wood Ltd,26,Real Estate,SMB,98 High Street,Edinburgh,Scotland,EH50 5JR,Partner,41089442,25,2024-01-09
+ACC000027,King Morris Group,27,Central Government,Public Sector,76 Church Road,Bristol,Avon,BS8 1VU,Customer,839653,5,2021-11-14
+ACC000028,Brown Brown International,28,Construction,Enterprise,129 Technology Park,Oxford,Oxfordshire,OX68 9FB,Partner,37113944,10,2024-09-05
+ACC000029,Walker Taylor International,29,Financial Services,SMB,173 Enterprise Road,Birmingham,West Midlands,B31 4ND,Customer,363057151,250,2021-12-25
+ACC000030,Davies Turner and Co,30,Healthcare,SMB,145 Market Street,Milton Keynes,Buckinghamshire,MK41 6JG,Partner,28129602,25,2021-06-30
+ACC000031,Hughes Wood Group,31,Manufacturing,SMB,118 Victoria Road,Newcastle,Tyne and Wear,NE97 8CA,Customer,3918418,10,2020-02-18
+ACC000032,Taylor Lee Solutions,32,Financial Services,Enterprise,68 Mill Lane,Brighton,East Sussex,BN45 6CH,Partner,182784731,250,2020-08-24
+ACC000033,Roberts Cooper UK,33,Professional Services,Enterprise,157 Commerce Way,Newcastle,Tyne and Wear,NE84 9TA,Partner,2040214,50,2023-03-26
+ACC000034,Wilson Thomas Partners,34,Construction,SMB,28 Innovation Drive,Leeds,West Yorkshire,LS71 5EJ,Customer,339554012,1000,2023-09-20
+ACC000035,Harris Robinson and Co,35,Technology,SMB,130 Kings Road,Sheffield,South Yorkshire,S33 7BC,Partner,73337118,500,2022-05-11
+ACC000036,Williams Smith Associates,36,Professional Services,SMB,164 Park Lane,Glasgow,Scotland,G21 7RU,Customer,117840968,2500,2024-05-28
+ACC000037,Evans Taylor LLP,37,Legal Services,SMB,140 High Street,Glasgow,Scotland,G48 3VU,Customer,4861145,100,2023-09-21
+ACC000038,Thomas Williams Partners,38,Central Government,Public Sector,11 Technology Park,Cardiff,Wales,CF46 4GY,Customer,8071465,100,2024-10-06
+ACC000039,Clarke King Services,39,Financial Services,Enterprise,192 Mill Lane,Coventry,West Midlands,CV31 7FF,Partner,7652952,100,2021-03-24
+ACC000040,Walker Harris Services,40,Legal Services,Enterprise,69 Mill Lane,Liverpool,Merseyside,L90 1DN,Partner,9477210,100,2021-10-11
+ACC000041,Thompson Wright Holdings,41,Real Estate,SMB,79 Enterprise Road,Cardiff,Wales,CF30 4HA,Partner,43292734,50,2024-04-17
+ACC000042,Harris IT Solutions Ltd,42,MSP,Partner,90 Business Park,Sheffield,South Yorkshire,S66 9NY,Partner,21955345,250,2020-06-14
+ACC000043,Jones Evans Partners,43,Transport & Logistics,SMB,149 Park Lane,Edinburgh,Scotland,EH5 7DW,Prospect,121608546,500,2021-02-27
+ACC000044,Lewis Martin International,44,Transport & Logistics,Enterprise,30 Queens Road,Brighton,East Sussex,BN74 1GJ,Partner,28620042,250,2024-03-10
+ACC000045,Smith Clark UK,45,Central Government,Public Sector,94 Queens Road,Bristol,Avon,BS9 6YL,Prospect,100229086,5000,2024-01-23
+ACC000046,Academy of Newcastle,46,Education,Public Sector,80 Business Park,Brighton,East Sussex,BN53 5LN,Prospect,2376659,50,2021-01-07
+ACC000047,University of Reading,47,Education,Enterprise,174 Innovation Drive,Belfast,Northern Ireland,BT23 5WV,Customer,453239386,250,2022-08-21
+ACC000048,King Communications Partners,48,MSP,Partner,54 Queens Road,Newcastle,Tyne and Wear,NE75 6WX,Customer,441919,100,2020-11-08
+ACC000049,Cooper Cooper and Co,49,Charity,SMB,131 Kings Road,Bristol,Avon,BS95 2FY,Partner,173006756,500,2024-05-11
+ACC000050,Moore Harris PLC,50,Professional Services,Enterprise,173 Park Lane,Liverpool,Merseyside,L29 1GE,Partner,5600037,250,2023-11-15
+ACC000051,White Ward International,51,Healthcare,SMB,117 Queens Road,Birmingham,West Midlands,B81 7VG,Partner,44893945,50,2020-05-21
+ACC000052,Wood White Group,52,Real Estate,Enterprise,193 Enterprise Road,London,Greater London,EC99 4DP,Prospect,3055087,100,2023-08-25
+ACC000053,Clark Hill Ltd,53,Hospitality,SMB,64 Technology Park,Southampton,Hampshire,SO16 8RE,Prospect,4191349,50,2023-03-13
+ACC000054,King Morgan Associates,54,Recruitment,SMB,157 Enterprise Road,Cambridge,Cambridgeshire,CB93 9TP,Customer,187718024,1000,2024-12-07
+ACC000055,City Hospital NHS Trust,55,NHS Trust,Public Sector,116 Park Lane,Oxford,Oxfordshire,OX97 5HX,Partner,412036549,500,2023-11-15
+ACC000056,Morris White Partners,56,Recruitment,SMB,20 Innovation Drive,Cambridge,Cambridgeshire,CB37 6HJ,Customer,361460822,5000,2022-01-25
+ACC000057,Lee Davies Group,57,Construction,Enterprise,60 Queens Road,Glasgow,Scotland,G89 4EZ,Customer,128769169,250,2024-01-17
+ACC000058,Turner Turner Associates,58,Healthcare,Public Sector,120 Queens Road,Southampton,Hampshire,SO8 7GP,Partner,413133505,5000,2023-05-07
+ACC000059,Baker Jackson Holdings,59,Legal Services,Enterprise,91 Park Lane,London,Greater London,EC97 9NP,Customer,152269775,250,2020-04-21
+ACC000060,Morgan Thompson Holdings,60,Media & Entertainment,Enterprise,70 Queens Road,Liverpool,Merseyside,L63 6AN,Prospect,187915107,500,2020-04-15
+ACC000061,Roberts Networks Ltd,61,MSP,Partner,137 High Street,Coventry,West Midlands,CV51 1VV,Partner,5197514,5,2021-05-23
+ACC000062,Martin Thomas Holdings,62,Financial Services,SMB,13 Park Lane,Edinburgh,Scotland,EH49 8LG,Customer,466798463,5000,2022-05-28
+ACC000063,Harris Jackson Partners,63,Construction,Enterprise,65 Enterprise Road,Reading,Berkshire,RG11 9SA,Customer,89319384,500,2020-12-21
+ACC000064,Clarke Thompson and Co,64,Healthcare,Enterprise,200 Business Park,Birmingham,West Midlands,B6 4AH,Customer,382413569,2500,2020-05-25
+ACC000065,Johnson White Group,65,Legal Services,Enterprise,172 Station Road,Oxford,Oxfordshire,OX73 5GR,Customer,492699683,1000,2024-08-19
+ACC000066,Roberts Tech Group,66,Telecommunications,Partner,200 Enterprise Road,Leeds,West Yorkshire,LS21 1KD,Customer,197833330,5000,2021-07-11
+ACC000067,Baker Jackson Services,67,Construction,SMB,20 The Green,Bristol,Avon,BS89 2XH,Customer,1632210,10,2023-10-12
+ACC000068,Morgan Evans International,68,Construction,SMB,89 Market Street,Manchester,Greater Manchester,M55 2YM,Partner,44222061,100,2021-07-23
+ACC000069,Harris Smith Services,69,Insurance,Enterprise,28 Queens Road,Oxford,Oxfordshire,OX47 3XR,Customer,2798193,25,2022-04-23
+ACC000070,Walker Clark and Co,70,Central Government,Public Sector,158 Commerce Way,Sheffield,South Yorkshire,S69 7SR,Customer,41117467,5000,2024-11-06
+ACC000071,Lewis White PLC,71,Professional Services,SMB,116 Church Road,Sheffield,South Yorkshire,S97 7RV,Prospect,7516216,5,2021-02-20
+ACC000072,Jones Morris Associates,72,Transport & Logistics,SMB,125 Church Road,Edinburgh,Scotland,EH46 5JL,Customer,9341545,5,2023-02-05
+ACC000073,King Smith UK,73,Professional Services,SMB,22 Church Road,Bristol,Avon,BS93 9PS,Customer,228064677,2500,2022-08-25
+ACC000074,Ward Morris Holdings,74,Manufacturing,SMB,24 Park Lane,London,Greater London,EC29 4NZ,Prospect,101234564,2500,2024-08-07
+ACC000075,Harrison Patel Holdings,75,Construction,SMB,136 Victoria Road,Southampton,Hampshire,SO55 6UL,Customer,5677416,100,2024-04-11
+ACC000076,Edwards Hall Partners,76,Charity,SMB,31 Innovation Drive,Liverpool,Merseyside,L25 9LD,Prospect,383616334,2500,2022-03-01
+ACC000077,Wright Robinson LLP,77,Hospitality,SMB,71 Innovation Drive,Oxford,Oxfordshire,OX76 5TW,Customer,287367836,2500,2020-02-01
+ACC000078,Wright Green Solutions,78,Financial Services,Enterprise,46 Park Lane,Cardiff,Wales,CF2 3ZU,Prospect,184439199,500,2024-10-10
+ACC000079,Williams Brown UK,79,Professional Services,SMB,179 Mill Lane,Newcastle,Tyne and Wear,NE82 1SD,Customer,4921419,10,2024-03-09
+ACC000080,Ward Ward Holdings,80,Professional Services,Enterprise,48 High Street,Nottingham,Nottinghamshire,NG33 2SD,Customer,6114016,25,2022-06-01
+ACC000081,Morris Communications Group,81,MSP,Partner,39 Mill Lane,Manchester,Greater Manchester,M73 4KC,Prospect,176352234,1000,2022-10-16
+ACC000082,Academy of Reading,82,Education,Public Sector,153 Commerce Way,Coventry,West Midlands,CV80 7HT,Customer,1339197,50,2021-12-08
+ACC000083,St Marys Hospital NHS Trust,83,NHS Trust,Public Sector,151 Queens Road,Newcastle,Tyne and Wear,NE40 1VW,Customer,6498231,100,2022-01-05
+ACC000084,Robinson Robinson Partners,84,Financial Services,Enterprise,41 Church Road,Birmingham,West Midlands,B23 3UC,Customer,3960745,100,2024-06-30
+ACC000085,Turner Cooper LLP,85,Legal Services,SMB,121 Park Lane,Coventry,West Midlands,CV5 5HK,Customer,170857076,2500,2020-03-09
+ACC000086,Taylor Thompson Partners,86,Charity,SMB,170 Commerce Way,Milton Keynes,Buckinghamshire,MK26 9PD,Customer,9006224,100,2021-07-12
+ACC000087,Johnson Edwards Group,87,Technology,Enterprise,16 Mill Lane,Birmingham,West Midlands,B40 5WV,Partner,45887316,100,2024-09-28
+ACC000088,Royal Hospital NHS Trust,88,NHS Trust,Public Sector,177 Park Lane,Cambridge,Cambridgeshire,CB90 9NJ,Partner,39729163,100,2024-08-11
+ACC000089,Morris Cooper PLC,89,Media & Entertainment,Enterprise,11 Technology Park,Coventry,West Midlands,CV56 5LW,Prospect,5169909,50,2020-08-26
+ACC000090,Davies Thompson and Co,90,Legal Services,Enterprise,151 High Street,Milton Keynes,Buckinghamshire,MK98 1YJ,Prospect,109592645,5000,2023-04-17
+ACC000091,Ward Clark and Co,91,Hospitality,SMB,72 Mill Lane,Cambridge,Cambridgeshire,CB75 8PX,Customer,68322886,5000,2022-06-29
+ACC000092,Ward Clarke Services,92,Financial Services,SMB,83 Business Park,Nottingham,Nottinghamshire,NG14 7FL,Customer,132062265,500,2023-09-19
+ACC000093,Green Wood UK,93,Real Estate,Enterprise,117 Station Road,Manchester,Greater Manchester,M41 2JL,Customer,450505056,5000,2021-02-28
+ACC000094,Moore Communications Group,94,MSP,Partner,119 Queens Road,Southampton,Hampshire,SO7 6GT,Customer,3027575,5,2023-09-15
+ACC000095,Cooper Brown Solutions,95,Real Estate,Enterprise,141 Mill Lane,Sheffield,South Yorkshire,S37 8RZ,Prospect,8926250,5,2024-03-07
+ACC000096,University of Coventry,96,Education,Public Sector,182 Mill Lane,Liverpool,Merseyside,L40 9UA,Partner,5160517,50,2023-08-10
+ACC000097,Birmingham Borough Council,97,Local Government,Public Sector,119 Station Road,Leeds,West Yorkshire,LS83 5ES,Customer,2588628,5,2020-09-15
+ACC000098,Edwards Turner Holdings,98,Insurance,Enterprise,63 Kings Road,Oxford,Oxfordshire,OX71 4EN,Partner,7317547,5,2024-06-12
+ACC000099,Thomas Taylor Partners,99,Insurance,Enterprise,88 Technology Park,Reading,Berkshire,RG65 5JA,Customer,131735184,5000,2022-05-01
+ACC000100,Harrison Harrison and Co,100,Construction,SMB,39 Kings Road,Oxford,Oxfordshire,OX69 6SM,Customer,34487966,500,2020-07-09
+ACC000101,Jackson Hill Associates,101,Media & Entertainment,Enterprise,179 Church Road,Bristol,Avon,BS74 7NH,Customer,225551207,1000,2024-11-24
+ACC000102,Lewis Ward LLP,102,Healthcare,SMB,99 Business Park,Belfast,Northern Ireland,BT84 1ES,Customer,88070129,10000,2022-09-14
+ACC000103,Academy of Milton Keynes,103,Education,Enterprise,26 Enterprise Road,Nottingham,Nottinghamshire,NG57 8DT,Partner,174704822,500,2023-06-01
+ACC000104,Johnson Turner and Co,104,Legal Services,SMB,20 Kings Road,Glasgow,Scotland,G34 7LW,Customer,309041322,10000,2022-03-31
+ACC000105,Harris Lee Services,105,Financial Services,SMB,161 Innovation Drive,Nottingham,Nottinghamshire,NG98 1SU,Customer,2740889,25,2021-09-30
+ACC000106,White Green Solutions,106,Healthcare,Public Sector,112 Station Road,Birmingham,West Midlands,B98 2XZ,Customer,83042050,5000,2023-09-17
+ACC000107,City Hospital NHS Trust,107,NHS Trust,Public Sector,8 High Street,Newcastle,Tyne and Wear,NE42 6BK,Customer,369115457,10000,2023-04-29
+ACC000108,Martin Telecom Ltd,108,Telecommunications,Partner,106 The Green,Brighton,East Sussex,BN88 3FF,Customer,415255757,1000,2021-08-15
+ACC000109,Jackson White Holdings,109,Financial Services,SMB,37 Church Road,Milton Keynes,Buckinghamshire,MK60 8XJ,Customer,1309226,50,2024-10-30
+ACC000110,Smith Hill Partners,110,Manufacturing,Enterprise,41 Station Road,Southampton,Hampshire,SO57 5MV,Prospect,87716147,500,2022-04-09
+ACC000111,Hughes Hill Partners,111,Central Government,Public Sector,99 Enterprise Road,Bristol,Avon,BS62 7DH,Prospect,9979620,50,2022-12-09
+ACC000112,Baker Green LLP,112,Transport & Logistics,Enterprise,6 Enterprise Road,Newcastle,Tyne and Wear,NE85 1NJ,Partner,8655575,10,2024-05-08
+ACC000113,Morgan Morris Partners,113,Healthcare,Enterprise,156 Commerce Way,Liverpool,Merseyside,L46 4HX,Customer,413137477,10000,2020-06-03
+ACC000114,Thomas Wilson and Co,114,Manufacturing,Enterprise,80 Commerce Way,Manchester,Greater Manchester,M57 6BV,Customer,7477995,5,2022-08-18
+ACC000115,University of Newcastle,115,Education,Enterprise,192 Queens Road,Nottingham,Nottinghamshire,NG23 9GE,Customer,1054456,25,2024-08-30
+ACC000116,Clark Tech Partners,116,Telecommunications,Partner,66 Technology Park,Edinburgh,Scotland,EH62 2KL,Partner,354952571,500,2021-10-20
+ACC000117,Taylor Johnson Solutions,117,Charity,SMB,143 Victoria Road,Belfast,Northern Ireland,BT12 5NA,Customer,26014270,500,2023-12-20
+ACC000118,Evans Hill Associates,118,Media & Entertainment,Enterprise,150 Queens Road,Sheffield,South Yorkshire,S82 4MD,Partner,978547,25,2020-05-14
+ACC000119,Jones King Associates,119,Real Estate,SMB,57 Business Park,Coventry,West Midlands,CV9 5XR,Customer,5969018,25,2023-09-05
+ACC000120,Leeds Borough Council,120,Local Government,Public Sector,10 Park Lane,Manchester,Greater Manchester,M64 4DD,Customer,189883001,500,2023-08-16
+ACC000121,Thomas Jackson Holdings,121,Media & Entertainment,Enterprise,172 Innovation Drive,Cardiff,Wales,CF90 3UP,Customer,78854839,500,2020-06-07
+ACC000122,Leeds County Council,122,Local Government,Public Sector,105 Park Lane,Coventry,West Midlands,CV5 4ZM,Partner,207249940,500,2020-11-28
+ACC000123,St Marys Hospital NHS Trust,123,NHS Trust,Public Sector,93 Station Road,Liverpool,Merseyside,L88 6MU,Prospect,4880297,50,2021-04-24
+ACC000124,Wood Edwards Solutions,124,Healthcare,Enterprise,117 Station Road,Leeds,West Yorkshire,LS85 1GX,Partner,229766817,500,2024-07-30
+ACC000125,Harris White Group,125,Healthcare,Enterprise,53 Station Road,Milton Keynes,Buckinghamshire,MK98 4UG,Partner,461966294,250,2021-08-06
+ACC000126,Harris Johnson International,126,Technology,Enterprise,71 Enterprise Road,London,Greater London,EC19 5EU,Customer,7060815,5,2022-03-22
+ACC000127,Evans Jones Group,127,Hospitality,SMB,92 Commerce Way,London,Greater London,EC31 1VL,Customer,2550300,10,2020-03-19
+ACC000128,Hughes Brown Group,128,Hospitality,SMB,135 Station Road,Reading,Berkshire,RG96 8CS,Customer,120778757,500,2023-01-28
+ACC000129,Moore Tech Ltd,129,Telecommunications,Partner,129 Church Road,Cambridge,Cambridgeshire,CB79 9BY,Customer,122696060,5000,2020-05-08
+ACC000130,Hill Jones Ltd,130,Construction,SMB,103 Queens Road,Oxford,Oxfordshire,OX88 8DS,Customer,235445876,250,2023-06-13
+ACC000131,Davies Lewis International,131,Healthcare,Public Sector,17 Mill Lane,Glasgow,Scotland,G36 9WX,Partner,277369483,5000,2023-02-08
+ACC000132,Jackson Morgan UK,132,Construction,Enterprise,117 Market Street,Newcastle,Tyne and Wear,NE78 2PD,Customer,4145421,5,2024-04-29
+ACC000133,Martin Cooper Solutions,133,Technology,SMB,87 Enterprise Road,Reading,Berkshire,RG59 2NP,Prospect,3158117,10,2020-05-09
+ACC000134,Martin Lewis and Co,134,Construction,Enterprise,96 Mill Lane,Sheffield,South Yorkshire,S88 2SC,Prospect,155768692,5000,2021-06-02
+ACC000135,Davies Martin PLC,135,Financial Services,SMB,34 Market Street,Cardiff,Wales,CF8 9VU,Customer,239586485,2500,2024-03-02
+ACC000136,Evans Turner Associates,136,Transport & Logistics,SMB,185 High Street,Reading,Berkshire,RG37 6WK,Prospect,1424175,50,2023-05-18
+ACC000137,Baker Moore Solutions,137,Financial Services,Enterprise,169 Kings Road,Glasgow,Scotland,G29 9DM,Partner,48661542,100,2020-12-07
+ACC000138,Evans IT Solutions Group,138,Telecommunications,Partner,110 Enterprise Road,Liverpool,Merseyside,L72 9WW,Customer,30143709,5000,2022-01-14
+ACC000139,Morgan Edwards Ltd,139,Legal Services,Enterprise,70 Innovation Drive,Edinburgh,Scotland,EH98 6KL,Customer,6175878,50,2023-03-07
+ACC000140,Walker Johnson International,140,Legal Services,SMB,18 Mill Lane,Belfast,Northern Ireland,BT95 2XA,Partner,202004753,2500,2021-10-05
+ACC000141,Robinson Jackson Services,141,Recruitment,SMB,88 Mill Lane,Cambridge,Cambridgeshire,CB48 2KL,Customer,4466937,50,2021-03-15
+ACC000142,Johnson Roberts International,142,Healthcare,Enterprise,173 Station Road,Manchester,Greater Manchester,M35 7RY,Customer,440140968,10000,2024-09-27
+ACC000143,Morgan Cooper Services,143,Real Estate,Enterprise,56 Commerce Way,Sheffield,South Yorkshire,S66 7DM,Customer,6164832,100,2021-04-04
+ACC000144,College of Milton Keynes,144,Education,Public Sector,135 Business Park,Oxford,Oxfordshire,OX40 7BH,Customer,333537272,250,2020-05-14
+ACC000145,Smith Robinson Partners,145,Healthcare,Enterprise,197 Mill Lane,Bristol,Avon,BS98 6JK,Customer,246578217,2500,2023-10-24
+ACC000146,University of Oxford,146,Education,Public Sector,45 Mill Lane,Reading,Berkshire,RG49 4UZ,Partner,2667173,25,2020-12-03
+ACC000147,King Clarke PLC,147,Insurance,Enterprise,190 High Street,Belfast,Northern Ireland,BT56 2AR,Partner,4704524,10,2023-07-04
+ACC000148,Baker Martin International,148,Construction,Enterprise,182 Business Park,Belfast,Northern Ireland,BT54 7KD,Customer,48606188,250,2023-08-06
+ACC000149,Lewis Roberts International,149,Legal Services,Enterprise,177 Technology Park,Cambridge,Cambridgeshire,CB47 2CP,Partner,19939535,50,2022-09-16
+ACC000150,Martin Harrison Services,150,Manufacturing,SMB,21 Queens Road,Brighton,East Sussex,BN40 6LH,Prospect,139990173,5000,2021-02-21
+ACC000151,Taylor Moore and Co,151,Retail,Enterprise,136 Market Street,Leeds,West Yorkshire,LS25 3MM,Partner,1881470,25,2021-05-10
+ACC000152,Wilson Johnson Partners,152,Manufacturing,SMB,45 The Green,Bristol,Avon,BS20 3XC,Customer,2779315,25,2023-03-29
+ACC000153,Hill Baker International,153,Real Estate,Enterprise,175 Technology Park,Cambridge,Cambridgeshire,CB73 6XX,Prospect,16221341,500,2022-03-16
+ACC000154,Johnson Cooper PLC,154,Construction,Enterprise,114 Business Park,Oxford,Oxfordshire,OX39 1JV,Prospect,4894062,100,2020-01-17
+ACC000155,Moore Taylor Partners,155,Transport & Logistics,Enterprise,116 High Street,Cambridge,Cambridgeshire,CB8 2MK,Partner,109504769,1000,2023-02-07
+ACC000156,Morgan Moore Services,156,Financial Services,SMB,149 Market Street,Cambridge,Cambridgeshire,CB95 4BR,Prospect,205359330,1000,2023-02-16
+ACC000157,Morgan Ward UK,157,Construction,Enterprise,16 Kings Road,Glasgow,Scotland,G14 2LZ,Customer,436625882,2500,2022-11-29
+ACC000158,Walker Williams Solutions,158,Insurance,Enterprise,113 Market Street,Cambridge,Cambridgeshire,CB67 6WF,Partner,5743410,100,2024-08-23
+ACC000159,Green Networks Partners,159,Telecommunications,Partner,174 The Green,Nottingham,Nottinghamshire,NG7 6XX,Prospect,9892896,25,2024-06-19
+ACC000160,Harris Wilson UK,160,Healthcare,Public Sector,73 Park Lane,Belfast,Northern Ireland,BT93 3YW,Prospect,55771483,5000,2020-10-29
+ACC000161,Davies Harrison and Co,161,Transport & Logistics,SMB,90 Park Lane,Glasgow,Scotland,G84 7ZY,Partner,28213283,25,2022-04-20
+ACC000162,Academy of Birmingham,162,Education,Enterprise,144 Queens Road,Newcastle,Tyne and Wear,NE83 9LE,Prospect,8916043,50,2021-10-04
+ACC000163,Martin Moore Associates,163,Financial Services,SMB,93 Park Lane,London,Greater London,EC24 8GL,Customer,9463140,25,2021-04-05
+ACC000164,Thompson Thomas Group,164,Hospitality,Enterprise,76 Enterprise Road,Birmingham,West Midlands,B13 9TU,Customer,159505744,250,2023-03-20
+ACC000165,Harris Thomas International,165,Healthcare,SMB,40 Mill Lane,Belfast,Northern Ireland,BT24 3ZW,Customer,190952495,2500,2023-09-05
+ACC000166,Royal Hospital NHS Trust,166,NHS Trust,Public Sector,94 Business Park,Reading,Berkshire,RG93 5HR,Customer,4167770,5,2023-10-03
+ACC000167,City Hospital NHS Trust,167,NHS Trust,Public Sector,62 Park Lane,Southampton,Hampshire,SO61 8GM,Customer,186930,100,2020-11-19
+ACC000168,Green Jackson UK,168,Charity,SMB,108 Mill Lane,Brighton,East Sussex,BN26 5WE,Customer,355200214,5000,2021-04-20
+ACC000169,Ward Patel UK,169,Healthcare,Enterprise,183 Enterprise Road,Leeds,West Yorkshire,LS67 2DK,Customer,475697906,250,2020-01-19
+ACC000170,Edwards Cooper UK,170,Retail,Enterprise,112 Station Road,Glasgow,Scotland,G29 1RM,Customer,108514831,250,2021-11-08
+ACC000171,Manchester County Council,171,Local Government,Public Sector,96 Church Road,Brighton,East Sussex,BN50 4CM,Customer,3044316,100,2024-10-19
+ACC000172,Lewis Wilson LLP,172,Legal Services,Enterprise,38 Mill Lane,Nottingham,Nottinghamshire,NG5 3KS,Prospect,5529135,10,2020-01-14
+ACC000173,Cooper Smith PLC,173,Real Estate,SMB,66 Church Road,London,Greater London,EC20 9UW,Customer,2083483,50,2021-09-20
+ACC000174,Evans Green Solutions,174,Central Government,Public Sector,32 High Street,Newcastle,Tyne and Wear,NE31 8PX,Prospect,2670027,50,2024-03-11
+ACC000175,Evans Morris International,175,Healthcare,Public Sector,5 Business Park,Southampton,Hampshire,SO66 3VH,Customer,287129237,2500,2022-12-17
+ACC000176,Martin Smith International,176,Professional Services,Enterprise,62 The Green,Cardiff,Wales,CF54 2FY,Customer,149678118,5000,2020-08-26
+ACC000177,Patel Taylor UK,177,Recruitment,SMB,130 Commerce Way,Southampton,Hampshire,SO65 7UA,Partner,228029369,2500,2023-02-28
+ACC000178,Williams Jackson Associates,178,Real Estate,SMB,192 High Street,Sheffield,South Yorkshire,S46 4CM,Customer,29314777,2500,2021-12-06
+ACC000179,Harrison Harris Group,179,Financial Services,Enterprise,91 Market Street,Manchester,Greater Manchester,M44 8XF,Customer,182208055,5000,2022-02-05
+ACC000180,Walker Thomas PLC,180,Real Estate,SMB,10 Park Lane,Cambridge,Cambridgeshire,CB26 1BG,Partner,6694429,100,2020-09-17
+ACC000181,Hall Moore Services,181,Construction,Enterprise,122 Park Lane,Southampton,Hampshire,SO5 5XG,Prospect,71649978,1000,2022-08-01
+ACC000182,Brown Harris Partners,182,Transport & Logistics,Enterprise,95 Queens Road,Leeds,West Yorkshire,LS52 6RN,Customer,59168509,5000,2020-03-09
+ACC000183,Morris Morris Associates,183,Hospitality,SMB,69 Commerce Way,Brighton,East Sussex,BN11 7PC,Customer,1046973,10,2022-10-28
+ACC000184,Lee Green Associates,184,Hospitality,SMB,21 Victoria Road,Leeds,West Yorkshire,LS85 8KK,Partner,123671419,2500,2021-09-07
+ACC000185,Roberts Cooper Associates,185,Central Government,Public Sector,11 Innovation Drive,Cambridge,Cambridgeshire,CB46 5WP,Prospect,8899030,25,2023-11-27
+ACC000186,Taylor Wood Associates,186,Healthcare,Enterprise,192 Business Park,Brighton,East Sussex,BN21 8AE,Customer,437597783,2500,2020-04-28
+ACC000187,Thomas Taylor Solutions,187,Healthcare,SMB,93 Queens Road,Cardiff,Wales,CF73 3BW,Customer,246477460,1000,2020-07-08
+ACC000188,County Hospital NHS Trust,188,NHS Trust,Public Sector,114 Commerce Way,Cardiff,Wales,CF10 9VE,Partner,121509858,2500,2021-03-03
+ACC000189,Wood IT Solutions Group,189,Telecommunications,Partner,64 Station Road,Sheffield,South Yorkshire,S4 9FS,Partner,3531161,50,2021-05-05
+ACC000190,King Communications Partners,190,IT Reseller,Partner,181 Kings Road,Sheffield,South Yorkshire,S28 8WK,Prospect,255184031,250,2024-07-02
+ACC000191,Evans Thomas PLC,191,Hospitality,Enterprise,45 Technology Park,Cambridge,Cambridgeshire,CB92 6RC,Customer,14353996,2500,2023-02-07
+ACC000192,Taylor King UK,192,Transport & Logistics,Enterprise,77 Enterprise Road,Newcastle,Tyne and Wear,NE21 3ZZ,Prospect,9338248,25,2021-06-11
+ACC000193,Moore Telecom Ltd,193,Telecommunications,Partner,36 Church Road,Bristol,Avon,BS64 9AM,Partner,36882188,10,2022-12-09
+ACC000194,Hill Tech Ltd,194,Telecommunications,Partner,23 Station Road,Coventry,West Midlands,CV40 8NZ,Customer,9907786,500,2022-11-01
+ACC000195,Turner Turner International,195,Recruitment,SMB,33 Victoria Road,Birmingham,West Midlands,B83 8CR,Prospect,298826,5,2022-12-20
+ACC000196,Clarke Thomas UK,196,Recruitment,SMB,47 Commerce Way,Milton Keynes,Buckinghamshire,MK17 1PT,Customer,150763634,1000,2021-05-08
+ACC000197,Academy of Glasgow,197,Education,Public Sector,43 Mill Lane,Newcastle,Tyne and Wear,NE42 6ZH,Partner,135571243,10000,2021-04-07
+ACC000198,Green Davies Partners,198,Recruitment,SMB,163 Market Street,Bristol,Avon,BS36 5EX,Customer,382337118,500,2020-06-18
+ACC000199,Davies Moore and Co,199,Media & Entertainment,Enterprise,152 The Green,Edinburgh,Scotland,EH20 6FY,Partner,260282273,1000,2020-04-05
+ACC000200,Jones Davies Ltd,200,Healthcare,SMB,68 Business Park,Milton Keynes,Buckinghamshire,MK27 1VP,Partner,2519132,50,2020-06-06
+ACC000201,Lee Green and Co,201,Real Estate,Enterprise,124 Church Road,Newcastle,Tyne and Wear,NE88 8NK,Partner,405213940,1000,2020-04-19
+ACC000202,Brown Roberts Holdings,202,Healthcare,Public Sector,124 Kings Road,Reading,Berkshire,RG27 3LW,Prospect,268390725,500,2021-12-29
+ACC000203,Lewis Clarke Services,203,Construction,Enterprise,195 Victoria Road,Glasgow,Scotland,G66 6UD,Customer,49043822,1000,2020-11-11
+ACC000204,Hill Evans Partners,204,Manufacturing,SMB,64 Mill Lane,Cambridge,Cambridgeshire,CB13 7BK,Customer,7561429,25,2024-04-08
+ACC000205,Liverpool Borough Council,205,Local Government,Public Sector,148 Innovation Drive,Nottingham,Nottinghamshire,NG41 8GF,Customer,9398265,5,2023-05-07
+ACC000206,Hill Morris Partners,206,Insurance,Enterprise,6 Station Road,Oxford,Oxfordshire,OX51 4TR,Partner,96044139,10000,2022-02-18
+ACC000207,Harrison Clarke Ltd,207,Technology,SMB,73 Kings Road,Manchester,Greater Manchester,M77 8XY,Customer,8224053,5,2022-01-09
+ACC000208,Lee Smith PLC,208,Professional Services,Enterprise,35 Technology Park,Reading,Berkshire,RG34 6MN,Customer,6738609,25,2024-09-19
+ACC000209,Wood Brown International,209,Healthcare,SMB,50 Victoria Road,Southampton,Hampshire,SO71 7KC,Customer,262166397,1000,2020-12-29
+ACC000210,Cooper King Partners,210,Insurance,Enterprise,175 The Green,Coventry,West Midlands,CV16 7ED,Customer,2010720,100,2021-02-13
+ACC000211,Harris Tech Partners,211,Telecommunications,Partner,51 The Green,Glasgow,Scotland,G66 1NT,Customer,6964256,50,2020-10-12
+ACC000212,Williams Thomas LLP,212,Healthcare,SMB,122 Market Street,Nottingham,Nottinghamshire,NG59 9EW,Partner,6824393,100,2022-11-03
+ACC000213,College of Coventry,213,Education,Enterprise,42 Queens Road,Nottingham,Nottinghamshire,NG79 6KV,Customer,54651148,500,2023-02-27
+ACC000214,Moore Lee Holdings,214,Insurance,Enterprise,77 Kings Road,Milton Keynes,Buckinghamshire,MK3 2ML,Partner,9461576,100,2023-11-09
+ACC000215,Milton Keynes City Council,215,Local Government,Public Sector,153 Kings Road,London,Greater London,EC34 4XV,Customer,5056530,50,2020-06-24
+ACC000216,Harrison Ward Group,216,Healthcare,Enterprise,162 Innovation Drive,Brighton,East Sussex,BN80 4NE,Customer,260637813,250,2022-06-16
+ACC000217,Baker Evans Solutions,217,Healthcare,SMB,113 Victoria Road,London,Greater London,EC54 4EP,Customer,191768205,1000,2024-02-25
+ACC000218,Brighton County Council,218,Local Government,Public Sector,181 Mill Lane,Manchester,Greater Manchester,M67 6GU,Customer,60032858,5000,2022-03-21
+ACC000219,Clark Jackson Associates,219,Real Estate,SMB,118 Technology Park,Edinburgh,Scotland,EH69 6LU,Customer,9786290,5,2024-06-25
+ACC000220,Ward Wright Solutions,220,Manufacturing,Enterprise,143 Park Lane,Sheffield,South Yorkshire,S29 4KK,Customer,325496273,2500,2023-06-05
+ACC000221,Lewis Ward Associates,221,Real Estate,Enterprise,185 Park Lane,Southampton,Hampshire,SO37 9DV,Customer,2347270,25,2020-08-29
+ACC000222,Wood IT Solutions Ltd,222,IT Reseller,Partner,11 Park Lane,Newcastle,Tyne and Wear,NE92 8CM,Partner,113001359,5000,2021-01-15
+ACC000223,Ward Robinson Solutions,223,Manufacturing,Enterprise,70 Technology Park,Southampton,Hampshire,SO72 3ZJ,Prospect,337543203,250,2024-11-07
+ACC000224,Harrison White Solutions,224,Financial Services,Enterprise,172 Technology Park,Manchester,Greater Manchester,M68 4HX,Prospect,372593726,2500,2022-05-01
+ACC000225,Wilson Turner Associates,225,Healthcare,Enterprise,26 Business Park,Oxford,Oxfordshire,OX99 9EA,Customer,70355945,2500,2020-12-10
+ACC000226,Turner Ward Holdings,226,Retail,Enterprise,194 Park Lane,Bristol,Avon,BS42 1KX,Partner,36875915,10,2024-04-05
+ACC000227,Baker Thompson UK,227,Financial Services,SMB,45 Queens Road,Manchester,Greater Manchester,M23 8BN,Prospect,80548924,2500,2024-10-31
+ACC000228,Green Williams Ltd,228,Hospitality,SMB,146 The Green,Newcastle,Tyne and Wear,NE14 8LK,Partner,14366010,25,2024-07-07
+ACC000229,Clark Morris Group,229,Media & Entertainment,Enterprise,120 Park Lane,Brighton,East Sussex,BN25 3DL,Customer,465644287,5000,2023-10-23
+ACC000230,Hughes Walker Ltd,230,Charity,SMB,76 The Green,Nottingham,Nottinghamshire,NG87 7GF,Partner,17113117,100,2022-09-29
+ACC000231,Moore Lewis PLC,231,Central Government,Public Sector,172 Station Road,Belfast,Northern Ireland,BT24 6ES,Customer,196483080,2500,2022-07-20
+ACC000232,Smith Hughes Services,232,Manufacturing,SMB,115 Commerce Way,Liverpool,Merseyside,L35 1LK,Prospect,447836708,500,2022-10-10
+ACC000233,Patel White Ltd,233,Manufacturing,Enterprise,120 Park Lane,Leeds,West Yorkshire,LS21 9NY,Customer,870794,5,2023-07-06
+ACC000234,Evans Green Associates,234,Construction,SMB,57 Church Road,Coventry,West Midlands,CV18 8SE,Partner,44120573,50,2020-11-21
+ACC000235,Turner Connect Group,235,Telecommunications,Partner,194 Market Street,Oxford,Oxfordshire,OX86 2GH,Customer,7301300,5,2023-12-12
+ACC000236,Cooper Clark LLP,236,Recruitment,SMB,20 Technology Park,Cardiff,Wales,CF73 9DB,Customer,443682070,250,2024-10-27
+ACC000237,Wright Baker UK,237,Insurance,Enterprise,43 Victoria Road,Glasgow,Scotland,G67 4RD,Customer,477977365,1000,2020-10-07
+ACC000238,Davies Moore Holdings,238,Real Estate,Enterprise,117 Mill Lane,Manchester,Greater Manchester,M66 1PR,Customer,2639636,50,2023-06-15
+ACC000239,Hall Jones Services,239,Charity,SMB,1 Innovation Drive,Sheffield,South Yorkshire,S28 1VC,Customer,429706048,500,2021-05-22
+ACC000240,Clarke Taylor UK,240,Central Government,Public Sector,18 Technology Park,Manchester,Greater Manchester,M61 7BK,Customer,8786388,100,2022-11-09
+ACC000241,Thomas Turner Associates,241,Hospitality,SMB,115 Enterprise Road,Belfast,Northern Ireland,BT49 9NC,Partner,43124279,5000,2024-12-25
+ACC000242,Academy of Cardiff,242,Education,Enterprise,46 Market Street,Leeds,West Yorkshire,LS51 4TE,Prospect,1324599,5,2023-04-17
+ACC000243,Jones Hall Holdings,243,Legal Services,SMB,109 Market Street,Southampton,Hampshire,SO49 8HH,Partner,7069792,50,2023-12-08
+ACC000244,Johnson Edwards Solutions,244,Transport & Logistics,Enterprise,9 Commerce Way,Leeds,West Yorkshire,LS85 1PW,Customer,2706795,100,2021-10-31
+ACC000245,Robinson Taylor PLC,245,Manufacturing,SMB,9 Kings Road,Coventry,West Midlands,CV77 1YZ,Customer,7389425,5,2022-07-17
+ACC000246,Williams Wood Holdings,246,Manufacturing,SMB,139 Church Road,Liverpool,Merseyside,L97 9BE,Customer,285786364,5000,2024-05-22
+ACC000247,Thompson Baker Associates,247,Professional Services,Enterprise,154 Commerce Way,Milton Keynes,Buckinghamshire,MK87 5LH,Partner,18752308,250,2020-05-10
+ACC000248,Clark Thompson Services,248,Retail,SMB,71 High Street,Newcastle,Tyne and Wear,NE72 7VF,Customer,6268777,10,2021-06-06
+ACC000249,Brown Clarke and Co,249,Real Estate,Enterprise,135 Victoria Road,Belfast,Northern Ireland,BT90 3PP,Partner,32159585,50,2022-02-23
+ACC000250,Jackson Walker UK,250,Construction,SMB,62 Enterprise Road,Oxford,Oxfordshire,OX29 3KZ,Customer,82815253,500,2023-03-16
+ACC000251,Brown King Services,251,Charity,SMB,143 Market Street,Reading,Berkshire,RG18 5NH,Customer,420284401,1000,2021-11-01
+ACC000252,Harris Davies Holdings,252,Technology,SMB,24 Market Street,Cardiff,Wales,CF93 5GB,Partner,8377218,10,2024-02-09
+ACC000253,Morgan Tech Ltd,253,IT Reseller,Partner,49 Commerce Way,Birmingham,West Midlands,B98 9VY,Customer,184861083,250,2024-04-03
+ACC000254,Ward Robinson Associates,254,Technology,SMB,4 Church Road,Newcastle,Tyne and Wear,NE25 4DS,Customer,387065513,1000,2020-07-09
+ACC000255,Wood White UK,255,Technology,SMB,199 Park Lane,Nottingham,Nottinghamshire,NG49 6RU,Partner,76679700,10000,2024-08-06
+ACC000256,Hughes Patel UK,256,Construction,SMB,120 Station Road,Oxford,Oxfordshire,OX93 4SL,Prospect,5573593,25,2022-07-16
+ACC000257,Lewis Networks Ltd,257,Telecommunications,Partner,57 Innovation Drive,Milton Keynes,Buckinghamshire,MK19 9AJ,Prospect,5368604,50,2020-09-04
+ACC000258,Newcastle Borough Council,258,Local Government,Public Sector,85 Church Road,Bristol,Avon,BS49 8VH,Customer,448662972,10000,2023-11-28
+ACC000259,Hughes Morris LLP,259,Transport & Logistics,SMB,118 Mill Lane,Oxford,Oxfordshire,OX94 3MF,Customer,144675983,500,2020-03-04
+ACC000260,Morris Walker UK,260,Media & Entertainment,Enterprise,135 High Street,Manchester,Greater Manchester,M10 1YB,Customer,3829376,10,2021-02-09
+ACC000261,Glasgow Borough Council,261,Local Government,Public Sector,182 Mill Lane,Birmingham,West Midlands,B2 8GT,Partner,9143054,10,2024-10-01
+ACC000262,Brown Tech Group,262,Telecommunications,Partner,124 Business Park,Coventry,West Midlands,CV63 9AA,Partner,26184537,100,2020-12-19
+ACC000263,London Council,263,Local Government,Public Sector,185 Park Lane,Brighton,East Sussex,BN69 9KA,Prospect,226186628,5000,2022-09-08
+ACC000264,Walker Wilson PLC,264,Central Government,Public Sector,39 Church Road,Brighton,East Sussex,BN25 5WT,Customer,262528622,5000,2024-05-19
+ACC000265,Edwards Wood PLC,265,Transport & Logistics,Enterprise,104 Kings Road,Cardiff,Wales,CF73 4HZ,Customer,20732174,1000,2020-04-29
+ACC000266,Davies Williams PLC,266,Construction,SMB,98 Queens Road,Belfast,Northern Ireland,BT71 1SB,Partner,15224462,250,2024-09-29
+ACC000267,Davies Morris Services,267,Retail,Enterprise,145 Enterprise Road,Nottingham,Nottinghamshire,NG13 4TB,Partner,38594438,250,2020-10-18
+ACC000268,Baker Ward Partners,268,Technology,SMB,20 Business Park,Manchester,Greater Manchester,M36 1UV,Partner,3771004,5,2022-12-14
+ACC000269,Lewis Jones Solutions,269,Hospitality,SMB,37 Commerce Way,Milton Keynes,Buckinghamshire,MK92 5NC,Partner,383330966,500,2024-05-04
+ACC000270,Baker White International,270,Retail,Enterprise,174 Technology Park,Belfast,Northern Ireland,BT70 3LN,Customer,78256928,500,2024-02-08
+ACC000271,Moore Clarke Ltd,271,Financial Services,SMB,112 Church Road,Leeds,West Yorkshire,LS10 7LW,Customer,73369635,500,2024-02-01
+ACC000272,Jones Edwards Holdings,272,Construction,Enterprise,59 Victoria Road,Oxford,Oxfordshire,OX71 3NP,Partner,1846679,50,2020-10-15
+ACC000273,Davies Tech Partners,273,IT Reseller,Partner,183 Station Road,Liverpool,Merseyside,L11 7JE,Customer,3617918,10,2023-11-20
+ACC000274,Jackson Lewis Associates,274,Retail,SMB,24 High Street,Leeds,West Yorkshire,LS40 5RM,Prospect,6453742,25,2023-01-23
+ACC000275,Thomas Davies Group,275,Financial Services,Enterprise,115 Market Street,Reading,Berkshire,RG72 2TP,Customer,436852,25,2021-06-18
+ACC000276,Davies Clarke UK,276,Legal Services,Enterprise,153 The Green,Birmingham,West Midlands,B42 5NA,Partner,484547149,2500,2023-12-13
+ACC000277,Belfast Council,277,Local Government,Public Sector,63 The Green,Southampton,Hampshire,SO67 7FY,Customer,3287406,50,2023-11-28
+ACC000278,Thomas Edwards Partners,278,Retail,Enterprise,127 Mill Lane,Sheffield,South Yorkshire,S9 5FP,Prospect,311966579,5000,2024-09-16
+ACC000279,Newcastle County Council,279,Local Government,Public Sector,93 Park Lane,Birmingham,West Midlands,B32 4XS,Customer,116107036,500,2023-07-31
+ACC000280,Wilson Thomas Partners,280,Charity,SMB,102 Victoria Road,London,Greater London,EC80 8NL,Partner,213052037,500,2022-01-29
+ACC000281,Martin Morgan Group,281,Transport & Logistics,SMB,83 The Green,Newcastle,Tyne and Wear,NE89 6GS,Customer,2635551,5,2020-06-24
+ACC000282,Wood Lewis Partners,282,Hospitality,SMB,148 Commerce Way,Oxford,Oxfordshire,OX32 5LN,Prospect,292502109,10000,2024-11-10
+ACC000283,Patel Communications Group,283,MSP,Partner,152 Market Street,Bristol,Avon,BS24 1YU,Partner,434738502,5000,2023-10-19
+ACC000284,Robinson Cooper Partners,284,Charity,SMB,105 Business Park,Birmingham,West Midlands,B64 5EX,Prospect,113404586,10000,2020-10-29
+ACC000285,Hughes Johnson LLP,285,Manufacturing,SMB,97 Station Road,Reading,Berkshire,RG58 7WS,Partner,1329720,250,2023-04-18
+ACC000286,Moore Turner UK,286,Media & Entertainment,Enterprise,93 Innovation Drive,Manchester,Greater Manchester,M69 2WX,Customer,6993590,25,2022-02-23
+ACC000287,White Clarke Group,287,Financial Services,Enterprise,12 The Green,Coventry,West Midlands,CV83 7YX,Prospect,750662,50,2024-12-26
+ACC000288,Martin Wilson Ltd,288,Transport & Logistics,SMB,67 Church Road,Leeds,West Yorkshire,LS66 4TU,Customer,8348001,5,2024-11-14
+ACC000289,County Hospital NHS Trust,289,NHS Trust,Public Sector,119 Commerce Way,Belfast,Northern Ireland,BT87 9VZ,Customer,60448603,5000,2021-03-08
+ACC000290,Clarke Jones Holdings,290,Retail,SMB,76 Queens Road,Leeds,West Yorkshire,LS11 6DE,Partner,9603305,250,2024-12-05
+ACC000291,Harris Hill Solutions,291,Construction,SMB,124 Victoria Road,Brighton,East Sussex,BN61 8DR,Customer,4696579,25,2024-08-13
+ACC000292,Taylor Hall Ltd,292,Construction,Enterprise,6 Enterprise Road,Leeds,West Yorkshire,LS44 3XD,Customer,8062169,100,2023-02-03
+ACC000293,Clark Walker UK,293,Manufacturing,SMB,85 Market Street,Edinburgh,Scotland,EH55 7RH,Customer,352559434,500,2023-10-19
+ACC000294,Walker Martin Services,294,Hospitality,SMB,189 The Green,London,Greater London,EC26 7RV,Partner,434961020,250,2021-04-03
+ACC000295,Smith Connect Ltd,295,IT Reseller,Partner,72 Commerce Way,Bristol,Avon,BS91 2CV,Prospect,5169153,100,2024-08-15
+ACC000296,Walker Patel Associates,296,Media & Entertainment,Enterprise,118 Station Road,Bristol,Avon,BS34 9YS,Customer,263631347,250,2021-11-19
+ACC000297,Morgan Jackson International,297,Construction,Enterprise,151 Station Road,Belfast,Northern Ireland,BT45 3MR,Customer,6879646,25,2023-10-26
+ACC000298,Harrison Davies and Co,298,Construction,SMB,81 Station Road,Glasgow,Scotland,G31 3KD,Partner,60979963,2500,2024-01-27
+ACC000299,Johnson Tech Partners,299,Telecommunications,Partner,153 Mill Lane,Reading,Berkshire,RG74 3NP,Customer,186527096,1000,2021-08-24
+ACC000300,Lee Walker UK,300,Real Estate,Enterprise,126 Park Lane,Edinburgh,Scotland,EH18 8FL,Customer,195741323,500,2024-03-04
+ACC000301,Clarke Smith Holdings,301,Healthcare,Enterprise,50 Enterprise Road,Glasgow,Scotland,G50 8UT,Partner,316553225,5000,2020-05-25
+ACC000302,Oxford County Council,302,Local Government,Public Sector,126 Mill Lane,Cambridge,Cambridgeshire,CB11 4VA,Customer,112533414,1000,2022-04-18
+ACC000303,Williams Edwards Solutions,303,Professional Services,Enterprise,74 Mill Lane,Southampton,Hampshire,SO59 9VS,Customer,5358215,5,2020-01-10
+ACC000304,Evans Baker PLC,304,Insurance,Enterprise,199 Market Street,Sheffield,South Yorkshire,S47 8UB,Prospect,7304299,50,2022-05-28
+ACC000305,Robinson Martin PLC,305,Media & Entertainment,Enterprise,77 Enterprise Road,Liverpool,Merseyside,L5 6RJ,Customer,368326394,250,2023-07-07
+ACC000306,Cooper Evans Solutions,306,Financial Services,SMB,189 The Green,Bristol,Avon,BS89 7MZ,Partner,168020084,2500,2020-12-08
+ACC000307,Thomas Robinson Solutions,307,Retail,Enterprise,146 Victoria Road,Manchester,Greater Manchester,M69 9JW,Customer,5850102,50,2022-01-05
+ACC000308,Lewis Green Partners,308,Retail,Enterprise,69 Enterprise Road,Milton Keynes,Buckinghamshire,MK66 3YD,Partner,8765260,50,2023-12-27
+ACC000309,Manchester City Council,309,Local Government,Public Sector,180 Enterprise Road,Glasgow,Scotland,G17 6HE,Customer,909249,5,2022-05-03
+ACC000310,Wood Morris Group,310,Manufacturing,SMB,162 Park Lane,Milton Keynes,Buckinghamshire,MK81 8PN,Customer,8829340,25,2023-06-29
+ACC000311,Davies Wood UK,311,Healthcare,Public Sector,178 Technology Park,Sheffield,South Yorkshire,S48 6RS,Customer,331955357,500,2024-05-12
+ACC000312,Davies Hill and Co,312,Legal Services,SMB,17 Commerce Way,Cardiff,Wales,CF69 7NG,Customer,8164202,25,2021-04-25
+ACC000313,Morris Edwards Associates,313,Technology,SMB,87 Market Street,Newcastle,Tyne and Wear,NE74 8EV,Customer,4393157,10,2022-07-24
+ACC000314,Brown Williams PLC,314,Transport & Logistics,SMB,5 Station Road,Cambridge,Cambridgeshire,CB21 1RR,Prospect,401500751,250,2020-07-13
+ACC000315,Wright Thomas and Co,315,Central Government,Public Sector,41 Enterprise Road,Newcastle,Tyne and Wear,NE36 6CX,Partner,49695357,10,2022-02-02
+ACC000316,Davies Patel and Co,316,Manufacturing,Enterprise,14 Queens Road,Edinburgh,Scotland,EH81 4KZ,Partner,8087097,25,2023-11-26
+ACC000317,Davies Wilson Ltd,317,Central Government,Public Sector,123 Station Road,Bristol,Avon,BS17 9VH,Prospect,106260662,500,2024-11-01
+ACC000318,Royal Hospital NHS Trust,318,NHS Trust,Public Sector,179 Victoria Road,London,Greater London,EC16 3PZ,Customer,145452338,10000,2021-10-05
+ACC000319,Taylor Thompson Services,319,Real Estate,SMB,188 Commerce Way,Birmingham,West Midlands,B14 6DL,Partner,1697897,50,2023-09-17
+ACC000320,Thomas Jackson Group,320,Construction,SMB,18 Market Street,Glasgow,Scotland,G73 3AW,Customer,182711026,1000,2022-11-01
+ACC000321,County Hospital NHS Trust,321,NHS Trust,Public Sector,161 Innovation Drive,Bristol,Avon,BS20 8PW,Partner,124564652,5000,2023-08-10
+ACC000322,Davies Wilson Group,322,Technology,SMB,151 Innovation Drive,Leeds,West Yorkshire,LS50 6MP,Customer,8444540,5,2020-07-29
+ACC000323,University of Sheffield,323,Education,Enterprise,64 Market Street,Birmingham,West Midlands,B77 5WW,Customer,7753898,25,2022-01-14
+ACC000324,Hall Robinson UK,324,Legal Services,Enterprise,131 Church Road,Coventry,West Midlands,CV96 1NK,Partner,7038887,25,2020-01-05
+ACC000325,Morris Jackson PLC,325,Manufacturing,SMB,128 Business Park,Liverpool,Merseyside,L77 1CT,Prospect,2456346,50,2020-08-07
+ACC000326,Lewis Telecom Partners,326,Telecommunications,Partner,108 Victoria Road,Milton Keynes,Buckinghamshire,MK70 8YF,Customer,9978611,5,2024-04-30
+ACC000327,Jones Harrison PLC,327,Healthcare,Public Sector,68 Church Road,London,Greater London,EC6 9BN,Partner,8202253,100,2024-05-18
+ACC000328,Moore Turner Services,328,Professional Services,Enterprise,22 Business Park,Belfast,Northern Ireland,BT69 3UW,Customer,4690177,50,2021-12-03
+ACC000329,Davies Hall PLC,329,Professional Services,SMB,53 Commerce Way,Brighton,East Sussex,BN20 7UL,Partner,344615567,500,2021-02-15
+ACC000330,Hall Martin LLP,330,Healthcare,Public Sector,15 Church Road,Liverpool,Merseyside,L12 8PD,Customer,386367718,250,2024-04-07
+ACC000331,Hall Walker PLC,331,Healthcare,Enterprise,182 Mill Lane,London,Greater London,EC90 8AF,Customer,285638525,250,2020-02-21
+ACC000332,Clark Clark LLP,332,Transport & Logistics,Enterprise,43 Victoria Road,Sheffield,South Yorkshire,S17 1JD,Customer,3522567,100,2020-03-07
+ACC000333,Martin Edwards UK,333,Transport & Logistics,SMB,68 Innovation Drive,Birmingham,West Midlands,B74 8XC,Partner,426071706,10000,2021-08-12
+ACC000334,Moore Patel Ltd,334,Charity,SMB,146 Mill Lane,Oxford,Oxfordshire,OX48 2FJ,Customer,176580760,5000,2024-08-26
+ACC000335,University of Brighton,335,Education,Public Sector,12 Enterprise Road,London,Greater London,EC2 8HB,Customer,193249841,500,2021-01-17
+ACC000336,Jackson Telecom Ltd,336,Telecommunications,Partner,142 Commerce Way,Manchester,Greater Manchester,M92 4XP,Partner,4378461,5,2021-11-07
+ACC000337,White Turner LLP,337,Construction,Enterprise,70 Enterprise Road,Nottingham,Nottinghamshire,NG10 2VM,Customer,8330079,100,2023-01-31
+ACC000338,Brown Walker Solutions,338,Insurance,Enterprise,12 Queens Road,Brighton,East Sussex,BN9 5RK,Prospect,296563939,5000,2022-04-06
+ACC000339,Davies King Holdings,339,Construction,Enterprise,95 Church Road,London,Greater London,EC38 4VK,Customer,2024714,25,2022-07-01
+ACC000340,Patel Harrison Holdings,340,Charity,SMB,188 Technology Park,Bristol,Avon,BS70 1HE,Partner,85921331,500,2022-11-24
+ACC000341,London Borough Council,341,Local Government,Public Sector,89 Business Park,Southampton,Hampshire,SO89 1AL,Partner,6939527,25,2024-05-02
+ACC000342,Hall Communications Ltd,342,IT Reseller,Partner,61 Queens Road,Brighton,East Sussex,BN63 5BE,Partner,449931053,10000,2024-12-04
+ACC000343,Williams Thompson UK,343,Financial Services,SMB,180 Technology Park,Reading,Berkshire,RG48 2RC,Customer,20170030,500,2020-05-30
+ACC000344,Thomas Wood PLC,344,Insurance,Enterprise,146 High Street,Milton Keynes,Buckinghamshire,MK56 4YE,Prospect,237478545,1000,2020-02-04
+ACC000345,Hughes Lewis Services,345,Professional Services,Enterprise,82 Kings Road,Nottingham,Nottinghamshire,NG35 4HC,Customer,8536204,5,2021-08-16
+ACC000346,Academy of Leeds,346,Education,Enterprise,28 Mill Lane,Glasgow,Scotland,G58 7RL,Partner,10990690,250,2021-03-26
+ACC000347,Academy of Cardiff,347,Education,Public Sector,116 Park Lane,Bristol,Avon,BS60 2JD,Partner,47949759,500,2020-03-26
+ACC000348,Hall Morgan Ltd,348,Retail,Enterprise,84 Mill Lane,Bristol,Avon,BS12 6ZH,Partner,2490000,10,2021-01-11
+ACC000349,Moore Communications Group,349,MSP,Partner,67 Enterprise Road,Newcastle,Tyne and Wear,NE23 8AN,Partner,29634597,2500,2023-10-07
+ACC000350,Wilson Hill PLC,350,Manufacturing,SMB,32 High Street,Glasgow,Scotland,G8 4HE,Partner,1271198,10,2021-10-12
+ACC000351,Patel Connect Group,351,MSP,Partner,150 The Green,Birmingham,West Midlands,B34 2CA,Customer,7594099,1000,2021-05-19
+ACC000352,Cooper Thomas PLC,352,Hospitality,Enterprise,32 High Street,Nottingham,Nottinghamshire,NG60 7BF,Partner,33180096,250,2020-08-10
+ACC000353,Morris Communications Partners,353,MSP,Partner,45 Victoria Road,Reading,Berkshire,RG28 5FJ,Partner,623352,100,2023-03-31
+ACC000354,City Hospital NHS Trust,354,NHS Trust,Public Sector,158 The Green,Manchester,Greater Manchester,M79 5HX,Customer,9991859,25,2020-10-01
+ACC000355,Turner King Holdings,355,Real Estate,Enterprise,23 Park Lane,Manchester,Greater Manchester,M50 4EP,Customer,8725782,10,2022-07-02
+ACC000356,White Lee Ltd,356,Recruitment,SMB,183 Victoria Road,Belfast,Northern Ireland,BT62 6US,Customer,1154635,25,2022-01-26
+ACC000357,Lewis Jackson Partners,357,Insurance,Enterprise,7 Victoria Road,Edinburgh,Scotland,EH77 5HA,Customer,37709253,2500,2024-09-05
+ACC000358,Ward Clark Associates,358,Healthcare,Enterprise,60 Mill Lane,Milton Keynes,Buckinghamshire,MK13 4HY,Customer,148690640,2500,2022-02-09
+ACC000359,Lee Brown Solutions,359,Professional Services,SMB,100 Victoria Road,Milton Keynes,Buckinghamshire,MK23 6FH,Prospect,54454474,1000,2020-06-06
+ACC000360,Harrison Jones LLP,360,Transport & Logistics,Enterprise,146 The Green,Cardiff,Wales,CF19 8VG,Prospect,5640252,5,2022-09-13
+ACC000361,Hall Walker Holdings,361,Media & Entertainment,Enterprise,24 High Street,Manchester,Greater Manchester,M30 1WH,Partner,323014231,500,2020-10-02
+ACC000362,Ward Smith Associates,362,Recruitment,SMB,52 Commerce Way,Coventry,West Midlands,CV17 3LZ,Partner,412392,25,2020-06-24
+ACC000363,Brown Jones Group,363,Construction,Enterprise,181 Technology Park,Milton Keynes,Buckinghamshire,MK19 6DT,Partner,359146225,5000,2021-06-25
+ACC000364,Patel Wood International,364,Healthcare,Public Sector,87 Park Lane,Leeds,West Yorkshire,LS42 7EF,Customer,377874,10,2022-12-06
+ACC000365,Lewis Walker LLP,365,Real Estate,Enterprise,178 Technology Park,Southampton,Hampshire,SO79 3MH,Customer,1663468,50,2023-09-12
+ACC000366,Hall Connect Group,366,IT Reseller,Partner,33 Mill Lane,Newcastle,Tyne and Wear,NE94 7AZ,Partner,125147071,1000,2024-07-01
+ACC000367,Walker Morgan Associates,367,Healthcare,SMB,57 Business Park,Coventry,West Midlands,CV73 3DS,Customer,493598354,250,2021-08-03
+ACC000368,Taylor White Associates,368,Transport & Logistics,SMB,43 Business Park,Nottingham,Nottinghamshire,NG12 6ZY,Customer,206342633,10000,2021-02-24
+ACC000369,Royal Hospital NHS Trust,369,NHS Trust,Public Sector,54 Church Road,Sheffield,South Yorkshire,S89 5CM,Prospect,161577513,2500,2023-06-07
+ACC000370,Smith Brown Services,370,Financial Services,Enterprise,188 Queens Road,Cambridge,Cambridgeshire,CB22 7PS,Prospect,4357682,25,2023-03-29
+ACC000371,Lee Jackson PLC,371,Transport & Logistics,Enterprise,148 Business Park,Oxford,Oxfordshire,OX98 3YH,Partner,220049499,1000,2024-06-28
+ACC000372,Royal Hospital NHS Trust,372,NHS Trust,Public Sector,76 High Street,Manchester,Greater Manchester,M41 2JD,Prospect,52320173,250,2021-06-22
+ACC000373,Roberts Jackson Group,373,Transport & Logistics,SMB,141 Technology Park,Birmingham,West Midlands,B12 8LW,Partner,25425114,1000,2023-08-04
+ACC000374,Martin Roberts International,374,Legal Services,Enterprise,41 High Street,Reading,Berkshire,RG13 4LG,Customer,335277610,500,2023-10-12
+ACC000375,Southampton City Council,375,Local Government,Public Sector,77 Church Road,Newcastle,Tyne and Wear,NE13 9BN,Prospect,319649393,500,2022-11-26
+ACC000376,Johnson Brown Associates,376,Real Estate,Enterprise,110 Station Road,London,Greater London,EC38 8YX,Customer,7729590,50,2023-03-23
+ACC000377,Wilson Jones Solutions,377,Hospitality,Enterprise,164 Park Lane,Edinburgh,Scotland,EH11 5SD,Partner,4423377,100,2024-07-23
+ACC000378,Ward Networks Group,378,MSP,Partner,24 Business Park,Sheffield,South Yorkshire,S70 6NF,Partner,39881260,10,2022-09-14
+ACC000379,Patel Telecom Partners,379,IT Reseller,Partner,68 Kings Road,Manchester,Greater Manchester,M60 5JH,Partner,10220097,10000,2024-08-31
+ACC000380,Johnson Wilson PLC,380,Healthcare,Enterprise,139 Queens Road,Cardiff,Wales,CF97 9VH,Customer,6031382,10,2023-03-20
+ACC000381,Jackson Clark Services,381,Healthcare,Enterprise,176 Enterprise Road,Southampton,Hampshire,SO61 8VH,Customer,3501858,10,2024-09-08
+ACC000382,Davies Wood LLP,382,Construction,SMB,129 The Green,Manchester,Greater Manchester,M67 3VY,Prospect,204284622,5000,2021-10-07
+ACC000383,College of Edinburgh,383,Education,Public Sector,55 Commerce Way,Edinburgh,Scotland,EH25 7EB,Customer,34070577,5000,2024-06-24
+ACC000384,Martin Wright and Co,384,Financial Services,SMB,153 Park Lane,Glasgow,Scotland,G41 7CC,Partner,251998518,1000,2023-11-12
+ACC000385,King IT Solutions Partners,385,MSP,Partner,118 Technology Park,Brighton,East Sussex,BN2 9ZW,Customer,4078534,25,2022-08-23
+ACC000386,Leeds County Council,386,Local Government,Public Sector,38 The Green,Glasgow,Scotland,G76 2VD,Customer,246983286,500,2023-03-16
+ACC000387,Green Lee Associates,387,Financial Services,Enterprise,68 Queens Road,Reading,Berkshire,RG84 8SV,Customer,50144001,5000,2024-07-08
+ACC000388,Walker Edwards Services,388,Healthcare,SMB,159 The Green,Glasgow,Scotland,G88 1ZN,Partner,900429,50,2020-07-21
+ACC000389,Harris Connect Ltd,389,MSP,Partner,191 Kings Road,Manchester,Greater Manchester,M35 6MA,Customer,160417816,2500,2021-12-05
+ACC000390,Hall Edwards Holdings,390,Construction,SMB,59 Mill Lane,Leeds,West Yorkshire,LS39 5RL,Partner,8278787,50,2024-12-26
+ACC000391,Coventry Council,391,Local Government,Public Sector,114 Church Road,Bristol,Avon,BS53 6ST,Partner,9690487,50,2024-10-04
+ACC000392,Moore Roberts PLC,392,Healthcare,Enterprise,182 Market Street,Newcastle,Tyne and Wear,NE52 1ET,Prospect,4650787,50,2024-05-18
+ACC000393,Wright Wright Ltd,393,Hospitality,SMB,9 Kings Road,Liverpool,Merseyside,L7 4MZ,Customer,404365032,10000,2024-03-15
+ACC000394,Patel Hill UK,394,Professional Services,SMB,163 Technology Park,Belfast,Northern Ireland,BT16 4YA,Partner,1496723,5,2021-06-21
+ACC000395,Morris Tech Partners,395,Telecommunications,Partner,122 The Green,Edinburgh,Scotland,EH71 3MM,Customer,75478861,5000,2024-09-13
+ACC000396,Davies Green Ltd,396,Manufacturing,Enterprise,13 Mill Lane,Belfast,Northern Ireland,BT74 4GH,Prospect,2366851,100,2020-12-28
+ACC000397,Edwards Turner UK,397,Technology,SMB,200 Commerce Way,London,Greater London,EC88 3AS,Customer,7513185,25,2022-01-19
+ACC000398,Morgan Smith Solutions,398,Hospitality,SMB,156 Commerce Way,Sheffield,South Yorkshire,S40 5ZZ,Customer,374243684,2500,2024-03-27
+ACC000399,Jackson Clarke Holdings,399,Central Government,Public Sector,56 Kings Road,Sheffield,South Yorkshire,S39 7YT,Partner,239669694,2500,2021-05-26
+ACC000400,Smith Moore and Co,400,Financial Services,Enterprise,144 Business Park,Cardiff,Wales,CF77 5WK,Partner,4661139,25,2023-08-21
+ACC000401,Ward Taylor Associates,401,Financial Services,Enterprise,164 Victoria Road,Sheffield,South Yorkshire,S36 5JX,Prospect,175820477,5000,2021-07-11
+ACC000402,Johnson Clark Solutions,402,Hospitality,Enterprise,154 Queens Road,Manchester,Greater Manchester,M85 3LY,Customer,85729544,2500,2020-09-13
+ACC000403,Morris Green Partners,403,Legal Services,Enterprise,104 Queens Road,Reading,Berkshire,RG95 4BV,Prospect,93638228,5000,2022-01-30
+ACC000404,Thompson Lee and Co,404,Transport & Logistics,SMB,172 Victoria Road,Oxford,Oxfordshire,OX65 9KF,Partner,7987754,10,2021-01-28
+ACC000405,Green Wilson Holdings,405,Hospitality,SMB,190 Park Lane,Glasgow,Scotland,G93 6UF,Partner,31426088,10,2022-12-03
+ACC000406,Thompson Clarke Solutions,406,Financial Services,SMB,108 Commerce Way,Newcastle,Tyne and Wear,NE43 5MJ,Customer,263358171,10000,2021-09-03
+ACC000407,Evans Ward Ltd,407,Charity,SMB,149 The Green,Milton Keynes,Buckinghamshire,MK10 9SG,Partner,69236385,2500,2024-06-04
+ACC000408,Academy of Belfast,408,Education,Public Sector,77 Queens Road,Brighton,East Sussex,BN7 4EE,Prospect,34535417,2500,2024-04-04
+ACC000409,Turner Baker Holdings,409,Transport & Logistics,SMB,81 Enterprise Road,Glasgow,Scotland,G92 8FC,Partner,5927024,50,2024-02-10
+ACC000410,Walker Lewis and Co,410,Transport & Logistics,SMB,2 Kings Road,Manchester,Greater Manchester,M36 3GF,Partner,163223695,5000,2023-11-28
+ACC000411,Davies Thomas International,411,Real Estate,Enterprise,163 Queens Road,Reading,Berkshire,RG52 7PS,Partner,88228671,2500,2021-08-28
+ACC000412,Williams Lee Solutions,412,Legal Services,SMB,4 Technology Park,Cardiff,Wales,CF42 1TG,Partner,42120737,25,2021-10-18
+ACC000413,White Thompson LLP,413,Legal Services,SMB,80 Mill Lane,Cardiff,Wales,CF14 5NT,Partner,86001885,2500,2022-04-19
+ACC000414,Taylor Williams Partners,414,Retail,Enterprise,117 Innovation Drive,Newcastle,Tyne and Wear,NE67 6WT,Customer,8243162,10,2020-07-21
+ACC000415,Thomas Harris Holdings,415,Central Government,Public Sector,193 Church Road,Cardiff,Wales,CF22 4NA,Customer,12025549,500,2023-09-04
+ACC000416,Thomas Robinson LLP,416,Technology,Enterprise,151 Market Street,London,Greater London,EC22 1DM,Customer,447189949,5000,2021-06-28
+ACC000417,Hughes Tech Group,417,IT Reseller,Partner,153 High Street,Manchester,Greater Manchester,M85 1DX,Prospect,3278618,10,2022-12-13
+ACC000418,Evans Turner Holdings,418,Healthcare,Enterprise,32 Market Street,Belfast,Northern Ireland,BT33 3SZ,Customer,367115437,2500,2023-12-09
+ACC000419,Smith Hall Services,419,Technology,SMB,170 Market Street,Leeds,West Yorkshire,LS35 3WW,Partner,327077305,2500,2021-12-22
+ACC000420,Leeds Council,420,Local Government,Public Sector,30 Commerce Way,Newcastle,Tyne and Wear,NE14 4SG,Partner,9254089,10,2022-02-07
+ACC000421,Clark Wright Associates,421,Manufacturing,Enterprise,76 Mill Lane,Reading,Berkshire,RG6 4US,Partner,35236176,25,2024-12-28
+ACC000422,Harris White Ltd,422,Real Estate,SMB,172 Station Road,London,Greater London,EC15 8VY,Partner,88061871,250,2020-03-18
+ACC000423,Davies Moore PLC,423,Retail,SMB,66 Business Park,Leeds,West Yorkshire,LS30 5RK,Partner,6807501,100,2021-03-21
+ACC000424,Brown Wilson Group,424,Charity,SMB,75 Victoria Road,Manchester,Greater Manchester,M87 2LP,Customer,20031860,5000,2020-06-09
+ACC000425,Williams Smith Group,425,Financial Services,Enterprise,85 Victoria Road,Edinburgh,Scotland,EH57 2WJ,Partner,43039443,100,2020-04-20
+ACC000426,Harris Telecom Ltd,426,Telecommunications,Partner,103 Kings Road,Belfast,Northern Ireland,BT35 8NZ,Prospect,244238393,5000,2023-03-24
+ACC000427,Edinburgh Council,427,Local Government,Public Sector,179 Innovation Drive,Glasgow,Scotland,G8 7FD,Customer,9296471,50,2021-06-21
+ACC000428,Baker Cooper Group,428,Real Estate,SMB,98 Commerce Way,Coventry,West Midlands,CV46 3WA,Partner,3390000,100,2023-06-15
+ACC000429,Morris Evans Services,429,Real Estate,SMB,12 Station Road,Cambridge,Cambridgeshire,CB34 1XL,Customer,40207006,5000,2022-05-17
+ACC000430,Baker Baker Solutions,430,Recruitment,SMB,133 Market Street,Nottingham,Nottinghamshire,NG89 2ZW,Partner,446084578,2500,2023-06-30
+ACC000431,White Ward Associates,431,Central Government,Public Sector,39 Enterprise Road,Belfast,Northern Ireland,BT72 1WB,Customer,176699072,1000,2024-11-14
+ACC000432,Moore Ward Holdings,432,Retail,Enterprise,20 Commerce Way,Edinburgh,Scotland,EH63 6LH,Partner,14526392,250,2021-03-09
+ACC000433,Brown Moore Solutions,433,Professional Services,SMB,165 Queens Road,Southampton,Hampshire,SO52 8HC,Partner,28344225,1000,2020-12-14
+ACC000434,University Hospital NHS Trust,434,NHS Trust,Public Sector,115 Station Road,Milton Keynes,Buckinghamshire,MK64 2RL,Customer,360935555,10000,2022-01-07
+ACC000435,Jones Wilson Services,435,Real Estate,Enterprise,10 Market Street,Reading,Berkshire,RG71 5AC,Partner,290379451,250,2021-01-16
+ACC000436,King Robinson and Co,436,Insurance,Enterprise,88 Victoria Road,Cambridge,Cambridgeshire,CB7 6HR,Prospect,216204916,10000,2020-11-17
+ACC000437,Patel Cooper PLC,437,Real Estate,SMB,195 Business Park,Leeds,West Yorkshire,LS29 6AL,Customer,6595644,5,2023-02-10
+ACC000438,King Clark Associates,438,Professional Services,Enterprise,12 Technology Park,Leeds,West Yorkshire,LS22 7SE,Partner,3915608,50,2021-05-07
+ACC000439,Hughes Wright Solutions,439,Financial Services,Enterprise,101 Church Road,Leeds,West Yorkshire,LS59 6GZ,Customer,2417095,25,2023-11-11
+ACC000440,Turner Williams and Co,440,Financial Services,Enterprise,32 Commerce Way,Milton Keynes,Buckinghamshire,MK58 9RY,Customer,59428420,2500,2024-09-15
+ACC000441,College of London,441,Education,Enterprise,189 High Street,Brighton,East Sussex,BN71 8PV,Customer,45311579,1000,2020-02-23
+ACC000442,Walker Harrison Group,442,Insurance,Enterprise,27 Queens Road,Glasgow,Scotland,G85 6WW,Partner,24609620,10,2023-11-10
+ACC000443,Jackson Turner International,443,Insurance,Enterprise,71 Queens Road,Liverpool,Merseyside,L44 3KR,Partner,11491517,25,2021-04-08
+ACC000444,College of Coventry,444,Education,Enterprise,77 Enterprise Road,Brighton,East Sussex,BN90 9UL,Prospect,470536338,5000,2022-09-30
+ACC000445,Wright Robinson International,445,Technology,SMB,176 Victoria Road,Newcastle,Tyne and Wear,NE87 3EZ,Partner,163527485,500,2022-12-02
+ACC000446,Lee Lewis LLP,446,Insurance,Enterprise,195 Victoria Road,Leeds,West Yorkshire,LS72 7SV,Partner,415792079,10000,2020-04-10
+ACC000447,Green Martin Ltd,447,Media & Entertainment,Enterprise,28 High Street,Brighton,East Sussex,BN49 1EB,Partner,498401991,250,2023-11-14
+ACC000448,Edwards Roberts Partners,448,Hospitality,Enterprise,38 Enterprise Road,Sheffield,South Yorkshire,S8 4ZK,Partner,2370069,50,2022-04-26
+ACC000449,Williams Clarke Holdings,449,Media & Entertainment,Enterprise,158 Enterprise Road,Leeds,West Yorkshire,LS87 9UH,Customer,2172728,5,2020-08-21
+ACC000450,White Tech Group,450,IT Reseller,Partner,178 Business Park,Newcastle,Tyne and Wear,NE7 7NN,Prospect,157732349,5000,2020-03-30
+ACC000451,King Brown Ltd,451,Construction,Enterprise,52 The Green,Sheffield,South Yorkshire,S57 6HX,Partner,49500325,100,2021-08-14
+ACC000452,Morgan Wright LLP,452,Media & Entertainment,Enterprise,76 Kings Road,Bristol,Avon,BS23 3YC,Partner,196478,100,2024-12-12
+ACC000453,Moore Evans Services,453,Hospitality,SMB,110 Park Lane,Manchester,Greater Manchester,M72 3JE,Customer,337734358,10000,2023-02-15
+ACC000454,Smith Harris Holdings,454,Manufacturing,Enterprise,11 Mill Lane,Glasgow,Scotland,G42 5WB,Partner,40985802,50,2021-11-09
+ACC000455,Baker King Associates,455,Real Estate,Enterprise,182 Victoria Road,Birmingham,West Midlands,B68 9HF,Partner,6142962,5,2020-07-09
+ACC000456,Moore Roberts Services,456,Healthcare,Public Sector,138 Queens Road,Southampton,Hampshire,SO12 4MH,Partner,8688840,50,2021-11-05
+ACC000457,Harris Patel Partners,457,Transport & Logistics,SMB,193 The Green,Bristol,Avon,BS68 1SU,Partner,4918203,50,2023-05-31
+ACC000458,Academy of Cardiff,458,Education,Public Sector,62 Technology Park,Cambridge,Cambridgeshire,CB83 4WW,Prospect,8362853,10,2024-12-14
+ACC000459,Lewis Jackson PLC,459,Healthcare,SMB,66 Market Street,Belfast,Northern Ireland,BT93 9KA,Prospect,227286645,250,2021-11-14
+ACC000460,Moore Tech Partners,460,Telecommunications,Partner,12 Park Lane,Oxford,Oxfordshire,OX84 9GL,Customer,166213743,5000,2023-01-31
+ACC000461,Wilson Roberts UK,461,Financial Services,SMB,2 Business Park,Southampton,Hampshire,SO9 4GY,Prospect,8060796,5,2023-08-15
+ACC000462,Wilson Robinson UK,462,Central Government,Public Sector,166 Enterprise Road,Reading,Berkshire,RG10 1YE,Customer,161650634,2500,2023-02-11
+ACC000463,Harris Williams PLC,463,Charity,SMB,14 Mill Lane,Birmingham,West Midlands,B33 4UC,Partner,457263158,500,2023-03-15
+ACC000464,Turner Jackson Holdings,464,Manufacturing,Enterprise,111 Victoria Road,Belfast,Northern Ireland,BT3 2NY,Customer,271854067,500,2022-01-31
+ACC000465,Smith Taylor LLP,465,Media & Entertainment,Enterprise,12 Innovation Drive,Milton Keynes,Buckinghamshire,MK10 2MT,Customer,7545293,100,2020-02-21
+ACC000466,Hall Morgan PLC,466,Professional Services,Enterprise,196 Technology Park,Newcastle,Tyne and Wear,NE57 1NN,Partner,7093550,250,2023-10-17
+ACC000467,Roberts Lee Solutions,467,Real Estate,SMB,192 Queens Road,Glasgow,Scotland,G70 3KX,Partner,33374257,2500,2022-08-14
+ACC000468,Patel Smith UK,468,Construction,SMB,37 Station Road,Southampton,Hampshire,SO6 7AV,Customer,158849689,1000,2022-12-26
+ACC000469,King Davies Partners,469,Media & Entertainment,Enterprise,192 Innovation Drive,Bristol,Avon,BS93 7MG,Partner,8724506,5,2021-02-27
+ACC000470,Johnson Roberts Group,470,Insurance,Enterprise,158 Enterprise Road,Liverpool,Merseyside,L33 3GD,Customer,334243003,1000,2023-01-12
+ACC000471,King Hill and Co,471,Healthcare,Enterprise,19 Park Lane,Southampton,Hampshire,SO86 2CJ,Prospect,3102836,100,2024-12-30
+ACC000472,Harrison Morris Associates,472,Hospitality,Enterprise,33 Business Park,Cardiff,Wales,CF84 5HD,Partner,1417776,50,2023-03-08
+ACC000473,Wright Lewis Holdings,473,Healthcare,Public Sector,85 The Green,Cambridge,Cambridgeshire,CB85 3KZ,Customer,48579995,2500,2022-01-14
+ACC000474,Lewis Networks Ltd,474,Telecommunications,Partner,81 Church Road,London,Greater London,EC29 7ZX,Customer,8130449,50,2024-09-28
+ACC000475,Patel Thomas and Co,475,Professional Services,SMB,123 Kings Road,Nottingham,Nottinghamshire,NG58 8MK,Customer,9430646,5,2024-06-10
+ACC000476,Walker Morgan PLC,476,Financial Services,Enterprise,36 Technology Park,Sheffield,South Yorkshire,S69 2GJ,Customer,187919520,500,2024-07-24
+ACC000477,Jones Moore and Co,477,Healthcare,Public Sector,149 The Green,London,Greater London,EC52 1VG,Customer,164132494,5000,2020-08-22
+ACC000478,Lee Lee Holdings,478,Manufacturing,Enterprise,94 Queens Road,Glasgow,Scotland,G29 3VK,Partner,1924432,100,2024-04-28
+ACC000479,Moore Moore PLC,479,Charity,SMB,94 Market Street,Belfast,Northern Ireland,BT2 3YH,Partner,30898598,250,2021-08-19
+ACC000480,Thomas Cooper Group,480,Insurance,Enterprise,145 The Green,Edinburgh,Scotland,EH85 6ES,Customer,1597994,100,2020-01-17
+ACC000481,Thompson Morris Solutions,481,Healthcare,SMB,68 Victoria Road,Birmingham,West Midlands,B30 4BY,Customer,469758217,250,2021-04-26
+ACC000482,Patel Jackson Holdings,482,Recruitment,SMB,12 High Street,Cambridge,Cambridgeshire,CB84 9LD,Customer,259944650,500,2021-01-20
+ACC000483,Hughes Harrison UK,483,Professional Services,SMB,45 Queens Road,Milton Keynes,Buckinghamshire,MK84 2NM,Customer,82307200,10000,2024-12-17
+ACC000484,Hughes Jackson Solutions,484,Recruitment,SMB,104 Victoria Road,Brighton,East Sussex,BN45 1SS,Prospect,278490051,2500,2023-02-04
+ACC000485,Thomas Cooper Group,485,Insurance,Enterprise,20 Market Street,Liverpool,Merseyside,L83 3JG,Partner,18569091,100,2023-01-23
+ACC000486,Roberts Patel International,486,Hospitality,SMB,170 Church Road,Leeds,West Yorkshire,LS54 8LD,Customer,8931661,25,2022-08-10
+ACC000487,Ward Robinson International,487,Real Estate,SMB,166 Enterprise Road,Edinburgh,Scotland,EH53 1AH,Partner,985405,25,2022-12-31
+ACC000488,Academy of Milton Keynes,488,Education,Enterprise,35 Business Park,Edinburgh,Scotland,EH66 3BV,Partner,2870703,250,2024-03-14
+ACC000489,Roberts Hughes Group,489,Healthcare,Enterprise,104 The Green,Brighton,East Sussex,BN73 5XA,Customer,439272615,10000,2023-07-02
+ACC000490,Robinson Cooper International,490,Financial Services,SMB,124 Mill Lane,Oxford,Oxfordshire,OX29 3PW,Customer,4411001,5,2024-02-27
+ACC000491,Moore Hughes Group,491,Hospitality,SMB,117 The Green,Nottingham,Nottinghamshire,NG76 7CH,Prospect,102071193,5000,2024-10-31
+ACC000492,Thomas Communications Ltd,492,IT Reseller,Partner,134 Enterprise Road,Bristol,Avon,BS65 3YP,Prospect,394767793,10000,2020-12-08
+ACC000493,Walker Ward International,493,Financial Services,Enterprise,10 Technology Park,Coventry,West Midlands,CV69 2TD,Prospect,166795246,2500,2024-03-08
+ACC000494,Thomas Morgan UK,494,Real Estate,SMB,199 Business Park,London,Greater London,EC84 7PT,Partner,1296115,50,2024-06-20
+ACC000495,Williams Connect Group,495,Telecommunications,Partner,59 Commerce Way,Reading,Berkshire,RG62 2NM,Customer,5719820,25,2021-06-30
+ACC000496,Thomas Hughes Holdings,496,Central Government,Public Sector,22 Park Lane,Liverpool,Merseyside,L77 5UP,Partner,21523182,250,2020-01-22
+ACC000497,Smith Smith International,497,Hospitality,Enterprise,31 Market Street,Brighton,East Sussex,BN1 4NX,Customer,140235694,500,2020-03-10
+ACC000498,Turner Patel PLC,498,Construction,Enterprise,110 Business Park,Glasgow,Scotland,G75 9JJ,Customer,2279482,50,2023-09-06
+ACC000499,Baker Patel International,499,Central Government,Public Sector,175 Queens Road,Sheffield,South Yorkshire,S97 9GP,Partner,19047786,100,2023-11-18
+ACC000500,Walker Patel UK,500,Real Estate,SMB,124 Park Lane,Southampton,Hampshire,SO40 7VM,Customer,37243742,1000,2024-07-22
+ACC000501,Academy of Leeds,501,Education,Enterprise,115 Commerce Way,Liverpool,Merseyside,L90 4FD,Partner,7335234,10,2023-06-11
+ACC000502,Wood Harris UK,502,Insurance,Enterprise,179 Business Park,Coventry,West Midlands,CV91 7BF,Prospect,2597360,5,2020-03-18
+ACC000503,Davies Johnson Holdings,503,Legal Services,SMB,112 Station Road,Coventry,West Midlands,CV9 6JH,Prospect,458145438,10000,2024-05-18
+ACC000504,Morgan Williams LLP,504,Financial Services,SMB,103 The Green,Belfast,Northern Ireland,BT84 1TK,Partner,27384804,10,2023-07-18
+ACC000505,Morris Cooper Ltd,505,Hospitality,SMB,169 Technology Park,Bristol,Avon,BS67 1KG,Customer,9402554,5,2022-02-25
+ACC000506,Clark Thompson International,506,Insurance,Enterprise,173 High Street,Edinburgh,Scotland,EH47 1HX,Customer,80131300,250,2021-01-30
+ACC000507,Davies Edwards Services,507,Retail,Enterprise,172 Queens Road,Cardiff,Wales,CF52 9VG,Customer,5792259,5,2021-11-22
+ACC000508,Taylor Davies UK,508,Legal Services,SMB,186 Enterprise Road,Newcastle,Tyne and Wear,NE72 6VM,Partner,5334084,10,2024-02-15
+ACC000509,Thompson Morgan Solutions,509,Professional Services,SMB,104 The Green,Cambridge,Cambridgeshire,CB1 7JF,Customer,92500237,500,2022-07-23
+ACC000510,Wilson King PLC,510,Insurance,Enterprise,76 Victoria Road,Brighton,East Sussex,BN15 9TJ,Prospect,186109703,10000,2023-10-21
+ACC000511,Cooper Jackson International,511,Manufacturing,Enterprise,198 Church Road,Oxford,Oxfordshire,OX97 8LR,Customer,1160687,5,2021-07-14
+ACC000512,Ward Evans Partners,512,Legal Services,Enterprise,98 Business Park,Birmingham,West Midlands,B29 4YZ,Partner,110966910,1000,2020-02-02
+ACC000513,Turner Clarke UK,513,Construction,Enterprise,3 Innovation Drive,Southampton,Hampshire,SO34 2HK,Customer,81819711,10000,2021-07-08
+ACC000514,Harris Communications Group,514,MSP,Partner,122 Victoria Road,Edinburgh,Scotland,EH46 5GV,Partner,1576750,25,2021-12-13
+ACC000515,Wright Morris LLP,515,Hospitality,SMB,61 Innovation Drive,Bristol,Avon,BS31 4JG,Customer,254224071,10000,2023-09-12
+ACC000516,White Clarke Group,516,Hospitality,Enterprise,31 Technology Park,Leeds,West Yorkshire,LS11 8YY,Customer,34005852,10000,2022-01-15
+ACC000517,Lee Williams Holdings,517,Legal Services,SMB,159 Victoria Road,Cardiff,Wales,CF64 8VJ,Customer,89850091,250,2022-09-20
+ACC000518,Moore Edwards Services,518,Hospitality,SMB,193 The Green,Liverpool,Merseyside,L17 7BT,Customer,1947722,25,2021-04-11
+ACC000519,Lee Williams UK,519,Real Estate,SMB,101 Enterprise Road,Cardiff,Wales,CF88 2FR,Customer,483077556,2500,2020-10-23
+ACC000520,Hill Lewis LLP,520,Recruitment,SMB,4 Business Park,London,Greater London,EC27 2NV,Customer,113561146,1000,2020-09-17
+ACC000521,Patel Hughes Group,521,Construction,Enterprise,68 Church Road,Southampton,Hampshire,SO35 6SW,Customer,480887194,1000,2023-05-21
+ACC000522,Walker Networks Partners,522,Telecommunications,Partner,108 Innovation Drive,Bristol,Avon,BS97 7MM,Customer,8043827,50,2021-07-25
+ACC000523,Cooper Walker International,523,Professional Services,SMB,148 Business Park,Glasgow,Scotland,G30 4DJ,Partner,185187,50,2020-03-31
+ACC000524,Jackson Wright Group,524,Central Government,Public Sector,122 Commerce Way,Glasgow,Scotland,G2 8FP,Customer,49609420,5000,2024-03-22
+ACC000525,Academy of Brighton,525,Education,Enterprise,185 Victoria Road,Southampton,Hampshire,SO63 9KJ,Customer,2814601,50,2024-10-23
+ACC000526,Wood Wilson LLP,526,Healthcare,Enterprise,16 Church Road,Edinburgh,Scotland,EH33 2SX,Prospect,122878,5,2022-02-27
+ACC000527,Kings Hospital NHS Trust,527,NHS Trust,Public Sector,67 Victoria Road,Nottingham,Nottinghamshire,NG47 5UU,Customer,176552176,2500,2024-02-15
+ACC000528,Jones Turner PLC,528,Transport & Logistics,Enterprise,174 The Green,Cardiff,Wales,CF26 9VV,Customer,201727219,500,2023-08-20
+ACC000529,Green Clarke Associates,529,Hospitality,SMB,125 Commerce Way,Brighton,East Sussex,BN95 7RC,Partner,472685097,10000,2021-03-05
+ACC000530,Hill Johnson Group,530,Professional Services,Enterprise,108 Business Park,Nottingham,Nottinghamshire,NG79 2VN,Partner,30860764,100,2022-10-23
+ACC000531,Roberts Harris Solutions,531,Financial Services,SMB,82 Business Park,Nottingham,Nottinghamshire,NG38 7ZJ,Customer,3260048,50,2020-06-27
+ACC000532,Cooper Patel LLP,532,Professional Services,SMB,134 Kings Road,Milton Keynes,Buckinghamshire,MK53 1FF,Prospect,2624938,10,2022-12-02
+ACC000533,Academy of Liverpool,533,Education,Enterprise,191 Innovation Drive,Sheffield,South Yorkshire,S96 3CG,Customer,3271911,5,2020-02-15
+ACC000534,Wilson Communications Ltd,534,MSP,Partner,141 High Street,Oxford,Oxfordshire,OX4 2NT,Partner,37307112,100,2022-07-26
+ACC000535,Hughes Johnson PLC,535,Financial Services,Enterprise,80 Church Road,Belfast,Northern Ireland,BT32 3KR,Customer,157676440,2500,2020-12-06
+ACC000536,Academy of Edinburgh,536,Education,Enterprise,9 Business Park,London,Greater London,EC46 8LS,Customer,27093017,1000,2023-03-22
+ACC000537,Edwards King Holdings,537,Media & Entertainment,Enterprise,179 Market Street,Glasgow,Scotland,G23 8VW,Customer,130374268,1000,2022-12-28
+ACC000538,Clark Lee Partners,538,Central Government,Public Sector,124 Market Street,Cardiff,Wales,CF30 5CR,Partner,277413149,1000,2023-08-18
+ACC000539,Turner IT Solutions Ltd,539,Telecommunications,Partner,3 High Street,Newcastle,Tyne and Wear,NE67 5EM,Customer,138575545,500,2020-10-12
+ACC000540,Lee Smith LLP,540,Real Estate,SMB,194 Kings Road,Oxford,Oxfordshire,OX39 5AP,Customer,331498692,10000,2021-02-03
+ACC000541,Smith King Associates,541,Technology,Enterprise,106 Technology Park,Bristol,Avon,BS72 4PN,Customer,8328643,25,2023-05-20
+ACC000542,Jackson Jackson Solutions,542,Retail,Enterprise,21 Queens Road,Sheffield,South Yorkshire,S81 5HT,Customer,190177630,1000,2021-09-22
+ACC000543,Lee Edwards Services,543,Professional Services,Enterprise,18 Mill Lane,Bristol,Avon,BS18 8KD,Customer,7210724,50,2020-10-12
+ACC000544,County Hospital NHS Trust,544,NHS Trust,Public Sector,126 Church Road,Coventry,West Midlands,CV42 1AE,Partner,6435663,10,2022-04-18
+ACC000545,Jones Walker PLC,545,Media & Entertainment,Enterprise,69 Mill Lane,Newcastle,Tyne and Wear,NE92 4RA,Partner,8330660,5,2024-08-12
+ACC000546,Johnson Smith Holdings,546,Financial Services,SMB,88 Queens Road,Bristol,Avon,BS40 8SM,Partner,20644027,100,2020-09-11
+ACC000547,Harris Davies Group,547,Healthcare,SMB,69 Commerce Way,Manchester,Greater Manchester,M51 8CU,Customer,6169317,100,2022-09-11
+ACC000548,Wright Hughes Services,548,Hospitality,SMB,32 Commerce Way,London,Greater London,EC92 8HN,Customer,2832123,100,2020-04-29
+ACC000549,Williams Wright Holdings,549,Manufacturing,SMB,134 Business Park,Leeds,West Yorkshire,LS27 5SN,Customer,23076807,2500,2021-08-20
+ACC000550,Roberts Williams LLP,550,Construction,Enterprise,134 Station Road,Southampton,Hampshire,SO33 5SX,Partner,5512444,25,2024-08-20
+ACC000551,Patel Brown and Co,551,Hospitality,Enterprise,29 Church Road,Bristol,Avon,BS82 1PL,Customer,205260470,2500,2022-04-23
+ACC000552,Edwards Harrison PLC,552,Retail,Enterprise,63 High Street,Belfast,Northern Ireland,BT6 8VZ,Partner,9027083,100,2023-12-09
+ACC000553,Patel Davies Solutions,553,Retail,SMB,128 Station Road,Edinburgh,Scotland,EH88 1WL,Partner,9829070,100,2024-12-27
+ACC000554,Clarke Johnson LLP,554,Healthcare,Enterprise,28 Mill Lane,Southampton,Hampshire,SO63 9HL,Customer,374392504,500,2021-09-21
+ACC000555,Cooper Wright Ltd,555,Transport & Logistics,Enterprise,92 Innovation Drive,Belfast,Northern Ireland,BT18 8JB,Customer,62707568,500,2020-03-08
+ACC000556,Queen Elizabeth Hospital NHS Trust,556,NHS Trust,Public Sector,139 Innovation Drive,Newcastle,Tyne and Wear,NE63 3GV,Partner,6976246,10,2023-05-17
+ACC000557,Clarke Lewis LLP,557,Media & Entertainment,Enterprise,71 Enterprise Road,Cambridge,Cambridgeshire,CB77 2UF,Customer,194087693,500,2024-10-17
+ACC000558,Johnson Cooper Partners,558,Recruitment,SMB,139 Victoria Road,Sheffield,South Yorkshire,S59 9AX,Customer,4828772,10,2024-03-24
+ACC000559,Walker Communications Group,559,IT Reseller,Partner,199 The Green,Cardiff,Wales,CF31 9LC,Customer,102092316,1000,2022-02-16
+ACC000560,Wright Tech Group,560,IT Reseller,Partner,197 Market Street,Oxford,Oxfordshire,OX20 6WK,Customer,271189196,1000,2023-12-14
+ACC000561,Nottingham Council,561,Local Government,Public Sector,134 Business Park,Leeds,West Yorkshire,LS9 3BE,Customer,373855311,2500,2021-04-07
+ACC000562,Wright Wilson Holdings,562,Healthcare,SMB,26 High Street,Bristol,Avon,BS74 8XN,Prospect,365828512,250,2022-03-22
+ACC000563,Harrison Hughes Ltd,563,Recruitment,SMB,57 The Green,Cardiff,Wales,CF92 4CA,Customer,3440115,25,2021-02-14
+ACC000564,Davies Hill and Co,564,Real Estate,Enterprise,93 Market Street,Manchester,Greater Manchester,M96 1PM,Customer,260457289,10000,2023-05-20
+ACC000565,Clark Williams LLP,565,Professional Services,SMB,78 Station Road,Birmingham,West Midlands,B28 2TD,Customer,2358353,5,2020-07-22
+ACC000566,Lee Jackson Solutions,566,Technology,Enterprise,135 Business Park,Bristol,Avon,BS32 3VX,Customer,50999933,2500,2023-06-27
+ACC000567,Leeds City Council,567,Local Government,Public Sector,180 Business Park,Cambridge,Cambridgeshire,CB55 3DF,Prospect,276009620,1000,2023-01-15
+ACC000568,Moore IT Solutions Group,568,MSP,Partner,137 The Green,Edinburgh,Scotland,EH57 9ML,Customer,6413879,50,2022-07-30
+ACC000569,Patel Turner and Co,569,Construction,Enterprise,186 Victoria Road,Reading,Berkshire,RG78 9HV,Prospect,266700368,250,2023-03-11
+ACC000570,Jackson King LLP,570,Technology,SMB,93 Kings Road,Sheffield,South Yorkshire,S58 1NA,Prospect,146406959,2500,2023-04-25
+ACC000571,Morgan Jones UK,571,Professional Services,Enterprise,78 High Street,Glasgow,Scotland,G39 6HG,Customer,9897340,5,2024-04-16
+ACC000572,Edwards King UK,572,Legal Services,Enterprise,147 Technology Park,Southampton,Hampshire,SO74 1ED,Customer,4036305,25,2023-04-28
+ACC000573,Clarke Johnson Group,573,Charity,SMB,94 Technology Park,Sheffield,South Yorkshire,S75 5HH,Prospect,7187921,100,2022-11-20
+ACC000574,Davies Baker Services,574,Construction,SMB,56 Innovation Drive,Milton Keynes,Buckinghamshire,MK10 3LS,Customer,438967020,2500,2020-07-23
+ACC000575,Baker Wilson International,575,Real Estate,Enterprise,10 Innovation Drive,Newcastle,Tyne and Wear,NE74 1NC,Customer,143399459,500,2024-09-17
+ACC000576,Clarke Martin Services,576,Transport & Logistics,SMB,198 Church Road,Leeds,West Yorkshire,LS96 1XW,Customer,322754919,1000,2021-07-13
+ACC000577,Brown IT Solutions Group,577,IT Reseller,Partner,82 Market Street,Manchester,Greater Manchester,M73 9EL,Prospect,9158817,25,2021-02-13
+ACC000578,Johnson Brown and Co,578,Technology,Enterprise,115 Commerce Way,Belfast,Northern Ireland,BT77 2VT,Prospect,119328167,10000,2024-08-14
+ACC000579,Martin Green Services,579,Technology,Enterprise,34 Victoria Road,Glasgow,Scotland,G11 1SV,Customer,134147824,1000,2021-05-07
+ACC000580,Hughes Communications Partners,580,MSP,Partner,112 Commerce Way,Brighton,East Sussex,BN90 8EE,Customer,183420755,1000,2021-06-09
+ACC000581,Morris Wood and Co,581,Hospitality,Enterprise,51 Market Street,Milton Keynes,Buckinghamshire,MK79 4TH,Prospect,305553763,2500,2022-05-14
+ACC000582,Edwards Martin Associates,582,Healthcare,Public Sector,23 Station Road,Milton Keynes,Buckinghamshire,MK86 6PP,Customer,808541,50,2024-05-21
+ACC000583,Wright Lewis Associates,583,Transport & Logistics,Enterprise,168 High Street,Coventry,West Midlands,CV99 6KF,Customer,6758793,10,2021-04-28
+ACC000584,Queen Elizabeth Hospital NHS Trust,584,NHS Trust,Public Sector,113 High Street,Glasgow,Scotland,G30 6GY,Partner,70646873,1000,2021-11-05
+ACC000585,Davies Evans LLP,585,Retail,SMB,63 The Green,Manchester,Greater Manchester,M19 6KA,Partner,27905619,50,2024-11-02
+ACC000586,College of Cambridge,586,Education,Public Sector,6 Victoria Road,Oxford,Oxfordshire,OX27 4UG,Customer,4759599,10,2022-01-13
+ACC000587,Clark Hughes UK,587,Media & Entertainment,Enterprise,160 Innovation Drive,Oxford,Oxfordshire,OX19 1ZZ,Customer,140819159,5000,2022-02-26
+ACC000588,Harrison Connect Group,588,IT Reseller,Partner,66 Mill Lane,Manchester,Greater Manchester,M8 5KG,Customer,166538097,250,2024-08-11
+ACC000589,Hill Smith PLC,589,Healthcare,Enterprise,170 Park Lane,Belfast,Northern Ireland,BT85 2YM,Partner,33496882,100,2024-02-18
+ACC000590,Green Jackson Solutions,590,Legal Services,Enterprise,131 Innovation Drive,Belfast,Northern Ireland,BT13 9LS,Customer,230953146,5000,2024-02-02
+ACC000591,Walker Wright UK,591,Financial Services,SMB,144 Technology Park,Cambridge,Cambridgeshire,CB92 4AB,Partner,27387961,25,2023-07-10
+ACC000592,Hall Harris Holdings,592,Recruitment,SMB,191 Mill Lane,Belfast,Northern Ireland,BT3 6MY,Prospect,430546588,1000,2022-07-13
+ACC000593,Hall White UK,593,Transport & Logistics,Enterprise,16 Business Park,Sheffield,South Yorkshire,S33 9NA,Customer,102651051,2500,2024-11-29
+ACC000594,Thompson Johnson Associates,594,Professional Services,SMB,169 Mill Lane,Belfast,Northern Ireland,BT12 4NT,Customer,935219,50,2023-06-19
+ACC000595,Liverpool Borough Council,595,Local Government,Public Sector,80 Technology Park,Reading,Berkshire,RG78 9LR,Prospect,68625832,500,2024-01-01
+ACC000596,University of Glasgow,596,Education,Enterprise,139 Business Park,Milton Keynes,Buckinghamshire,MK26 9EK,Customer,447429355,1000,2024-01-28
+ACC000597,College of Glasgow,597,Education,Enterprise,41 Victoria Road,Milton Keynes,Buckinghamshire,MK9 2UU,Customer,203447749,5000,2023-11-02
+ACC000598,Lewis Johnson LLP,598,Hospitality,SMB,196 Victoria Road,London,Greater London,EC53 8PK,Prospect,7201643,100,2021-06-08
+ACC000599,Johnson Wright PLC,599,Professional Services,SMB,48 High Street,Glasgow,Scotland,G98 5WW,Partner,863562,5,2021-06-03
+ACC000600,Morgan Thompson Solutions,600,Technology,Enterprise,92 Station Road,London,Greater London,EC89 9SE,Customer,2949886,100,2022-10-06
+ACC000601,Patel Walker Services,601,Real Estate,SMB,122 Mill Lane,Oxford,Oxfordshire,OX21 1GH,Customer,840918,10,2022-10-19
+ACC000602,London City Council,602,Local Government,Public Sector,57 Innovation Drive,Reading,Berkshire,RG86 2GG,Partner,49950457,100,2024-04-13
+ACC000603,Cooper Morris LLP,603,Hospitality,SMB,118 Technology Park,Nottingham,Nottinghamshire,NG32 1PN,Prospect,79853339,1000,2023-12-16
+ACC000604,Lewis Networks Group,604,IT Reseller,Partner,153 Market Street,Milton Keynes,Buckinghamshire,MK68 1XZ,Customer,5965386,5,2021-02-21
+ACC000605,Wilson Cooper Holdings,605,Recruitment,SMB,63 Market Street,Manchester,Greater Manchester,M69 9NB,Customer,228563241,250,2021-05-19
+ACC000606,Clark Connect Ltd,606,IT Reseller,Partner,75 Kings Road,Bristol,Avon,BS51 8KK,Partner,10819697,10,2020-06-15
+ACC000607,Martin Green International,607,Retail,Enterprise,177 Market Street,Manchester,Greater Manchester,M19 8RX,Partner,7701790,25,2024-02-07
+ACC000608,Moore Evans Group,608,Financial Services,SMB,179 Market Street,Milton Keynes,Buckinghamshire,MK18 6NP,Customer,156876128,5000,2020-07-08
+ACC000609,Royal Hospital NHS Trust,609,NHS Trust,Public Sector,117 The Green,Edinburgh,Scotland,EH92 2GR,Customer,2123365,25,2022-10-02
+ACC000610,Lewis Roberts LLP,610,Manufacturing,Enterprise,24 Station Road,Leeds,West Yorkshire,LS91 6RX,Partner,26544247,100,2021-07-03
+ACC000611,Clark Jackson LLP,611,Financial Services,SMB,157 Mill Lane,Brighton,East Sussex,BN49 1UN,Partner,5833527,50,2023-10-17
+ACC000612,Harris Baker and Co,612,Retail,Enterprise,42 Enterprise Road,Glasgow,Scotland,G19 1FZ,Customer,138207824,2500,2020-10-31
+ACC000613,Newcastle City Council,613,Local Government,Public Sector,74 Business Park,Cambridge,Cambridgeshire,CB24 4DE,Customer,147818660,500,2022-11-11
+ACC000614,Hughes Smith Holdings,614,Legal Services,SMB,128 Market Street,Oxford,Oxfordshire,OX1 4WS,Customer,402561588,10000,2022-08-05
+ACC000615,Harrison Ward Holdings,615,Technology,SMB,114 Station Road,Reading,Berkshire,RG77 4WA,Partner,4547210,25,2024-11-19
+ACC000616,King Robinson Ltd,616,Professional Services,SMB,38 High Street,Edinburgh,Scotland,EH84 3MB,Partner,892390,100,2020-08-26
+ACC000617,Baker Morgan Partners,617,Healthcare,SMB,23 High Street,Nottingham,Nottinghamshire,NG14 3PF,Prospect,5177736,5,2020-09-13
+ACC000618,Morgan Baker UK,618,Professional Services,Enterprise,117 Innovation Drive,Edinburgh,Scotland,EH75 2MB,Customer,126981077,1000,2020-06-25
+ACC000619,Lewis Patel Services,619,Construction,SMB,195 Queens Road,Birmingham,West Midlands,B71 8CK,Prospect,258128837,250,2024-10-26
+ACC000620,University of Sheffield,620,Education,Enterprise,135 Queens Road,Nottingham,Nottinghamshire,NG68 4GZ,Prospect,7074052,50,2024-02-18
+ACC000621,Wilson Baker LLP,621,Healthcare,Enterprise,23 Kings Road,Brighton,East Sussex,BN93 5ZW,Prospect,3990733,5,2022-12-17
+ACC000622,Morgan Lewis Partners,622,Central Government,Public Sector,148 The Green,Brighton,East Sussex,BN46 8EW,Customer,7621651,50,2020-02-12
+ACC000623,Morris Morris Group,623,Recruitment,SMB,60 Innovation Drive,Coventry,West Midlands,CV38 2GA,Customer,7959576,10,2024-12-13
+ACC000624,Hill Evans LLP,624,Legal Services,Enterprise,158 Queens Road,Bristol,Avon,BS53 6BL,Customer,375815422,10000,2020-06-25
+ACC000625,Smith Wright LLP,625,Technology,SMB,66 Commerce Way,Newcastle,Tyne and Wear,NE9 9KK,Customer,117438453,5000,2020-04-06
+ACC000626,Smith Evans and Co,626,Construction,Enterprise,88 Queens Road,Nottingham,Nottinghamshire,NG93 1VW,Prospect,2012087,100,2021-04-09
+ACC000627,Wright Harris Associates,627,Hospitality,SMB,122 Commerce Way,Oxford,Oxfordshire,OX5 8XE,Customer,463170008,10000,2024-11-24
+ACC000628,Hill Lee Associates,628,Retail,SMB,106 Technology Park,Cambridge,Cambridgeshire,CB96 5BT,Partner,1809062,100,2020-03-26
+ACC000629,King Lee Ltd,629,Construction,Enterprise,148 Business Park,Bristol,Avon,BS43 3MC,Partner,8461613,5,2020-11-11
+ACC000630,Jones Harris Services,630,Professional Services,SMB,43 The Green,Southampton,Hampshire,SO78 2NF,Customer,4911005,100,2020-12-16
+ACC000631,Lewis Williams Partners,631,Construction,SMB,23 Kings Road,Reading,Berkshire,RG31 5MR,Customer,7294453,50,2022-04-18
+ACC000632,Clark Hall Group,632,Technology,SMB,96 Commerce Way,Leeds,West Yorkshire,LS5 8GC,Customer,1522342,25,2021-10-06
+ACC000633,Jones Ward UK,633,Insurance,Enterprise,49 Victoria Road,Glasgow,Scotland,G62 6TK,Partner,5061432,50,2022-04-03
+ACC000634,Wilson Clark and Co,634,Retail,SMB,53 Innovation Drive,Glasgow,Scotland,G5 9RN,Prospect,350680092,500,2024-12-22
+ACC000635,University of Newcastle,635,Education,Public Sector,176 Enterprise Road,Manchester,Greater Manchester,M77 8CL,Partner,184579522,2500,2024-01-25
+ACC000636,Wilson Clark and Co,636,Healthcare,SMB,6 The Green,Newcastle,Tyne and Wear,NE98 4KX,Customer,149945031,2500,2024-03-30
+ACC000637,Wright Wright Partners,637,Construction,Enterprise,137 Victoria Road,Sheffield,South Yorkshire,S99 2RY,Customer,6357547,25,2023-07-08
+ACC000638,Johnson Roberts Partners,638,Professional Services,SMB,4 The Green,Leeds,West Yorkshire,LS72 4TD,Partner,9047098,100,2021-04-23
+ACC000639,Clarke King Associates,639,Media & Entertainment,Enterprise,37 Innovation Drive,Sheffield,South Yorkshire,S37 3VH,Partner,317657003,500,2024-08-12
+ACC000640,Hall Harris UK,640,Healthcare,Public Sector,13 Mill Lane,Cambridge,Cambridgeshire,CB4 1SY,Partner,32460802,25,2022-07-02
+ACC000641,Jackson Brown PLC,641,Financial Services,Enterprise,101 Mill Lane,Reading,Berkshire,RG91 8WV,Prospect,7483316,50,2024-02-07
+ACC000642,Hall Harris Solutions,642,Transport & Logistics,Enterprise,21 Technology Park,Southampton,Hampshire,SO97 3RV,Customer,249508395,2500,2020-03-07
+ACC000643,Hill Wilson Holdings,643,Financial Services,SMB,176 Business Park,Newcastle,Tyne and Wear,NE91 4RS,Customer,163481932,2500,2020-03-23
+ACC000644,Johnson Hughes Associates,644,Technology,Enterprise,47 Innovation Drive,Belfast,Northern Ireland,BT86 8LL,Partner,7175907,5,2021-09-16
+ACC000645,Jones Taylor Holdings,645,Real Estate,Enterprise,90 Kings Road,Leeds,West Yorkshire,LS60 6FK,Partner,171269928,5000,2022-07-15
+ACC000646,Academy of Leeds,646,Education,Enterprise,183 Commerce Way,Belfast,Northern Ireland,BT14 2LU,Prospect,2599513,25,2020-07-01
+ACC000647,Lee Hill Services,647,Construction,SMB,106 Church Road,Milton Keynes,Buckinghamshire,MK80 3HU,Partner,49886271,50,2023-08-15
+ACC000648,Jackson Taylor Associates,648,Real Estate,SMB,178 The Green,Bristol,Avon,BS56 6PV,Customer,3328384,100,2023-01-14
+ACC000649,White Walker and Co,649,Media & Entertainment,Enterprise,190 Technology Park,Birmingham,West Midlands,B92 2VS,Partner,3115593,5,2021-07-17
+ACC000650,Lewis King PLC,650,Charity,SMB,46 Park Lane,Cambridge,Cambridgeshire,CB52 2CW,Partner,29827742,25,2022-04-29
+ACC000651,Lewis Networks Group,651,IT Reseller,Partner,24 Church Road,Manchester,Greater Manchester,M18 1VX,Customer,3164676,25,2024-04-22
+ACC000652,Johnson Cooper UK,652,Retail,SMB,100 The Green,Newcastle,Tyne and Wear,NE74 4RG,Customer,6642102,5,2021-10-17
+ACC000653,Hall Baker and Co,653,Construction,Enterprise,112 Innovation Drive,Newcastle,Tyne and Wear,NE45 1CV,Partner,73482600,5000,2022-11-07
+ACC000654,Wood Thomas Partners,654,Insurance,Enterprise,95 Technology Park,Manchester,Greater Manchester,M71 9BA,Partner,27846445,25,2024-12-19
+ACC000655,Evans Green Ltd,655,Transport & Logistics,Enterprise,111 Innovation Drive,Liverpool,Merseyside,L76 6NX,Partner,3513440,10,2022-02-03
+ACC000656,Wood Networks Partners,656,IT Reseller,Partner,55 Business Park,Southampton,Hampshire,SO23 4SE,Customer,355608299,500,2020-01-02
+ACC000657,Patel Networks Ltd,657,IT Reseller,Partner,172 Mill Lane,Newcastle,Tyne and Wear,NE18 1AC,Customer,29419429,500,2024-02-22
+ACC000658,Morris Martin Group,658,Retail,SMB,36 Business Park,Birmingham,West Midlands,B54 7RZ,Customer,332730330,5000,2024-06-30
+ACC000659,Hill Moore Services,659,Hospitality,SMB,116 Queens Road,Southampton,Hampshire,SO46 7HF,Customer,3633682,50,2023-05-12
+ACC000660,Baker Morris LLP,660,Legal Services,SMB,183 Market Street,Liverpool,Merseyside,L35 6PU,Customer,7031725,100,2023-11-27
+ACC000661,Williams Baker Holdings,661,Healthcare,SMB,29 The Green,Cardiff,Wales,CF62 3ZC,Customer,104756300,5000,2024-08-21
+ACC000662,Edwards Hill UK,662,Recruitment,SMB,134 Technology Park,Birmingham,West Midlands,B79 8CH,Customer,412174174,1000,2023-10-25
+ACC000663,Lee Harrison Partners,663,Healthcare,Public Sector,14 Technology Park,Coventry,West Midlands,CV44 8UA,Customer,19877362,2500,2022-10-06
+ACC000664,Moore Ward International,664,Charity,SMB,108 Victoria Road,Nottingham,Nottinghamshire,NG38 1KF,Prospect,55762096,1000,2023-09-13
+ACC000665,Baker Hughes Ltd,665,Construction,SMB,149 Mill Lane,Oxford,Oxfordshire,OX74 5BY,Customer,162982248,1000,2024-12-09
+ACC000666,Green Morris PLC,666,Legal Services,Enterprise,130 Station Road,Glasgow,Scotland,G36 5JE,Prospect,970113,25,2022-06-04
+ACC000667,Hughes Smith LLP,667,Professional Services,SMB,155 Mill Lane,Leeds,West Yorkshire,LS76 8EY,Customer,498057679,2500,2022-12-26
+ACC000668,Walker IT Solutions Group,668,Telecommunications,Partner,125 Mill Lane,Liverpool,Merseyside,L68 2BL,Customer,4294038,10,2020-12-02
+ACC000669,Morgan Johnson Holdings,669,Retail,SMB,198 Queens Road,Reading,Berkshire,RG31 3YR,Customer,8045295,10,2021-11-28
+ACC000670,Baker Clarke Ltd,670,Technology,SMB,194 Enterprise Road,Sheffield,South Yorkshire,S15 8BF,Partner,8876956,10,2020-05-04
+ACC000671,Ward IT Solutions Partners,671,MSP,Partner,60 Queens Road,Southampton,Hampshire,SO88 8ZN,Prospect,40320876,250,2023-10-19
+ACC000672,Johnson Clark Services,672,Manufacturing,Enterprise,74 Technology Park,London,Greater London,EC58 6NY,Prospect,431900784,2500,2024-12-07
+ACC000673,Williams Wilson UK,673,Recruitment,SMB,111 The Green,Cardiff,Wales,CF84 5JL,Customer,324532201,10000,2020-05-18
+ACC000674,Wilson Hughes and Co,674,Professional Services,SMB,101 Kings Road,Milton Keynes,Buckinghamshire,MK99 4YH,Partner,7559558,10,2021-05-12
+ACC000675,Harris Walker Associates,675,Recruitment,SMB,3 Business Park,Southampton,Hampshire,SO2 7CA,Partner,49090829,1000,2022-08-19
+ACC000676,Clark Wilson and Co,676,Financial Services,Enterprise,90 Church Road,Cambridge,Cambridgeshire,CB93 4KJ,Customer,231592351,1000,2021-02-04
+ACC000677,Jones Davies Ltd,677,Healthcare,SMB,169 Technology Park,Coventry,West Midlands,CV28 2WX,Customer,462418677,5000,2023-03-05
+ACC000678,University of Coventry,678,Education,Public Sector,97 Business Park,Glasgow,Scotland,G98 3XV,Customer,3963356,50,2023-07-01
+ACC000679,Academy of Edinburgh,679,Education,Public Sector,76 Kings Road,Sheffield,South Yorkshire,S85 8CX,Customer,44584115,1000,2020-03-02
+ACC000680,Martin Lewis Partners,680,Professional Services,SMB,200 Station Road,Edinburgh,Scotland,EH36 7BN,Customer,98494251,500,2024-12-18
+ACC000681,Brown Hughes Partners,681,Transport & Logistics,SMB,113 Station Road,Edinburgh,Scotland,EH63 7GW,Customer,2402564,50,2023-09-03
+ACC000682,Morris Wilson Group,682,Hospitality,SMB,197 Queens Road,Southampton,Hampshire,SO28 2WX,Partner,42322497,100,2024-12-03
+ACC000683,Kings Hospital NHS Trust,683,NHS Trust,Public Sector,27 High Street,Sheffield,South Yorkshire,S10 5CV,Customer,95349484,5000,2023-07-26
+ACC000684,Royal Hospital NHS Trust,684,NHS Trust,Public Sector,39 Business Park,Oxford,Oxfordshire,OX82 7AB,Customer,43945953,5000,2021-03-04
+ACC000685,Johnson Harris Services,685,Professional Services,SMB,1 Market Street,Milton Keynes,Buckinghamshire,MK91 7SS,Partner,110466289,5000,2022-11-28
+ACC000686,Taylor Tech Ltd,686,MSP,Partner,99 Innovation Drive,London,Greater London,EC62 9DV,Partner,6826758,100,2023-08-23
+ACC000687,Harris Hall Services,687,Transport & Logistics,Enterprise,162 Business Park,Manchester,Greater Manchester,M12 6MU,Customer,457277021,1000,2021-06-05
+ACC000688,Hill Green and Co,688,Financial Services,SMB,46 Market Street,Bristol,Avon,BS6 4NY,Partner,185589406,2500,2022-07-12
+ACC000689,Jackson Wilson and Co,689,Construction,SMB,125 Station Road,Cardiff,Wales,CF81 3RG,Customer,1373196,25,2020-06-17
+ACC000690,Wright Jones LLP,690,Healthcare,SMB,62 Kings Road,Milton Keynes,Buckinghamshire,MK50 5CU,Customer,25552163,5000,2021-02-14
+ACC000691,Lee Cooper Ltd,691,Real Estate,Enterprise,87 High Street,Manchester,Greater Manchester,M44 2BN,Customer,243174,25,2021-07-31
+ACC000692,Clark Hill and Co,692,Technology,SMB,39 Innovation Drive,Southampton,Hampshire,SO75 1HC,Partner,15728766,25,2022-08-29
+ACC000693,Morris Jones Holdings,693,Retail,SMB,12 Church Road,Coventry,West Midlands,CV90 1XE,Prospect,197352182,5000,2021-03-05
+ACC000694,Brown Hall PLC,694,Hospitality,SMB,157 Mill Lane,Cambridge,Cambridgeshire,CB76 2CD,Customer,5801271,10,2022-05-08
+ACC000695,Morgan Thompson PLC,695,Real Estate,Enterprise,110 Victoria Road,Bristol,Avon,BS95 6YN,Customer,310045159,10000,2024-06-24
+ACC000696,Academy of Milton Keynes,696,Education,Public Sector,36 Victoria Road,Southampton,Hampshire,SO28 3BV,Prospect,63324773,1000,2023-03-12
+ACC000697,Taylor Evans Partners,697,Transport & Logistics,SMB,194 Queens Road,Glasgow,Scotland,G22 9ZM,Customer,1265866,50,2021-08-04
+ACC000698,Cooper White International,698,Retail,Enterprise,35 Station Road,Manchester,Greater Manchester,M81 3WN,Customer,466551864,2500,2022-03-11
+ACC000699,Morris Davies Ltd,699,Legal Services,Enterprise,46 Technology Park,London,Greater London,EC12 5ZX,Customer,7351124,50,2020-11-21
+ACC000700,Oxford Borough Council,700,Local Government,Public Sector,37 Business Park,Bristol,Avon,BS35 7TR,Prospect,39343655,2500,2023-05-23
+ACC000701,Walker Williams International,701,Manufacturing,SMB,184 Kings Road,Edinburgh,Scotland,EH79 5CX,Partner,23772135,50,2022-03-11
+ACC000702,Turner Smith UK,702,Transport & Logistics,Enterprise,50 Station Road,Liverpool,Merseyside,L68 6DW,Partner,56289519,2500,2023-12-01
+ACC000703,Moore Thompson Holdings,703,Media & Entertainment,Enterprise,71 High Street,Bristol,Avon,BS25 8DE,Prospect,225803278,5000,2020-09-05
+ACC000704,Walker Roberts and Co,704,Real Estate,Enterprise,14 Business Park,Manchester,Greater Manchester,M47 7KG,Customer,276691349,250,2022-08-04
+ACC000705,Harris Hill Ltd,705,Manufacturing,Enterprise,190 High Street,Leeds,West Yorkshire,LS69 1FF,Customer,2024056,10,2021-10-31
+ACC000706,Moore Evans PLC,706,Real Estate,Enterprise,185 Kings Road,Liverpool,Merseyside,L76 7VL,Customer,456810445,500,2020-12-15
+ACC000707,Lewis Thompson PLC,707,Hospitality,Enterprise,59 Station Road,Nottingham,Nottinghamshire,NG31 7PG,Partner,10800974,100,2022-01-03
+ACC000708,Taylor Ward International,708,Technology,Enterprise,14 Technology Park,Oxford,Oxfordshire,OX56 8EG,Customer,6653489,25,2022-06-28
+ACC000709,Jackson Patel Group,709,Hospitality,SMB,185 Church Road,Cambridge,Cambridgeshire,CB81 4MJ,Customer,231389194,250,2020-01-30
+ACC000710,Thomas Williams LLP,710,Transport & Logistics,SMB,16 Park Lane,Milton Keynes,Buckinghamshire,MK18 8DR,Prospect,8698324,5,2024-07-28
+ACC000711,Edinburgh City Council,711,Local Government,Public Sector,76 The Green,Liverpool,Merseyside,L21 3XW,Customer,6082358,25,2020-12-21
+ACC000712,Davies Turner UK,712,Technology,Enterprise,56 The Green,Oxford,Oxfordshire,OX61 1RJ,Partner,6290456,5,2020-05-17
+ACC000713,White White Associates,713,Central Government,Public Sector,149 Church Road,Reading,Berkshire,RG76 1EV,Prospect,368945068,10000,2020-09-29
+ACC000714,Manchester Council,714,Local Government,Public Sector,188 Commerce Way,Oxford,Oxfordshire,OX65 9BP,Prospect,6515127,100,2023-08-04
+ACC000715,Ward Connect Ltd,715,MSP,Partner,127 Church Road,Cambridge,Cambridgeshire,CB11 7UA,Customer,73457154,5000,2024-03-30
+ACC000716,Thomas Clarke Partners,716,Technology,SMB,166 Station Road,Liverpool,Merseyside,L3 5SY,Customer,73904809,5000,2024-02-22
+ACC000717,Hill Baker LLP,717,Retail,Enterprise,7 Kings Road,Milton Keynes,Buckinghamshire,MK60 7EZ,Customer,5850028,10,2021-02-25
+ACC000718,Patel Hill LLP,718,Hospitality,SMB,161 Station Road,London,Greater London,EC50 9ZL,Customer,242490694,10000,2020-01-13
+ACC000719,Green Martin Partners,719,Healthcare,SMB,139 The Green,Coventry,West Midlands,CV27 6YC,Partner,9308126,10,2021-04-28
+ACC000720,Moore Patel Ltd,720,Healthcare,Enterprise,99 Victoria Road,Leeds,West Yorkshire,LS60 6WB,Customer,5185186,25,2023-03-26
+ACC000721,Walker Connect Group,721,Telecommunications,Partner,144 Innovation Drive,Birmingham,West Midlands,B27 4EL,Prospect,7191683,100,2023-06-02
+ACC000722,Evans Ward LLP,722,Media & Entertainment,Enterprise,180 Church Road,Milton Keynes,Buckinghamshire,MK97 6HL,Partner,51016591,1000,2021-06-10
+ACC000723,Moore Martin Partners,723,Professional Services,SMB,17 Victoria Road,Manchester,Greater Manchester,M45 9RS,Prospect,3383565,10,2021-01-23
+ACC000724,Evans Ward LLP,724,Recruitment,SMB,174 Enterprise Road,Southampton,Hampshire,SO69 6KR,Customer,9970187,5,2022-04-17
+ACC000725,Wright Hill PLC,725,Healthcare,Public Sector,101 Technology Park,Birmingham,West Midlands,B23 2KC,Prospect,345902152,10000,2022-01-24
+ACC000726,Edwards Evans LLP,726,Retail,Enterprise,128 Mill Lane,Glasgow,Scotland,G27 1TX,Customer,197226059,1000,2021-06-19
+ACC000727,Turner Lee Group,727,Professional Services,Enterprise,89 Queens Road,Oxford,Oxfordshire,OX57 5XA,Prospect,218495802,10000,2023-04-15
+ACC000728,Taylor Jones Solutions,728,Hospitality,Enterprise,166 Victoria Road,Brighton,East Sussex,BN53 6VL,Prospect,9932786,25,2024-02-12
+ACC000729,Harrison Clark UK,729,Real Estate,Enterprise,118 Park Lane,Cambridge,Cambridgeshire,CB73 3EK,Customer,8446874,500,2024-07-29
+ACC000730,Thompson Ward Associates,730,Manufacturing,Enterprise,198 Enterprise Road,Newcastle,Tyne and Wear,NE7 5EM,Customer,105072759,10000,2020-10-02
+ACC000731,Roberts Roberts LLP,731,Charity,SMB,74 Mill Lane,Southampton,Hampshire,SO23 3ZZ,Customer,144238499,2500,2022-06-21
+ACC000732,White Evans Ltd,732,Retail,Enterprise,148 Mill Lane,Nottingham,Nottinghamshire,NG57 3JM,Customer,597723,100,2021-04-25
+ACC000733,King Williams and Co,733,Technology,SMB,89 Mill Lane,Nottingham,Nottinghamshire,NG48 3RU,Partner,430087163,250,2022-02-08
+ACC000734,Hall Evans Ltd,734,Media & Entertainment,Enterprise,128 Commerce Way,Belfast,Northern Ireland,BT19 3RL,Customer,174234488,500,2022-01-09
+ACC000735,Lee Moore Associates,735,Legal Services,SMB,122 Technology Park,Newcastle,Tyne and Wear,NE38 3VY,Prospect,394349623,500,2020-02-22
+ACC000736,County Hospital NHS Trust,736,NHS Trust,Public Sector,188 Kings Road,Leeds,West Yorkshire,LS6 9EY,Prospect,281442351,2500,2023-09-14
+ACC000737,College of London,737,Education,Public Sector,159 Enterprise Road,Belfast,Northern Ireland,BT29 2RM,Customer,330753412,2500,2022-03-30
+ACC000738,Brown Morgan and Co,738,Construction,Enterprise,150 Market Street,Bristol,Avon,BS29 1JG,Partner,62365570,1000,2024-11-16
+ACC000739,Lee Cooper and Co,739,Financial Services,SMB,132 Queens Road,Birmingham,West Midlands,B25 9SL,Prospect,2919458,50,2020-08-24
+ACC000740,Patel Wood Group,740,Healthcare,Enterprise,95 Queens Road,Reading,Berkshire,RG48 6AK,Customer,180288779,2500,2024-04-18
+ACC000741,Hall Cooper UK,741,Transport & Logistics,Enterprise,56 Innovation Drive,Birmingham,West Midlands,B57 5PR,Customer,3854845,100,2024-04-18
+ACC000742,Martin Turner Group,742,Retail,Enterprise,154 Station Road,Milton Keynes,Buckinghamshire,MK19 8GK,Customer,144100004,250,2021-08-18
+ACC000743,Harris Taylor International,743,Recruitment,SMB,23 High Street,Belfast,Northern Ireland,BT53 7XJ,Prospect,9779058,5,2021-09-28
+ACC000744,King Hill LLP,744,Hospitality,SMB,194 Technology Park,Milton Keynes,Buckinghamshire,MK18 7GF,Partner,322170442,500,2020-08-06
+ACC000745,King Morris Ltd,745,Professional Services,Enterprise,150 Park Lane,Newcastle,Tyne and Wear,NE64 4UR,Customer,4854542,10,2024-03-09
+ACC000746,Smith Johnson Partners,746,Legal Services,Enterprise,164 Enterprise Road,Newcastle,Tyne and Wear,NE82 5SD,Partner,261776095,10000,2024-08-24
+ACC000747,Edinburgh County Council,747,Local Government,Public Sector,8 Station Road,Liverpool,Merseyside,L98 2JS,Customer,469625209,500,2024-10-20
+ACC000748,Harrison Networks Group,748,Telecommunications,Partner,67 Business Park,Reading,Berkshire,RG88 2SZ,Customer,411794706,2500,2022-03-11
+ACC000749,Moore Connect Group,749,Telecommunications,Partner,67 Mill Lane,London,Greater London,EC75 6BE,Customer,5526063,100,2024-11-08
+ACC000750,Thomas Clarke Group,750,Charity,SMB,70 Victoria Road,Manchester,Greater Manchester,M54 1XM,Partner,15138890,25,2024-02-14
+ACC000751,Green Clark and Co,751,Professional Services,Enterprise,132 Church Road,Birmingham,West Midlands,B99 2XF,Customer,1711413,25,2022-08-28
+ACC000752,Lee Lewis Associates,752,Retail,Enterprise,70 Business Park,Newcastle,Tyne and Wear,NE90 2ZM,Customer,4140883,50,2022-09-27
+ACC000753,Harrison Clarke Group,753,Media & Entertainment,Enterprise,36 Market Street,London,Greater London,EC37 7MS,Prospect,202205065,250,2020-09-02
+ACC000754,Roberts Wilson Solutions,754,Transport & Logistics,SMB,129 Church Road,Glasgow,Scotland,G25 9UW,Prospect,264948318,10000,2023-12-10
+ACC000755,King Evans Services,755,Media & Entertainment,Enterprise,20 Station Road,Cambridge,Cambridgeshire,CB17 6AS,Partner,425624696,5000,2022-09-27
+ACC000756,Patel Thomas Holdings,756,Construction,SMB,134 Commerce Way,Coventry,West Midlands,CV44 5FZ,Customer,3118851,5,2023-02-10
+ACC000757,Evans Thompson Group,757,Legal Services,Enterprise,177 Church Road,Glasgow,Scotland,G40 3EG,Customer,687291,5,2020-09-12
+ACC000758,Martin Evans PLC,758,Financial Services,SMB,199 Kings Road,London,Greater London,EC97 4PB,Customer,9060751,50,2020-10-13
+ACC000759,Williams Moore International,759,Financial Services,Enterprise,121 Station Road,Manchester,Greater Manchester,M33 5BC,Customer,716293,10,2020-10-17
+ACC000760,Wilson Evans International,760,Legal Services,SMB,151 Technology Park,Bristol,Avon,BS26 6FY,Partner,231567585,250,2023-01-31
+ACC000761,Davies Johnson LLP,761,Legal Services,Enterprise,149 Victoria Road,Sheffield,South Yorkshire,S46 4FT,Partner,3518574,5,2023-07-13
+ACC000762,Baker Taylor PLC,762,Insurance,Enterprise,196 High Street,Milton Keynes,Buckinghamshire,MK68 4GZ,Customer,126400896,5000,2020-02-23
+ACC000763,Roberts Lee Ltd,763,Professional Services,Enterprise,55 Technology Park,Leeds,West Yorkshire,LS65 6ZS,Customer,493147401,1000,2024-05-12
+ACC000764,Cooper Wilson Group,764,Hospitality,SMB,98 Queens Road,Cardiff,Wales,CF28 7TH,Customer,8932796,25,2023-04-20
+ACC000765,College of Leeds,765,Education,Public Sector,29 Market Street,Cambridge,Cambridgeshire,CB18 5SM,Partner,11958665,50,2024-03-19
+ACC000766,Davies Lewis Holdings,766,Healthcare,SMB,99 Park Lane,Leeds,West Yorkshire,LS59 8WK,Partner,2708710,10,2020-10-19
+ACC000767,King Turner Partners,767,Technology,Enterprise,49 Enterprise Road,Reading,Berkshire,RG9 6SY,Prospect,7780384,10,2022-06-17
+ACC000768,Smith Morris and Co,768,Hospitality,SMB,102 Kings Road,Leeds,West Yorkshire,LS67 2YY,Customer,169100769,2500,2024-04-27
+ACC000769,University of Belfast,769,Education,Public Sector,178 The Green,Belfast,Northern Ireland,BT14 6FC,Customer,4895781,100,2022-10-06
+ACC000770,Harris Wright International,770,Hospitality,Enterprise,32 Church Road,Belfast,Northern Ireland,BT55 5SJ,Partner,47334065,10,2022-04-10
+ACC000771,Clarke Networks Group,771,MSP,Partner,104 Kings Road,Coventry,West Midlands,CV66 8JE,Customer,7627132,10,2023-10-13
+ACC000772,Evans Hughes Holdings,772,Financial Services,Enterprise,60 Business Park,Oxford,Oxfordshire,OX18 1AD,Partner,25940619,25,2022-02-03
+ACC000773,Morris Jones Group,773,Healthcare,Public Sector,155 Business Park,Belfast,Northern Ireland,BT42 2EK,Customer,119388909,250,2024-02-20
+ACC000774,Clark Morris Holdings,774,Healthcare,Public Sector,76 Business Park,Bristol,Avon,BS64 5ST,Customer,7823456,25,2021-09-03
+ACC000775,Harris Lee UK,775,Media & Entertainment,Enterprise,196 High Street,London,Greater London,EC56 8DN,Customer,289056553,5000,2020-11-10
+ACC000776,Jackson Cooper Holdings,776,Construction,Enterprise,9 Mill Lane,Manchester,Greater Manchester,M72 3YK,Customer,200687138,2500,2021-01-08
+ACC000777,Martin Thomas Partners,777,Real Estate,Enterprise,125 Commerce Way,Belfast,Northern Ireland,BT15 8VY,Customer,197863757,10000,2021-02-10
+ACC000778,Baker Ward Holdings,778,Media & Entertainment,Enterprise,41 Market Street,Southampton,Hampshire,SO8 8NJ,Prospect,362149559,1000,2020-08-31
+ACC000779,Clarke IT Solutions Partners,779,IT Reseller,Partner,8 The Green,Manchester,Greater Manchester,M6 6EM,Customer,430584531,250,2020-09-15
+ACC000780,Harris Jackson PLC,780,Legal Services,Enterprise,89 Victoria Road,Reading,Berkshire,RG53 4MB,Customer,85758759,5000,2020-06-18
+ACC000781,White Hall International,781,Manufacturing,SMB,177 Station Road,Birmingham,West Midlands,B40 3DL,Partner,45216679,100,2021-02-10
+ACC000782,Lee Lewis Ltd,782,Legal Services,Enterprise,169 Enterprise Road,Cambridge,Cambridgeshire,CB55 7VT,Customer,220437258,250,2021-07-14
+ACC000783,Jones Ward International,783,Professional Services,SMB,82 Queens Road,London,Greater London,EC74 2NL,Customer,380894927,10000,2021-04-18
+ACC000784,Wilson Robinson Associates,784,Real Estate,Enterprise,129 Commerce Way,Oxford,Oxfordshire,OX98 3YL,Customer,104227424,5000,2021-05-20
+ACC000785,Patel Martin Solutions,785,Construction,SMB,163 Enterprise Road,Oxford,Oxfordshire,OX10 5UG,Partner,1790500,50,2021-01-13
+ACC000786,Brown Hall International,786,Manufacturing,Enterprise,58 The Green,Belfast,Northern Ireland,BT96 2CZ,Customer,5656810,25,2024-02-27
+ACC000787,Edwards Taylor International,787,Transport & Logistics,SMB,122 Queens Road,Brighton,East Sussex,BN27 5MC,Partner,42748964,250,2020-09-03
+ACC000788,Hall Martin and Co,788,Insurance,Enterprise,81 Church Road,Southampton,Hampshire,SO54 9NJ,Customer,166853919,10000,2022-08-29
+ACC000789,King Walker Ltd,789,Charity,SMB,48 The Green,Brighton,East Sussex,BN64 8GY,Partner,23809561,50,2022-07-07
+ACC000790,Lee Martin International,790,Professional Services,SMB,134 Church Road,Manchester,Greater Manchester,M47 4RE,Customer,2263157,25,2020-04-03
+ACC000791,Hall Martin Services,791,Retail,SMB,17 Business Park,Nottingham,Nottinghamshire,NG27 5PJ,Customer,7444141,100,2022-02-25
+ACC000792,Hughes Morgan Solutions,792,Retail,Enterprise,62 Station Road,Belfast,Northern Ireland,BT20 4GA,Partner,379049642,250,2024-12-05
+ACC000793,Hill Morris UK,793,Construction,SMB,109 Business Park,Reading,Berkshire,RG5 5GF,Partner,15527651,10,2022-12-28
+ACC000794,University of Sheffield,794,Education,Enterprise,169 Market Street,Sheffield,South Yorkshire,S23 8XB,Customer,153504233,500,2020-01-03
+ACC000795,Brown Davies Associates,795,Legal Services,Enterprise,77 Enterprise Road,Coventry,West Midlands,CV9 2PM,Customer,5546473,5,2023-07-05
+ACC000796,Thomas Telecom Ltd,796,MSP,Partner,189 Market Street,Milton Keynes,Buckinghamshire,MK16 9TY,Partner,42525559,250,2023-02-02
+ACC000797,Morris Davies Solutions,797,Manufacturing,Enterprise,32 Commerce Way,Coventry,West Midlands,CV41 7LV,Customer,84636311,2500,2020-07-10
+ACC000798,Martin Robinson Group,798,Manufacturing,SMB,45 Church Road,Leeds,West Yorkshire,LS36 5RP,Customer,171516002,500,2024-12-17
+ACC000799,Morris Lee Associates,799,Healthcare,Enterprise,82 Market Street,Leeds,West Yorkshire,LS55 4SY,Prospect,1781644,100,2020-10-08
+ACC000800,Johnson Patel Holdings,800,Professional Services,SMB,79 High Street,Cardiff,Wales,CF83 1WB,Customer,45481543,1000,2024-04-26
+ACC000801,Hughes King Services,801,Manufacturing,SMB,164 Innovation Drive,Newcastle,Tyne and Wear,NE47 9YD,Customer,3494393,10,2022-09-10
+ACC000802,Cooper Jackson Ltd,802,Manufacturing,SMB,66 Park Lane,Belfast,Northern Ireland,BT12 4HK,Partner,42609862,250,2020-09-09
+ACC000803,Cooper Lewis and Co,803,Retail,Enterprise,9 Park Lane,Reading,Berkshire,RG11 7SS,Customer,3902977,50,2022-02-28
+ACC000804,Martin Wilson Group,804,Transport & Logistics,SMB,130 Station Road,Sheffield,South Yorkshire,S46 9PW,Customer,85648943,2500,2020-06-05
+ACC000805,Hill Jones Ltd,805,Construction,Enterprise,162 Kings Road,Edinburgh,Scotland,EH83 7EA,Partner,102369853,10000,2022-05-20
+ACC000806,Hall Lewis International,806,Hospitality,Enterprise,29 Mill Lane,Birmingham,West Midlands,B32 3TZ,Customer,81243031,500,2024-06-03
+ACC000807,Nottingham County Council,807,Local Government,Public Sector,189 Mill Lane,Oxford,Oxfordshire,OX34 6FY,Partner,7271473,25,2020-10-23
+ACC000808,Wright Davies Services,808,Professional Services,Enterprise,47 Queens Road,Cardiff,Wales,CF49 1VH,Partner,5694616,10,2024-06-30
+ACC000809,King Thompson PLC,809,Legal Services,Enterprise,51 Park Lane,Cambridge,Cambridgeshire,CB90 7FB,Customer,9846957,50,2022-12-15
+ACC000810,Morgan Hughes Group,810,Central Government,Public Sector,95 Mill Lane,Birmingham,West Midlands,B73 9DA,Customer,9467969,50,2020-09-30
+ACC000811,Hill Morris PLC,811,Central Government,Public Sector,183 Church Road,Liverpool,Merseyside,L25 8JK,Prospect,135189805,500,2024-08-22
+ACC000812,Thomas Networks Ltd,812,IT Reseller,Partner,56 Enterprise Road,Coventry,West Midlands,CV37 7YG,Customer,24517886,500,2023-09-19
+ACC000813,Turner Johnson Ltd,813,Hospitality,SMB,68 Church Road,Newcastle,Tyne and Wear,NE80 6RH,Customer,9649308,50,2020-11-02
+ACC000814,Davies Smith Holdings,814,Charity,SMB,83 Innovation Drive,Glasgow,Scotland,G51 7YG,Partner,19744746,10,2020-11-15
+ACC000815,Morgan Hughes PLC,815,Central Government,Public Sector,143 High Street,Leeds,West Yorkshire,LS7 8LH,Prospect,302510194,10000,2024-08-25
+ACC000816,Morgan Morgan LLP,816,Transport & Logistics,Enterprise,2 Park Lane,Manchester,Greater Manchester,M65 5WN,Prospect,2199389,10,2022-03-31
+ACC000817,Patel Telecom Group,817,MSP,Partner,149 Mill Lane,Manchester,Greater Manchester,M34 8FT,Prospect,449128436,2500,2020-12-03
+ACC000818,Hill Thomas PLC,818,Transport & Logistics,SMB,182 Market Street,Nottingham,Nottinghamshire,NG56 2EJ,Customer,20058619,500,2021-07-31
+ACC000819,Williams Thomas Holdings,819,Construction,Enterprise,192 Victoria Road,Sheffield,South Yorkshire,S56 5KJ,Customer,4132154,25,2020-06-23
+ACC000820,Lewis Martin Group,820,Recruitment,SMB,189 Kings Road,Nottingham,Nottinghamshire,NG98 8EU,Customer,6779620,100,2021-02-03
+ACC000821,Wright Johnson Ltd,821,Healthcare,Enterprise,47 High Street,Liverpool,Merseyside,L61 8JF,Partner,2619714,5,2023-04-17
+ACC000822,Evans Morris Ltd,822,Central Government,Public Sector,92 Innovation Drive,Cambridge,Cambridgeshire,CB72 8SR,Partner,48715216,25,2024-12-16
+ACC000823,Academy of Glasgow,823,Education,Public Sector,90 Station Road,Leeds,West Yorkshire,LS27 3KF,Partner,417658427,1000,2022-07-05
+ACC000824,Edwards Baker and Co,824,Insurance,Enterprise,55 The Green,Milton Keynes,Buckinghamshire,MK1 3TV,Partner,41226829,10,2020-11-08
+ACC000825,Birmingham Borough Council,825,Local Government,Public Sector,174 Station Road,Oxford,Oxfordshire,OX43 2AK,Prospect,5363326,10,2021-08-28
+ACC000826,Patel Tech Ltd,826,MSP,Partner,40 High Street,Nottingham,Nottinghamshire,NG11 8RZ,Customer,7516290,10,2020-09-10
+ACC000827,Edwards Morgan and Co,827,Charity,SMB,85 High Street,London,Greater London,EC84 6WR,Customer,6369362,5,2023-10-29
+ACC000828,University of Manchester,828,Education,Enterprise,83 Commerce Way,Newcastle,Tyne and Wear,NE8 7CU,Customer,87979966,250,2021-08-18
+ACC000829,Wood Hughes Group,829,Financial Services,SMB,198 Enterprise Road,Liverpool,Merseyside,L52 4CA,Prospect,9077752,50,2020-08-11
+ACC000830,Jackson Wood Partners,830,Retail,Enterprise,31 Park Lane,Glasgow,Scotland,G63 3PK,Customer,8258676,10,2023-12-09
+ACC000831,Wilson Patel UK,831,Transport & Logistics,Enterprise,126 Kings Road,Bristol,Avon,BS50 7SJ,Customer,95949441,500,2023-05-16
+ACC000832,Martin Patel International,832,Financial Services,SMB,112 Business Park,Edinburgh,Scotland,EH55 9CB,Partner,17416217,25,2020-06-20
+ACC000833,Hill Thompson and Co,833,Transport & Logistics,SMB,127 Market Street,Glasgow,Scotland,G81 2XT,Customer,59413139,500,2020-07-08
+ACC000834,Hill Martin PLC,834,Professional Services,Enterprise,77 Mill Lane,Oxford,Oxfordshire,OX17 4YK,Customer,379032641,2500,2021-12-27
+ACC000835,Martin Green International,835,Recruitment,SMB,142 Station Road,Manchester,Greater Manchester,M6 9TD,Customer,13808234,1000,2022-07-28
+ACC000836,Turner Wilson Holdings,836,Central Government,Public Sector,65 Victoria Road,Milton Keynes,Buckinghamshire,MK33 9VC,Prospect,181507813,500,2020-03-15
+ACC000837,Evans Hill Group,837,Legal Services,Enterprise,101 High Street,Edinburgh,Scotland,EH11 5PZ,Partner,12715380,1000,2024-07-24
+ACC000838,Harrison Hill and Co,838,Construction,Enterprise,160 Commerce Way,Cambridge,Cambridgeshire,CB34 4LF,Customer,194091959,5000,2022-05-22
+ACC000839,Davies Morgan Partners,839,Hospitality,SMB,112 Market Street,Leeds,West Yorkshire,LS3 2AN,Partner,7412788,50,2021-08-06
+ACC000840,Roberts Ward Holdings,840,Legal Services,SMB,169 Innovation Drive,Belfast,Northern Ireland,BT78 6SK,Customer,335852264,2500,2020-07-31
+ACC000841,Hall Communications Ltd,841,MSP,Partner,4 Church Road,Glasgow,Scotland,G15 4AZ,Prospect,118747446,500,2024-05-10
+ACC000842,Robinson Ward and Co,842,Legal Services,Enterprise,167 Church Road,Glasgow,Scotland,G56 4XU,Prospect,227592,25,2024-05-20
+ACC000843,Hall Hill Group,843,Financial Services,SMB,109 High Street,Oxford,Oxfordshire,OX15 8FE,Customer,14168820,500,2020-11-10
+ACC000844,Ward Jones Holdings,844,Real Estate,Enterprise,63 Church Road,Milton Keynes,Buckinghamshire,MK38 1VN,Partner,13429220,250,2023-08-12
+ACC000845,Smith Wilson and Co,845,Transport & Logistics,SMB,107 Enterprise Road,Reading,Berkshire,RG64 9VW,Partner,2758243,50,2021-04-18
+ACC000846,Williams Morris Services,846,Professional Services,Enterprise,132 The Green,Oxford,Oxfordshire,OX93 8WY,Customer,114394201,250,2020-07-10
+ACC000847,Brown Clark Ltd,847,Technology,Enterprise,148 Victoria Road,Reading,Berkshire,RG71 7CJ,Prospect,6108279,10,2021-05-05
+ACC000848,Evans Morris International,848,Real Estate,SMB,115 Innovation Drive,Cardiff,Wales,CF56 5AF,Customer,4713144,5,2020-10-21
+ACC000849,Ward Clarke Holdings,849,Hospitality,Enterprise,130 Church Road,Liverpool,Merseyside,L76 8YL,Customer,1656542,5,2022-10-09
+ACC000850,College of Belfast,850,Education,Enterprise,173 Business Park,Reading,Berkshire,RG95 3MS,Customer,117901788,10000,2022-05-09
+ACC000851,Green Davies and Co,851,Technology,SMB,34 Mill Lane,Oxford,Oxfordshire,OX26 8FW,Partner,627651,5,2021-12-03
+ACC000852,Turner Morris Partners,852,Financial Services,Enterprise,54 Market Street,Liverpool,Merseyside,L7 5AM,Partner,20867350,5000,2020-02-17
+ACC000853,Roberts Walker UK,853,Transport & Logistics,Enterprise,17 Victoria Road,Manchester,Greater Manchester,M56 4DW,Customer,2223664,25,2021-07-14
+ACC000854,Academy of Liverpool,854,Education,Public Sector,67 Victoria Road,Oxford,Oxfordshire,OX46 5BU,Prospect,108645207,1000,2020-12-20
+ACC000855,Moore Morgan and Co,855,Retail,SMB,181 High Street,Leeds,West Yorkshire,LS57 2RD,Prospect,232492243,5000,2024-03-10
+ACC000856,King Williams UK,856,Financial Services,Enterprise,43 Business Park,Leeds,West Yorkshire,LS16 3GM,Customer,7639737,10,2024-12-26
+ACC000857,Cooper Moore Holdings,857,Professional Services,Enterprise,40 Business Park,Leeds,West Yorkshire,LS47 2LE,Customer,439350295,1000,2022-05-29
+ACC000858,Cooper Turner Ltd,858,Hospitality,Enterprise,122 Victoria Road,Liverpool,Merseyside,L37 2TF,Partner,21880155,10,2024-01-08
+ACC000859,Patel Turner Associates,859,Professional Services,SMB,39 Commerce Way,Liverpool,Merseyside,L97 4TP,Partner,3748430,5,2023-02-22
+ACC000860,College of Reading,860,Education,Enterprise,118 Enterprise Road,Reading,Berkshire,RG67 1YM,Customer,3407179,5,2024-07-01
+ACC000861,City Hospital NHS Trust,861,NHS Trust,Public Sector,184 Commerce Way,London,Greater London,EC67 6CC,Customer,314459814,250,2021-08-06
+ACC000862,Wood Roberts Services,862,Construction,Enterprise,101 Commerce Way,Manchester,Greater Manchester,M5 3YX,Customer,5760462,5,2020-05-22
+ACC000863,Clark Green Services,863,Healthcare,Enterprise,175 Innovation Drive,Belfast,Northern Ireland,BT71 6KL,Prospect,333737147,250,2022-03-16
+ACC000864,Edwards Clark International,864,Legal Services,SMB,180 Queens Road,Glasgow,Scotland,G58 9XG,Customer,61444293,1000,2024-10-30
+ACC000865,Kings Hospital NHS Trust,865,NHS Trust,Public Sector,167 Queens Road,Cardiff,Wales,CF26 1KC,Customer,21563174,500,2020-04-08
+ACC000866,Harris Jackson LLP,866,Media & Entertainment,Enterprise,134 Market Street,Glasgow,Scotland,G37 9GC,Customer,467726302,500,2024-03-22
+ACC000867,Clark Harris and Co,867,Construction,SMB,6 High Street,Edinburgh,Scotland,EH70 4VJ,Prospect,4806707,25,2024-05-01
+ACC000868,Martin Moore PLC,868,Construction,SMB,96 Park Lane,Manchester,Greater Manchester,M81 2TM,Customer,187028023,1000,2023-11-24
+ACC000869,Evans Cooper Partners,869,Healthcare,Enterprise,189 High Street,Milton Keynes,Buckinghamshire,MK59 9LH,Customer,5811805,10,2024-07-25
+ACC000870,Clarke Hall Partners,870,Technology,Enterprise,173 Mill Lane,Milton Keynes,Buckinghamshire,MK92 4NT,Customer,3770600,25,2022-02-28
+ACC000871,Lewis Clark International,871,Financial Services,Enterprise,200 Victoria Road,Bristol,Avon,BS59 7DE,Customer,9784518,5,2020-10-28
+ACC000872,Birmingham Council,872,Local Government,Public Sector,109 Technology Park,Manchester,Greater Manchester,M17 8SG,Partner,7694054,25,2021-06-27
+ACC000873,Patel Clark Services,873,Healthcare,Public Sector,144 Market Street,Milton Keynes,Buckinghamshire,MK51 8JV,Customer,33538486,2500,2021-07-12
+ACC000874,Cooper Morris LLP,874,Central Government,Public Sector,42 Mill Lane,Reading,Berkshire,RG65 8ES,Customer,323927718,1000,2022-12-20
+ACC000875,Academy of Brighton,875,Education,Enterprise,31 Innovation Drive,Brighton,East Sussex,BN28 1RS,Customer,313824527,1000,2021-05-03
+ACC000876,King Patel PLC,876,Retail,Enterprise,105 Station Road,Coventry,West Midlands,CV16 5MV,Customer,8407601,10,2020-12-16
+ACC000877,Clark Johnson PLC,877,Healthcare,SMB,79 Victoria Road,Cardiff,Wales,CF39 1KS,Partner,47507828,250,2022-09-03
+ACC000878,Johnson Harrison Services,878,Retail,SMB,79 Technology Park,Manchester,Greater Manchester,M37 8GF,Customer,13418479,5000,2022-05-26
+ACC000879,Evans King Associates,879,Legal Services,SMB,12 Queens Road,Birmingham,West Midlands,B62 8VK,Customer,8292437,10,2022-08-25
+ACC000880,Jackson Ward LLP,880,Transport & Logistics,SMB,34 Commerce Way,Coventry,West Midlands,CV18 8TX,Customer,58683047,1000,2024-07-04
+ACC000881,Kings Hospital NHS Trust,881,NHS Trust,Public Sector,39 Enterprise Road,Cambridge,Cambridgeshire,CB94 7LC,Customer,107788173,5000,2020-01-28
+ACC000882,Thompson Networks Partners,882,IT Reseller,Partner,12 Business Park,Southampton,Hampshire,SO57 2JX,Partner,10425426,100,2024-10-19
+ACC000883,Jones Baker and Co,883,Retail,Enterprise,144 Business Park,Newcastle,Tyne and Wear,NE16 2XU,Prospect,181458786,500,2021-07-14
+ACC000884,Lee Baker Ltd,884,Hospitality,Enterprise,134 Church Road,Milton Keynes,Buckinghamshire,MK97 1ST,Customer,5289583,10,2020-03-25
+ACC000885,Academy of Southampton,885,Education,Public Sector,5 Park Lane,Edinburgh,Scotland,EH27 8HZ,Customer,8470606,10,2022-08-13
+ACC000886,Lee Morgan Associates,886,Financial Services,SMB,151 High Street,Belfast,Northern Ireland,BT63 7AL,Customer,13371105,2500,2020-03-24
+ACC000887,Turner Jones UK,887,Hospitality,SMB,98 Park Lane,Nottingham,Nottinghamshire,NG12 9DD,Customer,31790956,1000,2020-10-09
+ACC000888,Green Johnson Group,888,Retail,Enterprise,197 Station Road,Sheffield,South Yorkshire,S20 3KP,Customer,161123150,500,2020-03-06
+ACC000889,Lewis Walker Ltd,889,Healthcare,Enterprise,77 Queens Road,Manchester,Greater Manchester,M13 7LE,Customer,307745595,2500,2023-10-22
+ACC000890,Hughes Jackson PLC,890,Construction,Enterprise,52 Church Road,Manchester,Greater Manchester,M97 4WV,Customer,5088439,100,2023-07-10
+ACC000891,Moore Moore Services,891,Real Estate,Enterprise,69 High Street,Leeds,West Yorkshire,LS41 7RU,Customer,7958093,25,2022-05-25
+ACC000892,Ward Jones Services,892,Healthcare,Public Sector,5 Park Lane,Liverpool,Merseyside,L71 2VY,Partner,5173262,10,2023-04-03
+ACC000893,King Thomas Partners,893,Manufacturing,SMB,105 Kings Road,Milton Keynes,Buckinghamshire,MK11 4XT,Customer,7864626,100,2022-07-31
+ACC000894,Patel Lee Group,894,Retail,SMB,138 Queens Road,Liverpool,Merseyside,L72 1RB,Partner,46844905,50,2024-11-05
+ACC000895,Green Roberts Ltd,895,Charity,SMB,124 Park Lane,Manchester,Greater Manchester,M77 7JY,Partner,402512169,2500,2020-10-06
+ACC000896,Robinson Harrison UK,896,Transport & Logistics,Enterprise,12 Mill Lane,Newcastle,Tyne and Wear,NE95 2UV,Customer,40791926,500,2020-01-01
+ACC000897,Davies Wood LLP,897,Construction,SMB,36 Innovation Drive,Leeds,West Yorkshire,LS72 4JP,Prospect,114881462,500,2020-09-06
+ACC000898,Lewis Harris and Co,898,Insurance,Enterprise,193 Innovation Drive,Sheffield,South Yorkshire,S58 6JH,Customer,104217961,500,2024-08-03
+ACC000899,Robinson Hill International,899,Transport & Logistics,SMB,5 Technology Park,Nottingham,Nottinghamshire,NG89 1EX,Customer,168045079,5000,2022-01-22
+ACC000900,Smith Smith and Co,900,Real Estate,SMB,106 Market Street,Edinburgh,Scotland,EH90 7ZS,Customer,307907446,2500,2020-01-23
+ACC000901,Davies Taylor UK,901,Media & Entertainment,Enterprise,172 Kings Road,London,Greater London,EC87 7DM,Customer,2756077,25,2022-10-22
+ACC000902,Jackson Walker LLP,902,Transport & Logistics,Enterprise,32 Kings Road,London,Greater London,EC48 1GR,Partner,5792359,50,2024-01-04
+ACC000903,Jones Edwards and Co,903,Technology,Enterprise,50 Station Road,Cardiff,Wales,CF79 4XK,Partner,39157319,250,2024-05-07
+ACC000904,Morris Patel Ltd,904,Technology,Enterprise,127 Technology Park,Sheffield,South Yorkshire,S91 4ZW,Customer,462430757,10000,2020-11-21
+ACC000905,Wright Wood PLC,905,Legal Services,SMB,146 Market Street,Sheffield,South Yorkshire,S64 4FU,Customer,113101618,5000,2020-05-11
+ACC000906,Taylor Harrison Group,906,Hospitality,SMB,33 Park Lane,Birmingham,West Midlands,B73 5HT,Customer,98451639,1000,2020-08-08
+ACC000907,Jones Lee International,907,Hospitality,Enterprise,175 Market Street,Sheffield,South Yorkshire,S59 1AP,Customer,70531267,1000,2024-02-28
+ACC000908,Martin Turner Partners,908,Construction,Enterprise,175 Market Street,Leeds,West Yorkshire,LS60 9SM,Customer,187850,25,2024-05-04
+ACC000909,Thompson Brown Partners,909,Healthcare,SMB,137 Kings Road,Reading,Berkshire,RG41 4AN,Prospect,273891949,1000,2021-12-31
+ACC000910,Davies Baker Ltd,910,Transport & Logistics,SMB,177 Queens Road,Liverpool,Merseyside,L10 3HG,Customer,59177256,250,2022-10-18
+ACC000911,Hall Taylor and Co,911,Transport & Logistics,SMB,8 Kings Road,Leeds,West Yorkshire,LS56 6AV,Customer,52376030,2500,2020-06-02
+ACC000912,White Wilson Holdings,912,Manufacturing,Enterprise,88 Enterprise Road,Liverpool,Merseyside,L7 4LT,Customer,317873610,2500,2021-06-22
+ACC000913,Morgan Cooper PLC,913,Healthcare,Public Sector,149 Station Road,Cambridge,Cambridgeshire,CB11 7BB,Partner,5629924,5,2021-04-27
+ACC000914,Taylor Thomas Ltd,914,Construction,Enterprise,15 Park Lane,Cambridge,Cambridgeshire,CB79 2XP,Partner,48268297,5000,2022-09-07
+ACC000915,Brown King Ltd,915,Financial Services,Enterprise,98 Queens Road,Newcastle,Tyne and Wear,NE13 4WP,Customer,71137554,500,2020-04-23
+ACC000916,Hill Jackson Holdings,916,Legal Services,SMB,159 The Green,Reading,Berkshire,RG13 1LX,Customer,6594876,50,2023-11-25
+ACC000917,Clark Harris International,917,Charity,SMB,28 Station Road,Bristol,Avon,BS2 2WZ,Customer,127178740,500,2021-05-02
+ACC000918,Baker Thomas and Co,918,Hospitality,Enterprise,66 Victoria Road,Brighton,East Sussex,BN54 8SW,Customer,44015039,5000,2021-01-04
+ACC000919,White Thomas Ltd,919,Hospitality,SMB,33 Park Lane,Manchester,Greater Manchester,M75 6PT,Prospect,358037088,250,2023-09-06
+ACC000920,Harrison Lee Group,920,Construction,SMB,121 Park Lane,Glasgow,Scotland,G78 6LK,Customer,9351054,25,2024-11-14
+ACC000921,Clark Harrison and Co,921,Legal Services,SMB,15 Church Road,Glasgow,Scotland,G65 7UB,Partner,8257211,25,2020-06-09
+ACC000922,Wright Wright and Co,922,Transport & Logistics,Enterprise,18 Victoria Road,Bristol,Avon,BS25 8YS,Customer,379919472,2500,2023-08-24
+ACC000923,Harrison Baker Associates,923,Transport & Logistics,SMB,77 Queens Road,Coventry,West Midlands,CV43 8FD,Partner,19229579,250,2022-02-25
+ACC000924,Morris Thompson Ltd,924,Healthcare,SMB,178 Church Road,Liverpool,Merseyside,L60 4WG,Prospect,290879432,250,2023-09-14
+ACC000925,Harris Jackson Solutions,925,Real Estate,SMB,48 Enterprise Road,Belfast,Northern Ireland,BT1 2MA,Partner,238042782,2500,2024-05-21
+ACC000926,Jones King PLC,926,Transport & Logistics,Enterprise,75 Kings Road,Glasgow,Scotland,G25 6XV,Prospect,163706827,2500,2020-11-28
+ACC000927,Jones Wright Solutions,927,Healthcare,SMB,45 Church Road,Newcastle,Tyne and Wear,NE34 9FL,Customer,9681176,50,2020-03-20
+ACC000928,Walker Wright Ltd,928,Manufacturing,SMB,68 Technology Park,Edinburgh,Scotland,EH13 3AY,Customer,453823975,1000,2024-10-01
+ACC000929,Evans IT Solutions Ltd,929,IT Reseller,Partner,117 Church Road,Newcastle,Tyne and Wear,NE48 3MY,Customer,6955353,5,2023-04-01
+ACC000930,Martin Taylor PLC,930,Recruitment,SMB,34 Commerce Way,Glasgow,Scotland,G25 7GU,Prospect,2234439,10,2023-07-14
+ACC000931,Lewis Tech Partners,931,Telecommunications,Partner,12 Commerce Way,Liverpool,Merseyside,L79 9VG,Customer,803897,100,2024-01-09
+ACC000932,Johnson Lewis Solutions,932,Professional Services,Enterprise,162 Commerce Way,Manchester,Greater Manchester,M36 8ET,Customer,39303349,500,2022-11-04
+ACC000933,Davies Ward and Co,933,Technology,SMB,17 Mill Lane,Coventry,West Midlands,CV66 9NX,Prospect,4849368,10,2020-02-20
+ACC000934,Morris Tech Partners,934,Telecommunications,Partner,83 Innovation Drive,Edinburgh,Scotland,EH48 8TZ,Customer,6279080,5,2021-08-18
+ACC000935,Ward Edwards International,935,Real Estate,Enterprise,164 Technology Park,Belfast,Northern Ireland,BT75 4XB,Customer,67678383,5000,2024-08-28
+ACC000936,Wright Cooper Solutions,936,Technology,Enterprise,56 Park Lane,Belfast,Northern Ireland,BT55 3NV,Partner,9297823,50,2023-01-08
+ACC000937,Hughes Tech Ltd,937,Telecommunications,Partner,193 Station Road,Glasgow,Scotland,G38 6RT,Customer,82258186,1000,2024-09-08
+ACC000938,Harrison Williams Holdings,938,Technology,Enterprise,160 Victoria Road,Brighton,East Sussex,BN55 7RR,Customer,7565986,50,2022-01-11
+ACC000939,Cardiff County Council,939,Local Government,Public Sector,70 Queens Road,Nottingham,Nottinghamshire,NG4 4FR,Customer,9651977,10,2023-01-06
+ACC000940,Taylor Clarke PLC,940,Manufacturing,Enterprise,129 Market Street,Newcastle,Tyne and Wear,NE70 5XC,Customer,119656632,5000,2022-10-31
+ACC000941,Wilson Evans PLC,941,Technology,Enterprise,10 Market Street,Cardiff,Wales,CF26 6LG,Customer,158868607,5000,2024-03-01
+ACC000942,Hall Edwards Solutions,942,Manufacturing,Enterprise,36 Enterprise Road,Coventry,West Midlands,CV97 5ZU,Prospect,490471101,2500,2021-12-26
+ACC000943,Hall Green Associates,943,Legal Services,SMB,104 Enterprise Road,Belfast,Northern Ireland,BT75 8XA,Partner,38929768,500,2020-05-31
+ACC000944,Johnson Wood Solutions,944,Insurance,Enterprise,186 Innovation Drive,Liverpool,Merseyside,L27 9SH,Customer,59244693,500,2020-11-07
+ACC000945,Hill Harris PLC,945,Charity,SMB,49 Queens Road,Nottingham,Nottinghamshire,NG99 4ZP,Customer,3996735,25,2022-10-07
+ACC000946,St Marys Hospital NHS Trust,946,NHS Trust,Public Sector,8 Victoria Road,Southampton,Hampshire,SO18 5VE,Customer,2502439,5,2024-07-25
+ACC000947,Morris Clarke Associates,947,Legal Services,SMB,108 Queens Road,Liverpool,Merseyside,L88 9NZ,Customer,54450909,500,2021-08-12
+ACC000948,Lewis Harrison Ltd,948,Construction,SMB,9 Technology Park,Milton Keynes,Buckinghamshire,MK18 7EL,Customer,2465639,5,2021-02-27
+ACC000949,Robinson Networks Ltd,949,IT Reseller,Partner,99 Church Road,Southampton,Hampshire,SO61 8DL,Prospect,451947446,250,2022-01-26
+ACC000950,Davies Roberts PLC,950,Construction,SMB,46 High Street,Southampton,Hampshire,SO89 1WS,Customer,243588151,2500,2022-10-07
+ACC000951,Wright Taylor Services,951,Hospitality,SMB,53 Church Road,Newcastle,Tyne and Wear,NE38 2YT,Customer,2729445,100,2021-11-17
+ACC000952,Brown Patel UK,952,Charity,SMB,44 Victoria Road,London,Greater London,EC53 2NF,Customer,8845909,25,2021-01-24
+ACC000953,Academy of Reading,953,Education,Enterprise,191 Station Road,Oxford,Oxfordshire,OX50 4GE,Partner,33014725,25,2024-02-11
+ACC000954,Martin Ward Group,954,Construction,SMB,148 Park Lane,Coventry,West Midlands,CV76 8GT,Partner,333144731,500,2023-12-25
+ACC000955,Wright Smith Group,955,Professional Services,SMB,17 Enterprise Road,Cambridge,Cambridgeshire,CB52 9WH,Customer,5134852,10,2024-11-27
+ACC000956,Baker Morris Holdings,956,Transport & Logistics,SMB,148 High Street,Cambridge,Cambridgeshire,CB95 8CK,Customer,230267825,2500,2021-10-28
+ACC000957,Hall Wood International,957,Transport & Logistics,Enterprise,107 Church Road,Edinburgh,Scotland,EH23 8WP,Prospect,141311746,5000,2023-11-08
+ACC000958,Walker Connect Group,958,IT Reseller,Partner,101 Innovation Drive,Leeds,West Yorkshire,LS6 5HF,Customer,120388467,5000,2024-07-14
+ACC000959,Green Taylor LLP,959,Media & Entertainment,Enterprise,127 Queens Road,Bristol,Avon,BS98 6UD,Prospect,3812966,100,2024-11-28
+ACC000960,Wilson Moore Associates,960,Healthcare,Public Sector,116 Mill Lane,Reading,Berkshire,RG33 1GT,Prospect,1614189,25,2021-12-23
+ACC000961,Jones Taylor and Co,961,Charity,SMB,98 Victoria Road,Cambridge,Cambridgeshire,CB96 7NG,Partner,48672118,25,2021-08-17
+ACC000962,Smith Hughes PLC,962,Healthcare,SMB,84 Business Park,Glasgow,Scotland,G96 8RS,Partner,34155049,100,2024-06-08
+ACC000963,Davies King and Co,963,Healthcare,Public Sector,183 Kings Road,Liverpool,Merseyside,L18 3SJ,Prospect,75433806,10000,2024-11-30
+ACC000964,Jones Morgan PLC,964,Retail,Enterprise,76 Station Road,Edinburgh,Scotland,EH69 2NF,Customer,1703174,100,2024-06-11
+ACC000965,Edwards Johnson Holdings,965,Legal Services,SMB,46 Church Road,Cardiff,Wales,CF92 9BY,Prospect,3500182,5,2021-06-25
+ACC000966,Cooper Brown and Co,966,Technology,SMB,165 Business Park,Brighton,East Sussex,BN92 7YD,Customer,9045677,100,2021-05-15
+ACC000967,Cooper Brown International,967,Construction,SMB,13 Commerce Way,London,Greater London,EC49 6GH,Prospect,3994252,50,2022-01-27
+ACC000968,Wright Davies Ltd,968,Manufacturing,SMB,8 High Street,Reading,Berkshire,RG44 2GY,Prospect,323584316,500,2020-06-20
+ACC000969,Wilson Roberts LLP,969,Technology,Enterprise,12 Queens Road,Edinburgh,Scotland,EH66 6DL,Customer,100695879,1000,2020-03-15
+ACC000970,Robinson Lee Services,970,Hospitality,Enterprise,31 Church Road,Reading,Berkshire,RG28 6DM,Prospect,5351539,10,2021-10-21
+ACC000971,Smith Wood and Co,971,Hospitality,SMB,4 Queens Road,Nottingham,Nottinghamshire,NG28 2RH,Prospect,2235445,5,2020-11-27
+ACC000972,Patel Williams PLC,972,Professional Services,SMB,106 Park Lane,Bristol,Avon,BS99 2WS,Partner,8273748,10,2024-03-13
+ACC000973,Baker Roberts Partners,973,Media & Entertainment,Enterprise,154 Victoria Road,Leeds,West Yorkshire,LS81 3ZN,Partner,482570886,1000,2023-02-28
+ACC000974,Walker Lewis and Co,974,Transport & Logistics,SMB,18 Victoria Road,Oxford,Oxfordshire,OX3 8WV,Customer,5639453,10,2020-12-02
+ACC000975,Moore Connect Group,975,IT Reseller,Partner,129 The Green,Liverpool,Merseyside,L91 1AH,Customer,3248654,10,2023-11-22
+ACC000976,College of Liverpool,976,Education,Public Sector,194 Church Road,Reading,Berkshire,RG80 3CB,Partner,479241262,500,2021-12-07
+ACC000977,Morris IT Solutions Ltd,977,Telecommunications,Partner,97 Church Road,Glasgow,Scotland,G83 8BH,Prospect,4373985,100,2023-01-13
+ACC000978,Thomas Edwards Associates,978,Transport & Logistics,SMB,134 Commerce Way,Manchester,Greater Manchester,M54 1XK,Customer,2225741,100,2023-04-17
+ACC000979,Harris Harris Solutions,979,Technology,Enterprise,139 High Street,Bristol,Avon,BS86 4HY,Customer,3989479,10,2020-07-06
+ACC000980,Clark IT Solutions Ltd,980,IT Reseller,Partner,162 High Street,Cambridge,Cambridgeshire,CB9 4SC,Partner,30007030,100,2023-09-23
+ACC000981,Johnson Robinson Group,981,Healthcare,Enterprise,45 The Green,Birmingham,West Midlands,B71 9GH,Customer,172375857,5000,2021-10-11
+ACC000982,Martin Hill Partners,982,Financial Services,SMB,185 Church Road,Edinburgh,Scotland,EH32 4PF,Prospect,8322404,25,2023-11-04
+ACC000983,Green Baker Holdings,983,Construction,SMB,70 Enterprise Road,Bristol,Avon,BS62 7CM,Partner,305537124,500,2022-02-22
+ACC000984,Roberts Networks Partners,984,IT Reseller,Partner,130 The Green,Reading,Berkshire,RG95 8PE,Customer,181336081,250,2022-01-25
+ACC000985,Jackson Martin PLC,985,Legal Services,Enterprise,153 Market Street,Newcastle,Tyne and Wear,NE20 5UF,Customer,4699873,5,2023-03-17
+ACC000986,Hill IT Solutions Partners,986,IT Reseller,Partner,97 Market Street,Newcastle,Tyne and Wear,NE78 6SC,Partner,2435216,250,2023-12-31
+ACC000987,Academy of Oxford,987,Education,Enterprise,40 Technology Park,Bristol,Avon,BS25 9AA,Customer,94352233,500,2024-10-22
+ACC000988,Morris Networks Partners,988,Telecommunications,Partner,191 Victoria Road,Belfast,Northern Ireland,BT50 2SK,Partner,392693560,1000,2022-11-23
+ACC000989,Manchester Council,989,Local Government,Public Sector,145 Mill Lane,Belfast,Northern Ireland,BT25 6PJ,Customer,1508761,10,2022-06-27
+ACC000990,Morris Patel LLP,990,Insurance,Enterprise,167 Queens Road,Manchester,Greater Manchester,M55 8HH,Customer,188315909,2500,2023-03-09
+ACC000991,Patel Jones LLP,991,Healthcare,SMB,67 The Green,Glasgow,Scotland,G59 5YE,Partner,42552087,10,2024-04-19
+ACC000992,Morgan Harrison and Co,992,Manufacturing,SMB,4 Station Road,Edinburgh,Scotland,EH99 7CX,Customer,6463773,25,2020-12-30
+ACC000993,Harrison Communications Group,993,MSP,Partner,109 Mill Lane,Bristol,Avon,BS55 5JZ,Customer,7475236,25,2020-07-08
+ACC000994,Lee Jackson International,994,Insurance,Enterprise,188 Queens Road,Newcastle,Tyne and Wear,NE97 6CD,Prospect,88593068,5000,2023-03-10
+ACC000995,Edwards Robinson LLP,995,Retail,SMB,179 Park Lane,Belfast,Northern Ireland,BT1 1FS,Customer,143627506,500,2022-08-15
+ACC000996,Taylor Turner UK,996,Financial Services,Enterprise,168 Park Lane,Reading,Berkshire,RG94 3PF,Customer,6345868,100,2022-02-12
+ACC000997,Walker Connect Ltd,997,Telecommunications,Partner,125 Mill Lane,Bristol,Avon,BS65 4DR,Customer,185749316,10000,2020-07-24
+ACC000998,Wright Brown LLP,998,Hospitality,SMB,195 Church Road,Edinburgh,Scotland,EH34 2PR,Prospect,9763092,50,2024-02-05
+ACC000999,Davies Green PLC,999,Retail,Enterprise,32 Park Lane,Belfast,Northern Ireland,BT9 4LA,Customer,8605390,5,2022-05-12
+ACC001000,Morris Wilson Ltd,1000,Real Estate,SMB,69 Commerce Way,Manchester,Greater Manchester,M1 1YV,Partner,111548551,5000,2024-03-19

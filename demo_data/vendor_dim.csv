@@ -1,0 +1,52 @@
+vendor_key,vendor_name,vertical,address,city,county,postcode
+1,Huawei Peru,Network Equipment,Av. Javier Prado Este 4600,San Isidro Lima,Lima,15036
+2,ZTE Peru,Network Equipment,Av. Republica de Panama 3535,San Isidro Lima,Lima,15047
+3,Nokia Peru,Network Equipment,Av. Victor Andres Belaunde 147,San Isidro Lima,Lima,15046
+4,Furukawa Electric LatAm,Fiber Cable,Av. La Encalada 1257,Surco Lima,Lima,15038
+5,Prysmian Group Peru,Fiber Cable,Calle Las Begonias 415,San Isidro Lima,Lima,15046
+6,Corning Peru,Fiber Optics,Av. Camino Real 456,San Isidro Lima,Lima,15073
+7,CommScope Peru,Network Infrastructure,Jr. Las Orquideas 585,San Isidro Lima,Lima,15047
+8,TP-Link Peru,Consumer Equipment,Av. Petit Thouars 4653,Miraflores Lima,Lima,15074
+9,Ubiquiti Networks LatAm,Network Equipment,Av. Arequipa 2450,Lince Lima,Lima,15046
+10,MikroTik Distribuidor Peru,Network Equipment,Jr. Union 264,Lima Centro,Lima,15001
+11,Cisco Systems Peru,Enterprise Networking,Av. Jorge Basadre 349,San Isidro Lima,Lima,15073
+12,Juniper Networks Peru,Enterprise Networking,Av. Rivera Navarrete 501,San Isidro Lima,Lima,15046
+13,Arista Networks Peru,Data Center,Calle Los Tulipanes 147,San Isidro Lima,Lima,15046
+14,Amazon Web Services Peru,Cloud Provider,Av. La Encalada 1257,Surco Lima,Lima,15038
+15,Google Cloud Peru,Cloud Provider,Av. Jorge Basadre 349,San Isidro Lima,Lima,15073
+16,Microsoft Azure Peru,Cloud Provider,Av. Jorge Basadre 168,San Isidro Lima,Lima,15073
+17,Oracle Cloud Peru,Cloud Provider,Av. Victor Andres Belaunde 280,San Isidro Lima,Lima,15046
+18,DirecTV Peru,Content Provider,Av. Canaval y Moreyra 380,San Isidro Lima,Lima,15046
+19,Netflix Peru,Content Provider,Calle Las Begonias 475,San Isidro Lima,Lima,15046
+20,Disney+ Peru,Content Provider,Av. Paseo de la Republica 3220,San Isidro Lima,Lima,15073
+21,HBO Max Peru,Content Provider,Av. Javier Prado Este 476,San Isidro Lima,Lima,15036
+22,L1MAX Peru,Content Provider,Av. Del Ejercito 2630,Miraflores Lima,Lima,15074
+23,Paramount+ Peru,Content Provider,Av. La Encalada 1420,Surco Lima,Lima,15038
+24,Star+ Peru,Content Provider,Calle Las Orquideas 585,San Isidro Lima,Lima,15047
+25,Electronica Hiraoka,Consumer Retail,Jr. Union 244,Lima Centro,Lima,15001
+26,Tiendas EFE,Consumer Retail,Av. Abancay 594,Lima Centro,Lima,15001
+27,Curacao Peru,Consumer Retail,Av. Oscar Benavides 3866,Callao,Callao,07001
+28,Plaza Vea,Retail Partner,Av. Salaverry 2224,San Isidro Lima,Lima,15073
+29,Sodimac Peru,Retail Partner,Av. Angamos Este 1805,Surquillo Lima,Lima,15047
+30,Maestro Peru,Retail Partner,Av. Republica de Panama 3030,San Isidro Lima,Lima,15047
+31,OSIPTEL,Regulatory,Calle De la Prosa 136,San Borja Lima,Lima,15036
+32,MTC Peru,Regulatory,Jr. Zorritos 1203,Lima Centro,Lima,15082
+33,Indecopi,Regulatory,Calle De la Prosa 104,San Borja Lima,Lima,15036
+34,Claro Peru,Competitor,Av. Nicolas de Pierola 1218,Lima Centro,Lima,15001
+35,Movistar Peru,Competitor,Jr. Zorritos 1315,Breña Lima,Lima,15082
+36,Entel Peru,Competitor,Av. Victor Andres Belaunde 147,San Isidro Lima,Lima,15046
+37,Bitel Peru,Competitor,Av. Juan de Arona 830,San Isidro Lima,Lima,15036
+38,Win Peru,Competitor,Av. La Encalada 1257,Surco Lima,Lima,15038
+39,GTD Peru,Competitor,Av. Republica de Panama 3055,San Isidro Lima,Lima,15047
+40,Fiberlux Peru,Competitor,Jr. Los Sauces 374,San Isidro Lima,Lima,15073
+41,Internexa Peru,Carrier Services,Av. Rivera Navarrete 501,San Isidro Lima,Lima,15046
+42,Level 3 Peru,Carrier Services,Av. Canaval y Moreyra 380,San Isidro Lima,Lima,15046
+43,Lumen Peru,Carrier Services,Av. Victor Andres Belaunde 147,San Isidro Lima,Lima,15046
+44,America Movil Peru,Wholesale,Av. Nicolas de Pierola 1218,Lima Centro,Lima,15001
+45,Optical Networks Peru,Fiber Infrastructure,Jr. Los Alamos 456,San Isidro Lima,Lima,15046
+46,Azteca Comunicaciones Peru,Fiber Infrastructure,Av. Arequipa 3155,San Isidro Lima,Lima,15046
+47,Fortinet Peru,Security,Av. Jorge Basadre 349,San Isidro Lima,Lima,15073
+48,Palo Alto Networks Peru,Security,Calle Las Begonias 475,San Isidro Lima,Lima,15046
+49,Kaspersky Peru,Security,Av. La Encalada 1257,Surco Lima,Lima,15038
+50,Trend Micro Peru,Security,Av. Camino Real 456,San Isidro Lima,Lima,15073
+51,Salesforce Peru,CRM Platform,Av. Jorge Basadre 168,San Isidro Lima,Lima,15073

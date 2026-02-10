@@ -1,0 +1,1001 @@
+customer_key,customer_name,industry,vertical,address,city,county,postcode
+1,Mariana Mamani Chavez,Residential,Residential,Psje. Libertad 1269,"26 de Octubre, Piura",Piura,61770
+2,Gonzalo Morales Perez,Residential,Residential,Jr. El Polo 2010,"Llacanora, Cajamarca",Cajamarca,20959
+3,Diego Quispe Torres,Residential,Residential,Psje. Las Gardenias 2761,"Wanchaq, Cusco",Cusco,92496
+4,Carolina Benavides Vega,Residential,Residential,Psje. Caminos del Inca 511,"Centro, Cajamarca",Cajamarca,75815
+5,Francisco Ramirez Valenzuela,Residential,Residential,Av. La Marina 1233,"Tambogrande, Piura",Piura,66205
+6,Oscar Miranda Martinez,Residential,Residential,Calle Universitaria 3045,"Wanchaq, Cusco",Cusco,84905
+7,Diana Carrasco Salazar,Residential,Residential,Jr. Santa Cruz 3111,"San Isidro, Lima",Lima,53577
+8,Lorena Fernandez Lopez,Residential,Residential,Av. La Encalada 3191,"Pilcomayo, Huancayo",Junin,19132
+9,Mariana Hernandez Lopez,Residential,Residential,Prol. Santa Cruz 2581,"Pilcomayo, Huancayo",Junin,16205
+10,Teck Peru,Mining,Enterprise,Calle Las Palmeras 1893,"Chilca, Huancayo",Junin,11957
+11,Oscar Paredes Paredes,Residential,Residential,Calle Los Pinos 653,"Centro, Ica",Ica,31272
+12,Pablo Miranda Delgado,Residential,Residential,Psje. Comandante Espinar 1982,"San Miguel, Lima",Lima,18814
+13,Enrique Mamani Nunez,Residential,Residential,Calle Emancipacion 1660,"San Martin de Porres, Lima",Lima,31903
+14,Alejandro Diaz Delgado,Residential,Residential,Psje. Santa Cruz 1399,"Centro, Iquitos",Loreto,60474
+15,Victor Caceres Ortiz,Residential,Residential,Jr. Conquistadores 3277,"Centro, Ica",Ica,17833
+16,Banco de la Nacion,Banking,Enterprise,Prol. Los Alamos 264,"Nuevo Chimbote, Chimbote",Ancash,92129
+17,Arturo Carrasco Rodriguez,Residential,Residential,Psje. Brasil 2408,"San Juan de Lurigancho, Lima",Lima,24012
+18,Ivan Mendoza Paredes,Residential,Residential,Psje. San Martin 2067,"Coishco, Chimbote",Ancash,50315
+19,Lucia Zarate Condori,Residential,Residential,Jr. Javier Prado 332,"Punchana, Iquitos",Loreto,93708
+20,Veronica Ponce Zarate,Residential,Residential,Calle El Polo 768,"Saylla, Cusco",Cusco,78699
+21,Carlos Flores Villegas,Residential,Residential,Av. Puno 3087,"La Victoria, Chiclayo",Lambayeque,12258
+22,Marco Mamani Ponce,Residential,Residential,Prol. Las Gardenias 428,"Centro, Chimbote",Ancash,70855
+23,Enrique Reyes Benavides,Residential,Residential,Av. Bolognesi 882,"Santa, Chimbote",Ancash,80869
+24,Rodrigo Rojas Torres,Residential,Residential,Psje. Bolognesi 1100,"Belen, Iquitos",Loreto,47325
+25,Universidad San Martin,Education,Enterprise,Prol. Las Gardenias 1157,"Pilcomayo, Huancayo",Junin,79182
+26,Sandra Mendoza Gomez,Residential,Residential,Jr. Los Pinos 1558,"Chilca, Huancayo",Junin,34031
+27,Claudia Ortiz Gutierrez,Residential,Residential,Calle Colonial 2312,"Belen, Iquitos",Loreto,55703
+28,Carlos Jimenez Gomez,Residential,Residential,Av. Las Orquideas 2192,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,61580
+29,Gustavo Delgado Castro,Residential,Residential,Av. Comandante Espinar 1403,"Ate, Lima",Lima,24303
+30,Carla Valenzuela Diaz,Residential,Residential,Calle Tacna 276,"Subtanjalla, Ica",Ica,79957
+31,Estilos,Retail,Enterprise,Calle Los Alamos 1199,"Centro, Trujillo",La Libertad,85721
+32,Andres Vasquez Arias,Residential,Residential,Jr. San Martin 3399,"Jesus, Cajamarca",Cajamarca,11664
+33,Cesar Campos Diaz,Residential,Residential,Jr. Benavides 773,"Centro, Callao",Callao,40354
+34,Pilar Reyes Garcia,Residential,Residential,Calle Larco 3354,"Pilcomayo, Huancayo",Junin,35699
+35,Rodrigo Palacios Ruiz,Residential,Residential,Prol. Primavera 1365,"Carabayllo, Lima",Lima,36478
+36,Karina Gomez Lopez,Residential,Residential,Calle Universitaria 1815,"Banos del Inca, Cajamarca",Cajamarca,55522
+37,Marco Fernandez Caceres,Residential,Residential,Calle Las Palmeras 2867,"Centro, Chiclayo",Lambayeque,79201
+38,Pan American Silver,Mining,Enterprise,Jr. Las Begonias 3004,"Moche, Trujillo",La Libertad,57280
+39,Southern Peru,Mining,Enterprise,Jr. Ayacucho 2502,"Florencia de Mora, Trujillo",La Libertad,75629
+40,JW Marriott,Hospitality,Enterprise,Av. Huancavelica 1902,"Pilcomayo, Huancayo",Junin,72207
+41,Roberto Garcia Garcia,Residential,Residential,Av. Arequipa 2365,"Castilla, Piura",Piura,26938
+42,Nestle Peru,Food & Beverage,SMB,Av. Los Alamos 2798,"26 de Octubre, Piura",Piura,33836
+43,Miguel Vasquez Herrera,Residential,Residential,Psje. Las Begonias 2066,"El Tambo, Huancayo",Junin,93204
+44,Roberto Ponce Carrasco,Residential,Residential,Av. Santa Cruz 2744,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,80043
+45,Natalia Herrera Paredes,Residential,Residential,Jr. Huancavelica 578,"Tambogrande, Piura",Piura,29788
+46,Jimena Gutierrez Espinoza,Residential,Residential,Psje. Ica 845,"Cayma, Arequipa",Arequipa,51165
+47,Manuel Arias Martinez,Residential,Residential,Av. Javier Prado 155,"Pilcomayo, Huancayo",Junin,88096
+48,Patricia Gomez Jimenez,Residential,Residential,Prol. 28 de Julio 160,"Centro, Chimbote",Ancash,26799
+49,Julio Vasquez Garcia,Residential,Residential,Psje. Santa Cruz 281,"Sachaca, Arequipa",Arequipa,52492
+50,Ministerio del Interior,Government,Government,Prol. Las Orquideas 2704,"Tambogrande, Piura",Piura,57676
+51,Gloria,Food & Beverage,SMB,Psje. Tacna 1074,"Coishco, Chimbote",Ancash,90846
+52,Rocio Morales Villegas,Residential,Residential,Prol. 28 de Julio 3084,"Pimentel, Chiclayo",Lambayeque,93355
+53,Pilar Romero Caceres,Residential,Residential,Psje. Libertad 2369,"Cerro Colorado, Arequipa",Arequipa,46211
+54,Ricardo Rivera Sanchez,Residential,Residential,Psje. Bolognesi 2608,"Saylla, Cusco",Cusco,69845
+55,Marisol Villegas Vasquez,Residential,Residential,Prol. Las Gardenias 826,"Punchana, Iquitos",Loreto,12975
+56,Paola Mamani Reyes,Residential,Residential,Calle Puno 2763,"Wanchaq, Cusco",Cusco,30503
+57,Mariela Silva Rodriguez,Residential,Residential,Calle Conquistadores 1274,"Centro Historico, Cusco",Cusco,39658
+58,Marco Vasquez Fernandez,Residential,Residential,Jr. Javier Prado 370,"Centro, Huancayo",Junin,15132
+59,Marisol Aguilar Garcia,Residential,Residential,Av. Ayacucho 320,"Victor Larco Herrera, Trujillo",La Libertad,18759
+60,Clinica San Pablo,Healthcare,SMB,Jr. Los Eucaliptos 1461,"Florencia de Mora, Trujillo",La Libertad,60626
+61,Raul Ramos Condori,Residential,Residential,Prol. Bolognesi 182,"Santa Rosa, Chiclayo",Lambayeque,16561
+62,Andres Carrasco Palacios,Residential,Residential,Calle Cusco 3297,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,34817
+63,Carolina Ponce Aguilar,Residential,Residential,Av. Conquistadores 1971,"San Juan Bautista, Iquitos",Loreto,79269
+64,Diana Reyes Silva,Residential,Residential,Jr. Benavides 1795,"El Porvenir, Trujillo",La Libertad,63319
+65,Maria Espinoza Huaman,Residential,Residential,Av. Grau 3040,"Yanahuara, Arequipa",Arequipa,60995
+66,Juan Jimenez Silva,Residential,Residential,Psje. Tacna 2769,"Socabaya, Arequipa",Arequipa,46913
+67,Carolina Gonzalez Cruz,Residential,Residential,Av. La Marina 1901,"Centro, Iquitos",Loreto,72995
+68,Mario Hernandez Delgado,Residential,Residential,Jr. La Encalada 597,"Santa, Chimbote",Ancash,71673
+69,Arturo Perez Martinez,Residential,Residential,Calle Libertad 3285,"Catacaos, Piura",Piura,24867
+70,Jose Ortiz Rojas,Residential,Residential,Psje. El Polo 1456,"Belen, Iquitos",Loreto,80052
+71,Manuel Soto Vasquez,Residential,Residential,Av. 28 de Julio 2792,"Bellavista, Callao",Callao,84437
+72,Hugo Diaz Romero,Residential,Residential,Psje. Caminos del Inca 826,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,78544
+73,JJC Contratistas,Construction,Enterprise,Jr. Brasil 2856,"Belen, Iquitos",Loreto,66242
+74,Manuel Medina Rojas,Residential,Residential,Calle Abancay 3160,"Centro Historico, Cusco",Cusco,26233
+75,Daniel Gonzalez Zarate,Residential,Residential,Prol. Primavera 1302,"Nuevo Chimbote, Chimbote",Ancash,52561
+76,Milagros Castro Jimenez,Residential,Residential,Calle Ica 2662,"Coishco, Chimbote",Ancash,79448
+77,Elizabeth Romero Condori,Residential,Residential,Calle Santa Cruz 1268,"Coishco, Chimbote",Ancash,21667
+78,Rosa Silva Huaman,Residential,Residential,Prol. Libertad 1222,"Santiago, Cusco",Cusco,17389
+79,Hector Medina Sanchez,Residential,Residential,Av. Comandante Espinar 2720,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,93523
+80,Julio Quispe Torres,Residential,Residential,Av. La Encalada 3018,"Chilca, Huancayo",Junin,14587
+81,Gonzalo Gonzalez Rodriguez,Residential,Residential,Av. Brasil 2953,"Victor Larco Herrera, Trujillo",La Libertad,91929
+82,Pablo Garcia Quispe,Residential,Residential,Prol. San Martin 139,"La Victoria, Chiclayo",Lambayeque,70363
+83,Luz Jimenez Aguilar,Residential,Residential,Prol. 28 de Julio 672,"La Perla, Callao",Callao,95619
+84,Sandra Medina Zarate,Residential,Residential,Prol. Universitaria 1140,"San Juan Bautista, Iquitos",Loreto,40201
+85,Juan Ruiz Herrera,Residential,Residential,Psje. 28 de Julio 598,"Jesus, Cajamarca",Cajamarca,71359
+86,David Benavides Vargas,Residential,Residential,Jr. Colonial 1526,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,22993
+87,Alejandro Flores Paredes,Residential,Residential,Prol. Los Pinos 2454,"Santa, Chimbote",Ancash,99742
+88,Luis Benavides Ramirez,Residential,Residential,Psje. El Polo 2179,"Moche, Trujillo",La Libertad,56439
+89,Enel Peru,Energy,Enterprise,Jr. Primavera 3321,"Pilcomayo, Huancayo",Junin,88939
+90,Clinica Good Hope,Healthcare,Enterprise,Av. Primavera 877,"Punchana, Iquitos",Loreto,17917
+91,Andrea Vega Reyes,Residential,Residential,Av. Las Orquideas 519,"Centro, Cajamarca",Cajamarca,68115
+92,Flor Sanchez Condori,Residential,Residential,Jr. Las Orquideas 2801,"Paucarpata, Arequipa",Arequipa,66528
+93,Marisol Zarate Gutierrez,Residential,Residential,Av. Colonial 3332,"Huancan, Huancayo",Junin,85447
+94,Javier Delgado Ramos,Residential,Residential,Jr. Ica 1106,"San Jeronimo, Cusco",Cusco,41876
+95,Jorge Vega Castro,Residential,Residential,Av. Cusco 3078,"Huancan, Huancayo",Junin,96270
+96,Gabriel Arias Zarate,Residential,Residential,Av. Libertad 1336,"Nuevo Chimbote, Chimbote",Ancash,91565
+97,Clinica Javier Prado,Healthcare,Enterprise,Calle La Encalada 2851,"Banos del Inca, Cajamarca",Cajamarca,47133
+98,Javier Paredes Nunez,Residential,Residential,Prol. Primavera 2650,"Cerro Colorado, Arequipa",Arequipa,41351
+99,ESAN,Education,SMB,Calle La Marina 748,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,38367
+100,Jimena Garcia Soto,Residential,Residential,Av. Los Alamos 278,"Cayma, Arequipa",Arequipa,12659
+101,Belmond,Hospitality,Enterprise,Jr. Benavides 1457,"Nuevo Chimbote, Chimbote",Ancash,65227
+102,Gabriel Valenzuela Hernandez,Residential,Residential,Jr. Abancay 1497,"Chilca, Huancayo",Junin,25045
+103,Daniela Ruiz Salazar,Residential,Residential,Jr. Brasil 376,"Cayma, Arequipa",Arequipa,39503
+104,Cesar Hernandez Castillo,Residential,Residential,Psje. Cusco 807,"Centro, Callao",Callao,85885
+105,Ricardo Soto Vera,Residential,Residential,Prol. Colonial 1707,"Santa Rosa, Chiclayo",Lambayeque,79070
+106,Marco Villegas Reyes,Residential,Residential,Av. 28 de Julio 3380,"Chilca, Huancayo",Junin,41168
+107,Ana Rodriguez Fernandez,Residential,Residential,Calle Benavides 2445,"Centro, Chiclayo",Lambayeque,26596
+108,Paola Benavides Ramirez,Residential,Residential,Jr. Tacna 2448,"Centro, Chimbote",Ancash,99386
+109,Patricia Morales Vargas,Residential,Residential,Psje. Grau 2801,"Centro, Chimbote",Ancash,95088
+110,Miguel Reyes Vargas,Residential,Residential,Psje. Huancavelica 1091,"Subtanjalla, Ica",Ica,95337
+111,Juan Cruz Diaz,Residential,Residential,Jr. Los Eucaliptos 1641,"Punchana, Iquitos",Loreto,31599
+112,Mariana Huaman Hernandez,Residential,Residential,Psje. Los Eucaliptos 1575,"Chilca, Huancayo",Junin,31204
+113,Alejandro Mendoza Aguilar,Residential,Residential,Jr. Primavera 1865,"Llacanora, Cajamarca",Cajamarca,61092
+114,Maria Delgado Sanchez,Residential,Residential,Calle Las Orquideas 924,"Centro, Chimbote",Ancash,32518
+115,Juan Rodriguez Ramirez,Residential,Residential,Calle Los Cedros 1007,"Pimentel, Chiclayo",Lambayeque,47251
+116,Juan Espinoza Morales,Residential,Residential,Psje. Huancavelica 3357,"Paucarpata, Arequipa",Arequipa,54454
+117,Patricia Mamani Palacios,Residential,Residential,Psje. Los Eucaliptos 3062,"Centro, Chiclayo",Lambayeque,86688
+118,Patricia Ponce Nunez,Residential,Residential,Psje. Comandante Espinar 2911,"Castilla, Piura",Piura,31666
+119,Clinica Delgado,Healthcare,Enterprise,Psje. 28 de Julio 866,"La Victoria, Chiclayo",Lambayeque,78235
+120,Ivan Carrasco Gomez,Residential,Residential,Calle Reducto 2221,"San Juan Bautista, Iquitos",Loreto,96361
+121,Oscar Gomez Vera,Residential,Residential,Prol. Puno 536,"Florencia de Mora, Trujillo",La Libertad,12484
+122,Rosa Espinoza Cruz,Residential,Residential,Av. Huancavelica 170,"Catacaos, Piura",Piura,38614
+123,Hector Benavides Vasquez,Residential,Residential,Av. Los Eucaliptos 892,"San Juan de Lurigancho, Lima",Lima,81575
+124,Manuel Ponce Gomez,Residential,Residential,Psje. Arequipa 650,"La Victoria, Chiclayo",Lambayeque,86463
+125,Mariana Carrasco Valenzuela,Residential,Residential,Psje. Ica 1186,"La Punta, Callao",Callao,18876
+126,Javier Espinoza Castro,Residential,Residential,Psje. Cusco 2657,"Chorrillos, Lima",Lima,73080
+127,Patricia Benavides Ortiz,Residential,Residential,Prol. Emancipacion 1880,"Punchana, Iquitos",Loreto,11268
+128,Vanessa Nunez Mamani,Residential,Residential,Av. Wilson 1003,"Saylla, Cusco",Cusco,92059
+129,Alfredo Sanchez Vargas,Residential,Residential,Prol. Los Alamos 2163,"Castilla, Piura",Piura,31340
+130,Marisol Reyes Herrera,Residential,Residential,Jr. Javier Prado 2787,"Centro, Ica",Ica,84770
+131,Raul Benavides Carrasco,Residential,Residential,Calle Los Pinos 3256,"Subtanjalla, Ica",Ica,89196
+132,Ana Vargas Reyes,Residential,Residential,Prol. Conquistadores 2597,"Saylla, Cusco",Cusco,60164
+133,Anglo American Quellaveco,Mining,Enterprise,Psje. Cusco 594,"Centro, Piura",Piura,17529
+134,Alberto Quispe Carrasco,Residential,Residential,Prol. Comandante Espinar 2756,"Villa Maria del Triunfo, Lima",Lima,28386
+135,Tiendas EFE,Retail,Enterprise,Av. 28 de Julio 281,"Surquillo, Lima",Lima,19335
+136,Jose Sanchez Lopez,Residential,Residential,Calle Emancipacion 3461,"Moche, Trujillo",La Libertad,44324
+137,Hospital Almenara,Healthcare,Enterprise,Jr. Los Eucaliptos 1920,"Surco, Lima",Lima,22077
+138,David Perez Rodriguez,Residential,Residential,Calle Santa Cruz 1525,"Los Aquijes, Ica",Ica,13322
+139,Oscar Lopez Castro,Residential,Residential,Jr. Javier Prado 2099,"Yanahuara, Arequipa",Arequipa,71630
+140,Miguel Cordova Ramos,Residential,Residential,Jr. Arequipa 1684,"Jesus, Cajamarca",Cajamarca,92563
+141,Marco Romero Rojas,Residential,Residential,Prol. Ica 1281,"San Juan Bautista, Iquitos",Loreto,50627
+142,Carolina Ponce Villegas,Residential,Residential,Calle Wilson 1463,"Pilcomayo, Huancayo",Junin,89082
+143,Claudia Delgado Campos,Residential,Residential,Jr. Las Gardenias 1723,"Yanahuara, Arequipa",Arequipa,51702
+144,Mariela Campos Caceres,Residential,Residential,Jr. La Marina 3433,"El Porvenir, Trujillo",La Libertad,56361
+145,Monica Ramirez Delgado,Residential,Residential,Av. La Marina 1119,"San Jeronimo, Cusco",Cusco,10685
+146,Silvia Gutierrez Morales,Residential,Residential,Psje. Libertad 636,"Cayma, Arequipa",Arequipa,62031
+147,Natalia Perez Espinoza,Residential,Residential,Jr. Bolognesi 2796,"Centro, Iquitos",Loreto,93884
+148,Auna,Healthcare,SMB,Jr. Reducto 916,"Hunter, Arequipa",Arequipa,40206
+149,Paola Zarate Villegas,Residential,Residential,Psje. Colonial 733,"Santiago, Cusco",Cusco,20480
+150,Gabriela Rivera Palacios,Residential,Residential,Psje. La Encalada 1001,"Cerro Colorado, Arequipa",Arequipa,74675
+151,Victor Gonzalez Vera,Residential,Residential,Jr. La Marina 2321,"La Esperanza, Trujillo",La Libertad,20126
+152,Andres Salazar Vargas,Residential,Residential,Psje. Larco 2761,"Punchana, Iquitos",Loreto,51237
+153,Mariana Reyes Palacios,Residential,Residential,Calle Huancavelica 2209,"Carmen de la Legua, Callao",Callao,25843
+154,Mariana Ortiz Chavez,Residential,Residential,Psje. Las Palmeras 2619,"Centro, Callao",Callao,22153
+155,Enrique Vasquez Hernandez,Residential,Residential,Calle Colonial 3459,"Villa El Salvador, Lima",Lima,28807
+156,Alfredo Reyes Carrasco,Residential,Residential,Av. Ayacucho 3404,"La Punta, Callao",Callao,30732
+157,Claudia Martinez Valenzuela,Residential,Residential,Prol. Abancay 1765,"San Juan Bautista, Iquitos",Loreto,57174
+158,Marisol Salazar Romero,Residential,Residential,Av. Las Orquideas 1506,"Subtanjalla, Ica",Ica,58175
+159,BBVA Peru,Banking,Enterprise,Calle Los Cedros 1924,"San Miguel, Lima",Lima,99113
+160,Carla Ortiz Condori,Residential,Residential,Calle El Polo 3427,"Victor Larco Herrera, Trujillo",La Libertad,30103
+161,Ricardo Castillo Mamani,Residential,Residential,Av. Larco 2345,"Ventanilla, Callao",Callao,89688
+162,Julio Garcia Hernandez,Residential,Residential,Av. Colonial 693,"Banos del Inca, Cajamarca",Cajamarca,27359
+163,Enrique Zarate Palacios,Residential,Residential,Calle Benavides 2297,"Coishco, Chimbote",Ancash,21786
+164,Electronoroeste,Energy,Enterprise,Av. Conquistadores 3203,"Belen, Iquitos",Loreto,18935
+165,Clinica San Felipe,Healthcare,SMB,Av. La Encalada 3100,"Bellavista, Callao",Callao,71253
+166,Ana Torres Gonzalez,Residential,Residential,Psje. Bolognesi 2815,"Banos del Inca, Cajamarca",Cajamarca,73552
+167,Double Tree,Hospitality,SMB,Av. La Encalada 1185,"Pueblo Libre, Lima",Lima,56538
+168,Alberto Villegas Ponce,Residential,Residential,Calle Cusco 269,"La Punta, Callao",Callao,99952
+169,Gobierno Regional Arequipa,Government,Government,Av. Emancipacion 2841,"Centro Historico, Cusco",Cusco,61577
+170,Raul Silva Ponce,Residential,Residential,Av. Bolognesi 3065,"Parcona, Ica",Ica,89555
+171,Carlos Sanchez Ramirez,Residential,Residential,Prol. Bolognesi 3237,"Chilca, Huancayo",Junin,37361
+172,Fernando Garcia Ponce,Residential,Residential,Av. Universitaria 2076,"Independencia, Lima",Lima,84838
+173,Hugo Herrera Martinez,Residential,Residential,Jr. Las Orquideas 1708,"Paucarpata, Arequipa",Arequipa,71719
+174,Jose Benavides Gonzalez,Residential,Residential,Jr. Brasil 3205,"Centro, Ica",Ica,18443
+175,AC Hotel Lima,Hospitality,SMB,Calle Emancipacion 433,"Santiago, Cusco",Cusco,27056
+176,Universidad de Lima,Education,SMB,Psje. Universitaria 1514,"Nuevo Chimbote, Chimbote",Ancash,67931
+177,Milagros Romero Quispe,Residential,Residential,Calle Ica 2076,"Cercado, Arequipa",Arequipa,30055
+178,Katherine Gonzalez Ortiz,Residential,Residential,Av. Ayacucho 3356,"Carabayllo, Lima",Lima,19563
+179,Mariana Zarate Ruiz,Residential,Residential,Jr. Tacna 535,"26 de Octubre, Piura",Piura,35562
+180,Jorge Chavez Mamani,Residential,Residential,Prol. El Polo 3456,"Chilca, Huancayo",Junin,26250
+181,Gustavo Castro Nunez,Residential,Residential,Calle Universitaria 1890,"Villa Maria del Triunfo, Lima",Lima,78705
+182,Javier Miranda Garcia,Residential,Residential,Av. Colonial 3161,"La Esperanza, Trujillo",La Libertad,30046
+183,Natalia Diaz Ramos,Residential,Residential,Calle Cusco 3488,"Yanahuara, Arequipa",Arequipa,77931
+184,Hector Espinoza Huaman,Residential,Residential,Jr. El Polo 3206,"Los Aquijes, Ica",Ica,62738
+185,Natalia Hernandez Alvarez,Residential,Residential,Psje. Bolognesi 1799,"Centro, Chiclayo",Lambayeque,71389
+186,Diana Huaman Delgado,Residential,Residential,Calle Colonial 2746,"Llacanora, Cajamarca",Cajamarca,50947
+187,Rosa Hernandez Mamani,Residential,Residential,Psje. San Martin 1148,"Punchana, Iquitos",Loreto,94244
+188,Antamina,Mining,Enterprise,Av. Larco 3273,"La Victoria, Chiclayo",Lambayeque,57332
+189,Diana Delgado Ortiz,Residential,Residential,Prol. Universitaria 1179,"Centro, Chiclayo",Lambayeque,85770
+190,Rosa Silva Gonzalez,Residential,Residential,Jr. Tacna 3424,"Wanchaq, Cusco",Cusco,20850
+191,Caja Arequipa,Banking,Enterprise,Av. Primavera 576,"Los Aquijes, Ica",Ica,42731
+192,Diego Diaz Martinez,Residential,Residential,Psje. San Martin 747,"Llacanora, Cajamarca",Cajamarca,51773
+193,Pedro Paredes Morales,Residential,Residential,Av. El Polo 2250,"Parcona, Ica",Ica,62713
+194,Luz Diaz Arias,Residential,Residential,Calle Emancipacion 1285,"Cerro Colorado, Arequipa",Arequipa,97251
+195,Pedro Flores Ramirez,Residential,Residential,Psje. Tacna 1349,"Subtanjalla, Ica",Ica,76028
+196,Ximena Condori Hernandez,Residential,Residential,Av. Las Begonias 3303,"San Borja, Lima",Lima,16671
+197,Hector Torres Fernandez,Residential,Residential,Calle Los Alamos 1255,"Centro, Iquitos",Loreto,94380
+198,Marisol Valenzuela Aguilar,Residential,Residential,Jr. Reducto 1752,"Centro, Trujillo",La Libertad,49312
+199,Cecilia Romero Medina,Residential,Residential,Av. Brasil 2609,"Saylla, Cusco",Cusco,46910
+200,Hector Fernandez Huaman,Residential,Residential,Av. Reducto 364,"Belen, Iquitos",Loreto,98651
+201,Daniel Quispe Caceres,Residential,Residential,Av. Brasil 259,"Nuevo Chimbote, Chimbote",Ancash,86246
+202,Hugo Aguilar Arias,Residential,Residential,Jr. Santa Cruz 2236,"Paucarpata, Arequipa",Arequipa,69657
+203,Daniela Palacios Garcia,Residential,Residential,Jr. Brasil 3436,"Centro, Cajamarca",Cajamarca,62860
+204,Cecilia Perez Huaman,Residential,Residential,Jr. Las Orquideas 1835,"Santa Rosa, Chiclayo",Lambayeque,91082
+205,Luz del Sur,Energy,Enterprise,Jr. Libertad 1011,"Huancan, Huancayo",Junin,41462
+206,Andrea Ramos Ramos,Residential,Residential,Psje. Abancay 1144,"Ventanilla, Callao",Callao,28315
+207,Veronica Castro Herrera,Residential,Residential,Jr. Emancipacion 2250,"Pilcomayo, Huancayo",Junin,36625
+208,Jimena Campos Delgado,Residential,Residential,Jr. Ayacucho 1063,"Saylla, Cusco",Cusco,96653
+209,Gobierno Regional Lima,Government,Government,Av. Universitaria 752,"Llacanora, Cajamarca",Cajamarca,49439
+210,Patricia Aguilar Flores,Residential,Residential,Prol. Universitaria 3328,"Nuevo Chimbote, Chimbote",Ancash,51255
+211,Veronica Palacios Carrasco,Residential,Residential,Psje. Los Jazmines 530,"Centro, Cajamarca",Cajamarca,72912
+212,Fernanda Ruiz Paredes,Residential,Residential,Av. Larco 567,"Banos del Inca, Cajamarca",Cajamarca,69514
+213,Francisco Flores Hernandez,Residential,Residential,Psje. Cusco 366,"Centro, Iquitos",Loreto,12052
+214,Clinica Stella Maris,Healthcare,SMB,Av. Wilson 1758,"Victor Larco Herrera, Trujillo",La Libertad,61143
+215,Julio Arias Gonzalez,Residential,Residential,Av. Libertad 873,"Santiago, Cusco",Cusco,85378
+216,Desarrolladora,Real Estate,SMB,Jr. La Encalada 267,"Llacanora, Cajamarca",Cajamarca,59790
+217,Promart,Retail,Enterprise,Calle Los Jazmines 1934,"Centro, Callao",Callao,92611
+218,Elektra,Retail,Enterprise,Prol. Santa Cruz 448,"Jesus, Cajamarca",Cajamarca,41488
+219,Backus,Food & Beverage,Enterprise,Prol. Primavera 1711,"Victor Larco Herrera, Trujillo",La Libertad,42743
+220,Mariela Carrasco Paredes,Residential,Residential,Calle Benavides 2276,"Centro, Iquitos",Loreto,50080
+221,Katherine Hernandez Medina,Residential,Residential,Prol. Abancay 365,"San Juan Bautista, Iquitos",Loreto,78955
+222,Daniel Cruz Medina,Residential,Residential,Jr. Cusco 2684,"San Sebastian, Cusco",Cusco,14857
+223,Mariana Herrera Soto,Residential,Residential,Av. Universitaria 2663,"La Punta, Callao",Callao,16733
+224,Rodrigo Arias Caceres,Residential,Residential,Psje. La Encalada 3095,"Magdalena, Lima",Lima,98622
+225,Caja Piura,Banking,Enterprise,Av. Los Eucaliptos 2784,"Subtanjalla, Ica",Ica,33637
+226,Hugo Espinoza Mamani,Residential,Residential,Psje. Abancay 2254,"Centro, Cajamarca",Cajamarca,77955
+227,Daniel Hernandez Ortiz,Residential,Residential,Jr. 28 de Julio 818,"El Porvenir, Trujillo",La Libertad,34381
+228,Gisela Rojas Ruiz,Residential,Residential,Prol. Las Palmeras 969,"Santiago, Cusco",Cusco,85974
+229,Roberto Aguilar Valenzuela,Residential,Residential,Calle Caminos del Inca 574,"Centro, Piura",Piura,73965
+230,Ricardo Vargas Salazar,Residential,Residential,Jr. Grau 2241,"Yanahuara, Arequipa",Arequipa,65310
+231,Milagros Vera Aguilar,Residential,Residential,Calle Los Jazmines 1030,"La Victoria, Chiclayo",Lambayeque,85686
+232,Las Bambas,Mining,Enterprise,Calle Tacna 1361,"Bellavista, Callao",Callao,22342
+233,Javier Campos Castillo,Residential,Residential,Av. Javier Prado 3459,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,65116
+234,Mariela Delgado Perez,Residential,Residential,Jr. La Encalada 1771,"26 de Octubre, Piura",Piura,94139
+235,Pilar Zarate Vera,Residential,Residential,Calle Wilson 950,"Jesus Maria, Lima",Lima,80721
+236,Sergio Chavez Delgado,Residential,Residential,Calle Larco 105,"Centro, Iquitos",Loreto,14603
+237,Karina Vera Sanchez,Residential,Residential,Av. Benavides 2362,"San Sebastian, Cusco",Cusco,77994
+238,Arturo Gutierrez Mamani,Residential,Residential,Jr. Santa Cruz 3123,"Ventanilla, Callao",Callao,87071
+239,Cable Magico,Telecommunications,Enterprise,Calle La Marina 527,"Santa Rosa, Chiclayo",Lambayeque,33700
+240,Gustavo Romero Vargas,Residential,Residential,Prol. Bolognesi 441,"Santa Rosa, Chiclayo",Lambayeque,35319
+241,San Fernando,Food & Beverage,SMB,Psje. Conquistadores 2386,"San Sebastian, Cusco",Cusco,47848
+242,Jorge Mamani Perez,Residential,Residential,Av. Abancay 795,"Carmen de la Legua, Callao",Callao,24222
+243,CrediScotia,Banking,Enterprise,Jr. El Polo 1892,"Castilla, Piura",Piura,68417
+244,Lorena Caceres Vega,Residential,Residential,Prol. Huancavelica 972,"Centro, Piura",Piura,70598
+245,Senati,Education,SMB,Psje. El Polo 1251,"Pimentel, Chiclayo",Lambayeque,32750
+246,UTEC,Education,SMB,Av. Brasil 1591,"Llacanora, Cajamarca",Cajamarca,70069
+247,Julio Rojas Rivera,Residential,Residential,Prol. Huancavelica 2720,"La Punta, Callao",Callao,75173
+248,Claudia Mendoza Quispe,Residential,Residential,Calle Ayacucho 214,"Moche, Trujillo",La Libertad,91287
+249,Silvia Cordova Villegas,Residential,Residential,Av. Las Orquideas 704,"La Victoria, Chiclayo",Lambayeque,59522
+250,Gonzalo Silva Mamani,Residential,Residential,Av. Larco 2287,"Mariano Melgar, Arequipa",Arequipa,52113
+251,Katherine Villegas Soto,Residential,Residential,Jr. Benavides 1344,"San Jeronimo, Cusco",Cusco,53965
+252,Sergio Alvarez Fernandez,Residential,Residential,Prol. Brasil 2132,"La Esperanza, Trujillo",La Libertad,58960
+253,Daniel Medina Valenzuela,Residential,Residential,Calle San Martin 3010,"Parcona, Ica",Ica,54397
+254,UNT Trujillo,Education,SMB,Jr. Comandante Espinar 1437,"Carmen de la Legua, Callao",Callao,73964
+255,Alejandro Ramos Paredes,Residential,Residential,Av. Bolognesi 3061,"26 de Octubre, Piura",Piura,88858
+256,Veronica Morales Aguilar,Residential,Residential,Jr. Comandante Espinar 1529,"Barranco, Lima",Lima,40013
+257,Fernando Cruz Palacios,Residential,Residential,Prol. Los Cedros 2274,"San Martin de Porres, Lima",Lima,87604
+258,Mariela Vera Torres,Residential,Residential,Av. Libertad 2809,"Centro, Huancayo",Junin,73620
+259,Redondos,Food & Beverage,Enterprise,Calle Brasil 2410,"La Esperanza, Trujillo",La Libertad,32692
+260,Mariela Huaman Romero,Residential,Residential,Av. Benavides 457,"Socabaya, Arequipa",Arequipa,99598
+261,Fernando Alvarez Alvarez,Residential,Residential,Psje. Wilson 159,"Carmen de la Legua, Callao",Callao,68572
+262,Ricardo Romero Ramos,Residential,Residential,Jr. Comandante Espinar 729,"Florencia de Mora, Trujillo",La Libertad,81137
+263,Oscar Paredes Torres,Residential,Residential,Av. La Marina 1378,"Tambogrande, Piura",Piura,35192
+264,Rosario Flores Zarate,Residential,Residential,Av. Colonial 1926,"Banos del Inca, Cajamarca",Cajamarca,55053
+265,Sergio Morales Vasquez,Residential,Residential,Av. Los Alamos 2334,"Centro, Trujillo",La Libertad,35517
+266,Carmen Perez Perez,Residential,Residential,Prol. Las Gardenias 292,"Cayma, Arequipa",Arequipa,35592
+267,Vanessa Torres Perez,Residential,Residential,Calle Ica 2985,"Bellavista, Callao",Callao,14735
+268,Jose Ramos Aguilar,Residential,Residential,Prol. Ica 2869,"Carmen de la Legua, Callao",Callao,49228
+269,Vivanda,Retail,Enterprise,Psje. Caminos del Inca 719,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,40712
+270,Jorge Diaz Gutierrez,Residential,Residential,Calle El Polo 1038,"Nuevo Chimbote, Chimbote",Ancash,79424
+271,Wong,Retail,Enterprise,Prol. Cusco 2024,"Comas, Lima",Lima,57491
+272,Manuel Jimenez Cordova,Residential,Residential,Psje. Universitaria 2085,"Santa, Chimbote",Ancash,56111
+273,Eduardo Garcia Garcia,Residential,Residential,Psje. Brasil 1328,"Centro, Chimbote",Ancash,40162
+274,Francisco Flores Miranda,Residential,Residential,Psje. 28 de Julio 817,"La Victoria, Chiclayo",Lambayeque,20740
+275,Rosario Salazar Ramirez,Residential,Residential,Psje. Arequipa 1914,"Magdalena, Lima",Lima,39122
+276,Carla Rodriguez Huaman,Residential,Residential,Psje. Ayacucho 2163,"El Porvenir, Trujillo",La Libertad,15660
+277,Maria Diaz Condori,Residential,Residential,Av. Emancipacion 897,"Ventanilla, Callao",Callao,96104
+278,Cerro Verde,Mining,Enterprise,Calle Universitaria 2994,"Banos del Inca, Cajamarca",Cajamarca,34725
+279,ICCGSA,Construction,Enterprise,Av. Primavera 2834,"Nuevo Chimbote, Chimbote",Ancash,27816
+280,Jorge Gutierrez Gomez,Residential,Residential,Prol. Wilson 913,"Parcona, Ica",Ica,96144
+281,Libertador Hotels,Hospitality,SMB,Av. Los Alamos 2789,"Banos del Inca, Cajamarca",Cajamarca,48575
+282,Francisco Vasquez Medina,Residential,Residential,Jr. Las Begonias 3251,"Centro, Cajamarca",Cajamarca,45945
+283,Antonio Soto Ortiz,Residential,Residential,Calle Conquistadores 3307,"San Jeronimo, Cusco",Cusco,46089
+284,Jimena Silva Romero,Residential,Residential,Jr. 28 de Julio 1327,"Pueblo Libre, Lima",Lima,22764
+285,Rosario Soto Reyes,Residential,Residential,Psje. Libertad 955,"Huanchaco, Trujillo",La Libertad,44615
+286,Eduardo Campos Carrasco,Residential,Residential,Jr. Reducto 1515,"Centro, Cajamarca",Cajamarca,31869
+287,Ministerio de Educacion,Government,Government,Prol. Independencia 878,"Los Aquijes, Ica",Ica,58149
+288,David Lopez Huaman,Residential,Residential,Prol. Huancavelica 2616,"Centro, Cajamarca",Cajamarca,68596
+289,Eduardo Garcia Miranda,Residential,Residential,Jr. Las Palmeras 138,"Parcona, Ica",Ica,47954
+290,Casa Andina,Hospitality,Enterprise,Prol. Primavera 1052,"Banos del Inca, Cajamarca",Cajamarca,22160
+291,Jorge Sanchez Jimenez,Residential,Residential,Psje. 28 de Julio 2440,"Florencia de Mora, Trujillo",La Libertad,33735
+292,Pablo Mamani Ruiz,Residential,Residential,Psje. San Martin 588,"Cercado, Arequipa",Arequipa,89456
+293,Katherine Paredes Silva,Residential,Residential,Psje. Ica 1445,"San Martin de Porres, Lima",Lima,65138
+294,Cardif,Insurance,SMB,Psje. Primavera 2600,"Jesus, Cajamarca",Cajamarca,47660
+295,Vanessa Benavides Morales,Residential,Residential,Av. Independencia 1131,"Santa, Chimbote",Ancash,58748
+296,Diana Valenzuela Zarate,Residential,Residential,Calle 28 de Julio 2578,"La Tinguina, Ica",Ica,66492
+297,Pedro Vera Benavides,Residential,Residential,Psje. Puno 3359,"El Tambo, Huancayo",Junin,65677
+298,Ana Castro Ponce,Residential,Residential,Prol. Santa Cruz 924,"La Victoria, Chiclayo",Lambayeque,69370
+299,Lindley,Food & Beverage,Enterprise,Prol. Bolognesi 2179,"Pimentel, Chiclayo",Lambayeque,45697
+300,Pablo Rodriguez Morales,Residential,Residential,Jr. Los Cedros 2989,"Castilla, Piura",Piura,22806
+301,Mariela Palacios Espinoza,Residential,Residential,Av. Universitaria 395,"Subtanjalla, Ica",Ica,24082
+302,Ana Jimenez Campos,Residential,Residential,Jr. 28 de Julio 2730,"Centro, Callao",Callao,67559
+303,Elizabeth Nunez Ramos,Residential,Residential,Psje. Los Cedros 908,"Centro, Trujillo",La Libertad,87344
+304,BNP Paribas Cardif,Insurance,SMB,Jr. Bolognesi 2952,"Huanchaco, Trujillo",La Libertad,69308
+305,Gabriela Valenzuela Perez,Residential,Residential,Av. Larco 155,"Chilca, Huancayo",Junin,71638
+306,Fernanda Fernandez Reyes,Residential,Residential,Calle Los Pinos 1544,"Huanchaco, Trujillo",La Libertad,28945
+307,Entel Peru,Telecommunications,Enterprise,Psje. La Encalada 3483,"Los Aquijes, Ica",Ica,17086
+308,Lorena Herrera Valenzuela,Residential,Residential,Psje. Comandante Espinar 586,"La Victoria, Chiclayo",Lambayeque,96140
+309,Caja Huancayo,Banking,Enterprise,Av. Santa Cruz 1054,"Huancan, Huancayo",Junin,74066
+310,Jimena Medina Castro,Residential,Residential,Prol. Caminos del Inca 879,"Socabaya, Arequipa",Arequipa,30127
+311,Antonio Mamani Zarate,Residential,Residential,Psje. El Polo 1644,"Banos del Inca, Cajamarca",Cajamarca,56986
+312,Ivan Herrera Vargas,Residential,Residential,Prol. El Polo 2974,"Centro, Chimbote",Ancash,94094
+313,Paz Centenario,Real Estate,SMB,Prol. Las Palmeras 1513,"Pimentel, Chiclayo",Lambayeque,20538
+314,Mario Reyes Huaman,Residential,Residential,Av. Tacna 1318,"Centro, Callao",Callao,33602
+315,Gabriel Salazar Garcia,Residential,Residential,Psje. Grau 2865,"Carabayllo, Lima",Lima,59766
+316,Cayetano Heredia,Education,Enterprise,Psje. Los Alamos 768,"Centro, Chiclayo",Lambayeque,23867
+317,Maria Benavides Vega,Residential,Residential,Psje. La Encalada 1296,"Pilcomayo, Huancayo",Junin,17246
+318,Natalia Vera Gonzalez,Residential,Residential,Jr. Santa Cruz 710,"Pimentel, Chiclayo",Lambayeque,40374
+319,Rosa Vega Castro,Residential,Residential,Prol. Conquistadores 2402,"Barranco, Lima",Lima,57135
+320,Juan Valenzuela Gonzalez,Residential,Residential,Calle Ayacucho 1565,"El Porvenir, Trujillo",La Libertad,93678
+321,Lorena Ponce Villegas,Residential,Residential,Calle Independencia 2144,"La Tinguina, Ica",Ica,39233
+322,Banco de Credito del Peru,Banking,Enterprise,Prol. Los Jazmines 216,"26 de Octubre, Piura",Piura,21129
+323,Lucia Fernandez Mamani,Residential,Residential,Calle Independencia 2970,"Victor Larco Herrera, Trujillo",La Libertad,62415
+324,Carmen Castillo Herrera,Residential,Residential,Psje. Wilson 3486,"San Juan Bautista, Iquitos",Loreto,82665
+325,SEAL Arequipa,Energy,Enterprise,Jr. Javier Prado 1541,"Castilla, Piura",Piura,13611
+326,Sergio Medina Castillo,Residential,Residential,Psje. Grau 3427,"Centro, Chiclayo",Lambayeque,36145
+327,Paola Vera Salazar,Residential,Residential,Psje. Benavides 3048,"Centro, Cajamarca",Cajamarca,80796
+328,Valeria Zarate Gonzalez,Residential,Residential,Av. Ica 2984,"San Borja, Lima",Lima,31196
+329,Paola Vasquez Cruz,Residential,Residential,Prol. Las Gardenias 151,"Coishco, Chimbote",Ancash,31278
+330,Carolina Herrera Cruz,Residential,Residential,Jr. Los Alamos 979,"San Juan Bautista, Iquitos",Loreto,10118
+331,Carlos Ramirez Ramirez,Residential,Residential,Calle Los Eucaliptos 2620,"Centro, Huancayo",Junin,66073
+332,Diana Gomez Lopez,Residential,Residential,Av. Las Orquideas 1537,"La Tinguina, Ica",Ica,42428
+333,Eduardo Benavides Ponce,Residential,Residential,Av. Independencia 1286,"Castilla, Piura",Piura,69669
+334,Clinica Ricardo Palma,Healthcare,Enterprise,Calle Independencia 2231,"Centro, Iquitos",Loreto,42928
+335,Petroperu,Energy,Enterprise,Calle Brasil 2426,"Ventanilla, Callao",Callao,81701
+336,Gabriela Aguilar Nunez,Residential,Residential,Jr. La Encalada 2161,"Centro, Iquitos",Loreto,81196
+337,Rosa Silva Vega,Residential,Residential,Calle Brasil 3004,"La Victoria, Chiclayo",Lambayeque,78803
+338,UNI,Education,Enterprise,Prol. Grau 2846,"San Juan Bautista, Iquitos",Loreto,57166
+339,Francisco Jimenez Soto,Residential,Residential,Av. Ayacucho 177,"La Tinguina, Ica",Ica,40685
+340,Sergio Ponce Caceres,Residential,Residential,Av. Libertad 286,"Parcona, Ica",Ica,68486
+341,P&G Peru,Food & Beverage,Enterprise,Av. Tacna 461,"La Esperanza, Trujillo",La Libertad,37645
+342,Jimena Nunez Fernandez,Residential,Residential,Calle Los Alamos 1358,"El Porvenir, Trujillo",La Libertad,54593
+343,Victor Ruiz Cruz,Residential,Residential,Psje. Los Cedros 3261,"San Jeronimo, Cusco",Cusco,59586
+344,Javier Perez Martinez,Residential,Residential,Prol. Puno 2077,"Centro, Iquitos",Loreto,80993
+345,Claudia Carrasco Vargas,Residential,Residential,Calle Ica 1171,"El Porvenir, Trujillo",La Libertad,97958
+346,Sergio Ramos Quispe,Residential,Residential,Av. Caminos del Inca 2082,"Centro Historico, Cusco",Cusco,51612
+347,Lucia Paredes Gomez,Residential,Residential,Calle Conquistadores 3088,"Huancan, Huancayo",Junin,84876
+348,Elizabeth Rivera Rojas,Residential,Residential,Jr. Los Alamos 2802,"Centro, Chiclayo",Lambayeque,71379
+349,Roberto Alvarez Zarate,Residential,Residential,Jr. Larco 998,"Villa El Salvador, Lima",Lima,41747
+350,Novotel,Hospitality,Enterprise,Prol. Universitaria 2019,"Pueblo Libre, Lima",Lima,93364
+351,Abril Grupo,Real Estate,Enterprise,Prol. Los Cedros 2465,"Centro, Ica",Ica,46292
+352,Paola Salazar Jimenez,Residential,Residential,Jr. Independencia 303,"Llacanora, Cajamarca",Cajamarca,30164
+353,OHL Peru,Construction,SMB,Prol. Brasil 2116,"El Porvenir, Trujillo",La Libertad,71115
+354,Carla Jimenez Hernandez,Residential,Residential,Prol. Brasil 2526,"26 de Octubre, Piura",Piura,84249
+355,Grana y Montero,Construction,SMB,Jr. La Encalada 579,"Centro, Cajamarca",Cajamarca,15385
+356,Milagros Herrera Medina,Residential,Residential,Jr. Emancipacion 1296,"Los Aquijes, Ica",Ica,69689
+357,Hilton Lima,Hospitality,Enterprise,Prol. Las Palmeras 2962,"Centro, Chimbote",Ancash,55986
+358,Carla Gomez Flores,Residential,Residential,Calle Grau 326,"La Punta, Callao",Callao,95197
+359,Viva GyM,Real Estate,Enterprise,Psje. Los Pinos 565,"Nuevo Chimbote, Chimbote",Ancash,19516
+360,ISIL,Education,Enterprise,Prol. Conquistadores 1485,"Chilca, Huancayo",Junin,29386
+361,Hector Gutierrez Castro,Residential,Residential,Psje. Los Jazmines 1320,"Santa, Chimbote",Ancash,32733
+362,Diana Palacios Vargas,Residential,Residential,Jr. Las Orquideas 698,"Pueblo Libre, Lima",Lima,11423
+363,Oscar Arias Caceres,Residential,Residential,Psje. Javier Prado 1014,"Hunter, Arequipa",Arequipa,89696
+364,Carmen Rivera Martinez,Residential,Residential,Av. Larco 932,"La Molina, Lima",Lima,59690
+365,Fernanda Fernandez Espinoza,Residential,Residential,Av. La Marina 1653,"El Tambo, Huancayo",Junin,84598
+366,Fernanda Aguilar Rodriguez,Residential,Residential,Jr. Emancipacion 2345,"Santa Rosa, Chiclayo",Lambayeque,59067
+367,Ivan Caceres Sanchez,Residential,Residential,Prol. Primavera 3269,"Carabayllo, Lima",Lima,15108
+368,Silvia Gomez Salazar,Residential,Residential,Prol. Los Alamos 1906,"Santa, Chimbote",Ancash,47759
+369,Miguel Aguilar Villegas,Residential,Residential,Calle Las Begonias 532,"Chilca, Huancayo",Junin,35030
+370,Ivan Flores Quispe,Residential,Residential,Jr. Reducto 2923,"Huancan, Huancayo",Junin,70125
+371,Juan Ortiz Castro,Residential,Residential,Calle Bolognesi 1872,"Chilca, Huancayo",Junin,54188
+372,Diana Ponce Caceres,Residential,Residential,Calle Caminos del Inca 1800,"Santa, Chimbote",Ancash,20959
+373,Patricia Gomez Herrera,Residential,Residential,Psje. La Encalada 3039,"Belen, Iquitos",Loreto,91890
+374,Pilar Chavez Castillo,Residential,Residential,Psje. Santa Cruz 3071,"Carmen de la Legua, Callao",Callao,72307
+375,Oscar Perez Vera,Residential,Residential,Av. 28 de Julio 1915,"Llacanora, Cajamarca",Cajamarca,21280
+376,Elizabeth Cordova Sanchez,Residential,Residential,Prol. Arequipa 1121,"Centro, Huancayo",Junin,98192
+377,Ana Soto Silva,Residential,Residential,Calle Independencia 1683,"Los Aquijes, Ica",Ica,30144
+378,Andrea Salazar Herrera,Residential,Residential,Calle Los Alamos 877,"Parcona, Ica",Ica,70619
+379,Arturo Gutierrez Valenzuela,Residential,Residential,Jr. Benavides 2367,"Centro, Piura",Piura,60916
+380,Hugo Rodriguez Ortiz,Residential,Residential,Calle Libertad 2869,"Parcona, Ica",Ica,24708
+381,Luis Ortiz Flores,Residential,Residential,Prol. Libertad 1390,"Jesus Maria, Lima",Lima,89346
+382,Marisol Torres Arias,Residential,Residential,Calle La Encalada 442,"San Juan Bautista, Iquitos",Loreto,98324
+383,Pablo Cordova Cruz,Residential,Residential,Calle Los Cedros 2947,"Centro, Ica",Ica,84287
+384,Vanessa Gutierrez Condori,Residential,Residential,Av. Primavera 1398,"Cercado, Arequipa",Arequipa,85337
+385,Ximena Vasquez Lopez,Residential,Residential,Calle Libertad 1471,"Castilla, Piura",Piura,26567
+386,Hugo Ortiz Caceres,Residential,Residential,Calle 28 de Julio 281,"Independencia, Lima",Lima,75791
+387,Banco Ripley,Banking,Enterprise,Jr. Las Begonias 1514,"Cayma, Arequipa",Arequipa,29239
+388,Rosario Ortiz Miranda,Residential,Residential,Av. Colonial 3142,"Castilla, Piura",Piura,50736
+389,Victor Silva Diaz,Residential,Residential,Av. Brasil 842,"Santa Rosa, Chiclayo",Lambayeque,29070
+390,Andres Jimenez Arias,Residential,Residential,Jr. Ayacucho 318,"Santiago, Cusco",Cusco,48596
+391,Vanessa Salazar Benavides,Residential,Residential,Calle Santa Cruz 2163,"El Tambo, Huancayo",Junin,62027
+392,Rosario Zarate Gomez,Residential,Residential,Calle Las Gardenias 975,"Comas, Lima",Lima,63610
+393,Scotiabank Peru,Banking,Enterprise,Jr. 28 de Julio 2334,"Centro, Huancayo",Junin,82261
+394,Roberto Castro Flores,Residential,Residential,Av. San Martin 1240,"Yanahuara, Arequipa",Arequipa,32597
+395,Ivan Vasquez Lopez,Residential,Residential,Prol. Las Palmeras 3165,"Nuevo Chimbote, Chimbote",Ancash,71332
+396,Pedro Gutierrez Cruz,Residential,Residential,Jr. Larco 2063,"Santa, Chimbote",Ancash,25134
+397,Fernando Caceres Rojas,Residential,Residential,Psje. Las Gardenias 322,"Centro Historico, Cusco",Cusco,73290
+398,Patricia Salazar Reyes,Residential,Residential,Prol. Ayacucho 1444,"Parcona, Ica",Ica,17841
+399,San Martin Contratistas,Construction,Enterprise,Psje. Primavera 477,"Paucarpata, Arequipa",Arequipa,38604
+400,Carolina Perez Soto,Residential,Residential,Jr. Los Cedros 2857,"Villa El Salvador, Lima",Lima,69693
+401,Raul Gonzalez Silva,Residential,Residential,Prol. Ica 1224,"Ventanilla, Callao",Callao,67229
+402,Jose Rojas Rojas,Residential,Residential,Calle Ica 1155,"Pilcomayo, Huancayo",Junin,16362
+403,Sergio Paredes Vasquez,Residential,Residential,Calle La Encalada 2937,"Hunter, Arequipa",Arequipa,48478
+404,Ricardo Paredes Gutierrez,Residential,Residential,Calle Tacna 2123,"Wanchaq, Cusco",Cusco,83367
+405,Sheraton Lima,Hospitality,SMB,Av. Javier Prado 2409,"Ventanilla, Callao",Callao,99333
+406,Cesar Martinez Rojas,Residential,Residential,Calle Huancavelica 3313,"Wanchaq, Cusco",Cusco,83082
+407,Pilar Fernandez Reyes,Residential,Residential,Jr. Las Palmeras 303,"San Miguel, Lima",Lima,27677
+408,Carlos Huaman Fernandez,Residential,Residential,Jr. Comandante Espinar 1270,"Castilla, Piura",Piura,59469
+409,Andrea Rodriguez Gutierrez,Residential,Residential,Av. Las Gardenias 2234,"Hunter, Arequipa",Arequipa,24125
+410,Gold Fields,Mining,Enterprise,Av. Javier Prado 1359,"Los Aquijes, Ica",Ica,25069
+411,Hugo Garcia Vargas,Residential,Residential,Calle Los Cedros 2741,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,41832
+412,Karina Cordova Mendoza,Residential,Residential,Av. Bolognesi 3112,"Chilca, Huancayo",Junin,71607
+413,Javier Ortiz Alvarez,Residential,Residential,Prol. Emancipacion 3422,"Santa, Chimbote",Ancash,62515
+414,Gabriel Fernandez Rivera,Residential,Residential,Av. La Marina 1576,"Paucarpata, Arequipa",Arequipa,45545
+415,Aje Group,Food & Beverage,SMB,Calle Libertad 2886,"Socabaya, Arequipa",Arequipa,12745
+416,Gabriel Ponce Ortiz,Residential,Residential,Calle Los Jazmines 979,"Centro, Trujillo",La Libertad,64294
+417,Ana Delgado Quispe,Residential,Residential,Av. Ayacucho 1540,"Chorrillos, Lima",Lima,85119
+418,David Aguilar Rivera,Residential,Residential,Psje. Caminos del Inca 1466,"Mariano Melgar, Arequipa",Arequipa,39188
+419,Eduardo Ramirez Cruz,Residential,Residential,Psje. Brasil 3122,"Parcona, Ica",Ica,73000
+420,UPC,Education,Enterprise,Calle Los Pinos 1398,"Bellavista, Callao",Callao,90590
+421,Coca Cola Peru,Food & Beverage,Enterprise,Prol. Huancavelica 2795,"Llacanora, Cajamarca",Cajamarca,91462
+422,Carla Ramirez Vargas,Residential,Residential,Calle Arequipa 371,"La Victoria, Chiclayo",Lambayeque,89128
+423,Jessica Ruiz Romero,Residential,Residential,Av. 28 de Julio 2312,"Belen, Iquitos",Loreto,49079
+424,Monica Carrasco Garcia,Residential,Residential,Jr. Reducto 1476,"Moche, Trujillo",La Libertad,35389
+425,Pacifico Seguros,Insurance,Enterprise,Jr. Tacna 764,"Santa Rosa, Chiclayo",Lambayeque,16088
+426,Rosario Martinez Torres,Residential,Residential,Psje. Huancavelica 465,"Centro, Chimbote",Ancash,12327
+427,Monica Condori Castillo,Residential,Residential,Calle Cusco 2436,"Los Olivos, Lima",Lima,74452
+428,Mario Gutierrez Caceres,Residential,Residential,Av. Comandante Espinar 1774,"Llacanora, Cajamarca",Cajamarca,74883
+429,Gisela Vasquez Ortiz,Residential,Residential,Prol. Ayacucho 2428,"San Jeronimo, Cusco",Cusco,97411
+430,Oscar Garcia Cordova,Residential,Residential,Psje. Javier Prado 3121,"Punchana, Iquitos",Loreto,96072
+431,Gisela Morales Mendoza,Residential,Residential,Psje. Universitaria 3249,"Pilcomayo, Huancayo",Junin,76136
+432,Daniela Romero Chavez,Residential,Residential,Psje. Universitaria 2375,"Belen, Iquitos",Loreto,87117
+433,Victor Salazar Delgado,Residential,Residential,Prol. Javier Prado 1400,"El Tambo, Huancayo",Junin,94334
+434,Carlos Garcia Carrasco,Residential,Residential,Psje. Puno 3475,"Centro, Huancayo",Junin,16637
+435,DirectTV Peru,Telecommunications,Enterprise,Psje. Santa Cruz 588,"La Tinguina, Ica",Ica,66020
+436,Carmen Villegas Huaman,Residential,Residential,Calle Grau 998,"Subtanjalla, Ica",Ica,69021
+437,Rimac Seguros,Insurance,Enterprise,Jr. Comandante Espinar 444,"Jesus Maria, Lima",Lima,65132
+438,Rosario Gomez Flores,Residential,Residential,Calle Brasil 3399,"Moche, Trujillo",La Libertad,60147
+439,Ximena Soto Hernandez,Residential,Residential,Prol. Las Palmeras 2894,"Comas, Lima",Lima,21267
+440,Valeria Martinez Perez,Residential,Residential,Av. Abancay 3064,"Subtanjalla, Ica",Ica,60277
+441,Caja Trujillo,Banking,Enterprise,Prol. Abancay 3343,"Carmen de la Legua, Callao",Callao,23477
+442,Miguel Rojas Gomez,Residential,Residential,Prol. Primavera 598,"Coishco, Chimbote",Ancash,94903
+443,SUNAT,Government,Government,Prol. Las Orquideas 2257,"Yanahuara, Arequipa",Arequipa,55691
+444,Sandra Castillo Chavez,Residential,Residential,Calle Brasil 611,"Cercado, Arequipa",Arequipa,40010
+445,Carmen Paredes Caceres,Residential,Residential,Calle San Martin 2588,"Centro, Piura",Piura,82003
+446,Buenaventura,Mining,Enterprise,Prol. Universitaria 2544,"Carmen de la Legua, Callao",Callao,93360
+447,Flor Hernandez Castillo,Residential,Residential,Calle Puno 3486,"Yanahuara, Arequipa",Arequipa,84632
+448,Pecsa,Energy,Enterprise,Jr. Benavides 2040,"Centro, Chimbote",Ancash,22141
+449,Fernanda Lopez Rojas,Residential,Residential,Calle Primavera 791,"Centro, Ica",Ica,66296
+450,America Movil,Telecommunications,Enterprise,Psje. Caminos del Inca 161,"Santiago, Cusco",Cusco,62035
+451,Katherine Ortiz Romero,Residential,Residential,Jr. Primavera 633,"Nuevo Chimbote, Chimbote",Ancash,75452
+452,Daniela Benavides Ramirez,Residential,Residential,Av. Las Palmeras 2642,"Ate, Lima",Lima,33916
+453,Milagros Quispe Morales,Residential,Residential,Jr. Cusco 433,"La Punta, Callao",Callao,69688
+454,Miguel Cruz Carrasco,Residential,Residential,Jr. Larco 1474,"San Sebastian, Cusco",Cusco,93648
+455,Municipalidad de Lima,Government,Government,Prol. Universitaria 2945,"La Victoria, Chiclayo",Lambayeque,95279
+456,Laive,Food & Beverage,Enterprise,Jr. Javier Prado 1428,"Chilca, Huancayo",Junin,54372
+457,Carmen Alvarez Fernandez,Residential,Residential,Psje. Primavera 2184,"Centro, Trujillo",La Libertad,75723
+458,Victor Gutierrez Rivera,Residential,Residential,Prol. Colonial 2814,"Independencia, Lima",Lima,80180
+459,Gisela Ramirez Romero,Residential,Residential,Jr. Benavides 1168,"Castilla, Piura",Piura,16678
+460,Ripley,Retail,SMB,Prol. Larco 3181,"Centro, Ica",Ica,93376
+461,Gustavo Soto Miranda,Residential,Residential,Calle Conquistadores 3167,"San Juan Bautista, Iquitos",Loreto,51309
+462,Vanessa Palacios Palacios,Residential,Residential,Prol. Las Gardenias 1602,"Paucarpata, Arequipa",Arequipa,43585
+463,Pablo Mamani Mamani,Residential,Residential,Av. Los Cedros 3003,"Centro, Iquitos",Loreto,21915
+464,Francisco Aguilar Vargas,Residential,Residential,Psje. Libertad 2368,"Mariano Melgar, Arequipa",Arequipa,37876
+465,Roberto Alvarez Mamani,Residential,Residential,Calle Abancay 513,"Yanahuara, Arequipa",Arequipa,35199
+466,Diego Martinez Torres,Residential,Residential,Av. Cusco 1884,"Belen, Iquitos",Loreto,66735
+467,Antonio Morales Arias,Residential,Residential,Prol. Javier Prado 1822,"Centro, Cajamarca",Cajamarca,37205
+468,Carmen Delgado Cordova,Residential,Residential,Av. Emancipacion 2848,"Breña, Lima",Lima,80162
+469,Mariana Gonzalez Rivera,Residential,Residential,Jr. Cusco 306,"Wanchaq, Cusco",Cusco,52664
+470,Sergio Torres Paredes,Residential,Residential,Jr. Huancavelica 3431,"Centro, Ica",Ica,96005
+471,Carmen Ramirez Ramirez,Residential,Residential,Psje. Ica 1977,"Banos del Inca, Cajamarca",Cajamarca,70252
+472,Alberto Garcia Gutierrez,Residential,Residential,Prol. La Encalada 116,"La Victoria, Chiclayo",Lambayeque,18139
+473,Vanessa Campos Lopez,Residential,Residential,Jr. Los Alamos 2526,"Centro Historico, Cusco",Cusco,50892
+474,Ricardo Flores Vasquez,Residential,Residential,Psje. Emancipacion 1596,"San Juan de Lurigancho, Lima",Lima,31962
+475,Veronica Ponce Salazar,Residential,Residential,Psje. Comandante Espinar 1996,"Centro, Chiclayo",Lambayeque,15960
+476,Carla Sanchez Aguilar,Residential,Residential,Prol. Emancipacion 3312,"Pimentel, Chiclayo",Lambayeque,33928
+477,Fernanda Campos Castillo,Residential,Residential,Prol. Brasil 2649,"La Victoria, Chiclayo",Lambayeque,81043
+478,Veronica Torres Fernandez,Residential,Residential,Jr. 28 de Julio 2492,"Victor Larco Herrera, Trujillo",La Libertad,89328
+479,Ximena Mendoza Delgado,Residential,Residential,Prol. Las Begonias 258,"San Jeronimo, Cusco",Cusco,73334
+480,Roberto Jimenez Flores,Residential,Residential,Calle La Encalada 935,"Miraflores, Lima",Lima,79711
+481,Flor Silva Hernandez,Residential,Residential,Av. Los Jazmines 3423,"Llacanora, Cajamarca",Cajamarca,92031
+482,Flor Vasquez Nunez,Residential,Residential,Jr. Comandante Espinar 3112,"Pimentel, Chiclayo",Lambayeque,38798
+483,Marco Vega Salazar,Residential,Residential,Calle Las Begonias 2966,"Centro, Chiclayo",Lambayeque,48439
+484,Mariela Carrasco Paredes,Residential,Residential,Jr. Puno 934,"Punchana, Iquitos",Loreto,19552
+485,Costa del Sol,Hospitality,Enterprise,Prol. Ayacucho 1183,"Centro, Cajamarca",Cajamarca,11542
+486,Vanessa Soto Rodriguez,Residential,Residential,Av. Los Alamos 138,"Centro, Ica",Ica,27200
+487,Sandra Zarate Rivera,Residential,Residential,Jr. Benavides 1806,"Parcona, Ica",Ica,11574
+488,Andrea Paredes Quispe,Residential,Residential,Psje. Los Pinos 386,"Barranco, Lima",Lima,23905
+489,Gabriel Quispe Rodriguez,Residential,Residential,Av. Javier Prado 490,"Huanchaco, Trujillo",La Libertad,41558
+490,Francisco Reyes Gonzalez,Residential,Residential,Calle 28 de Julio 994,"26 de Octubre, Piura",Piura,95425
+491,Julio Nunez Cruz,Residential,Residential,Psje. Tacna 767,"Nuevo Chimbote, Chimbote",Ancash,76098
+492,Monica Perez Salazar,Residential,Residential,Jr. Las Orquideas 2805,"Centro Historico, Cusco",Cusco,57125
+493,Paola Zarate Paredes,Residential,Residential,Jr. San Martin 647,"Belen, Iquitos",Loreto,60626
+494,Juan Carrasco Vera,Residential,Residential,Prol. Los Jazmines 525,"Banos del Inca, Cajamarca",Cajamarca,64001
+495,Paola Ponce Campos,Residential,Residential,Jr. La Encalada 228,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,67011
+496,Gonzalo Fernandez Mendoza,Residential,Residential,Av. Las Gardenias 905,"Belen, Iquitos",Loreto,86535
+497,Ana Flores Carrasco,Residential,Residential,Psje. Los Alamos 2091,"San Isidro, Lima",Lima,86934
+498,Pedro Nunez Benavides,Residential,Residential,Av. Grau 1701,"Cayma, Arequipa",Arequipa,57967
+499,Silvia Rodriguez Sanchez,Residential,Residential,Calle Independencia 3001,"Centro, Chiclayo",Lambayeque,26494
+500,Marco Caceres Flores,Residential,Residential,Calle San Martin 3472,"Pimentel, Chiclayo",Lambayeque,85110
+501,Eduardo Paredes Delgado,Residential,Residential,Jr. 28 de Julio 1399,"Centro, Cajamarca",Cajamarca,20203
+502,Stracon,Construction,SMB,Psje. Los Jazmines 1663,"Parcona, Ica",Ica,76115
+503,Silvia Miranda Castro,Residential,Residential,Psje. Wilson 284,"Carmen de la Legua, Callao",Callao,40674
+504,Roberto Gonzalez Sanchez,Residential,Residential,Av. Javier Prado 413,"Belen, Iquitos",Loreto,82779
+505,Ximena Lopez Quispe,Residential,Residential,Psje. Abancay 1026,"Jesus Maria, Lima",Lima,52092
+506,Inca Kola,Food & Beverage,SMB,Av. Las Orquideas 3108,"La Punta, Callao",Callao,60535
+507,Mariela Hernandez Ortiz,Residential,Residential,Psje. San Martin 1309,"Centro, Chimbote",Ancash,79252
+508,Oscar Ramos Gutierrez,Residential,Residential,Calle San Martin 2687,"El Tambo, Huancayo",Junin,54758
+509,Carmen Diaz Gutierrez,Residential,Residential,Av. Bolognesi 2139,"Hunter, Arequipa",Arequipa,39501
+510,Rodrigo Morales Sanchez,Residential,Residential,Jr. Bolognesi 3196,"La Victoria, Chiclayo",Lambayeque,56618
+511,Gisela Torres Gonzalez,Residential,Residential,Calle Emancipacion 1177,"Santiago, Cusco",Cusco,18371
+512,Lucia Fernandez Mendoza,Residential,Residential,Calle Las Begonias 2929,"Wanchaq, Cusco",Cusco,89251
+513,Natalia Paredes Cordova,Residential,Residential,Av. Conquistadores 3445,"Barranco, Lima",Lima,13843
+514,Rocio Gomez Soto,Residential,Residential,Jr. Emancipacion 1088,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,82283
+515,Milagros Rojas Perez,Residential,Residential,Jr. Emancipacion 188,"Nuevo Chimbote, Chimbote",Ancash,40069
+516,Daniel Herrera Romero,Residential,Residential,Av. Libertad 3129,"El Tambo, Huancayo",Junin,64386
+517,Carolina Mamani Romero,Residential,Residential,Prol. La Marina 2091,"Moche, Trujillo",La Libertad,68442
+518,Elizabeth Delgado Salazar,Residential,Residential,Av. Bolognesi 2715,"Los Olivos, Lima",Lima,50829
+519,Marco Delgado Gonzalez,Residential,Residential,Calle Las Gardenias 2987,"Magdalena, Lima",Lima,27250
+520,Julio Aguilar Silva,Residential,Residential,Jr. Puno 2510,"Centro, Chiclayo",Lambayeque,81828
+521,Luz Villegas Rodriguez,Residential,Residential,Prol. Ica 2378,"Cerro Colorado, Arequipa",Arequipa,66839
+522,Carmen Ramos Garcia,Residential,Residential,Calle La Encalada 1749,"Saylla, Cusco",Cusco,97778
+523,Carolina Jimenez Quispe,Residential,Residential,Prol. La Encalada 709,"La Esperanza, Trujillo",La Libertad,18549
+524,Mapfre Peru,Insurance,SMB,Prol. Santa Cruz 2291,"San Sebastian, Cusco",Cusco,79593
+525,Antonio Nunez Flores,Residential,Residential,Prol. Los Jazmines 3228,"Subtanjalla, Ica",Ica,97801
+526,Pablo Castillo Cordova,Residential,Residential,Jr. Puno 1117,"Castilla, Piura",Piura,70503
+527,Elizabeth Delgado Diaz,Residential,Residential,Psje. Los Pinos 1772,"Comas, Lima",Lima,34897
+528,Alejandro Vasquez Perez,Residential,Residential,Psje. Reducto 1481,"San Juan Bautista, Iquitos",Loreto,51585
+529,Rocio Garcia Huaman,Residential,Residential,Av. Emancipacion 3236,"La Perla, Callao",Callao,74152
+530,Manuel Fernandez Palacios,Residential,Residential,Jr. La Marina 957,"Belen, Iquitos",Loreto,81862
+531,Gisela Nunez Ponce,Residential,Residential,Prol. Santa Cruz 2197,"Nuevo Chimbote, Chimbote",Ancash,71553
+532,Unilever Peru,Food & Beverage,SMB,Prol. Los Eucaliptos 1122,"Miraflores, Lima",Lima,17739
+533,Hector Martinez Arias,Residential,Residential,Prol. Colonial 1510,"Los Aquijes, Ica",Ica,98415
+534,Marco Quispe Alvarez,Residential,Residential,Calle Conquistadores 2218,"Paucarpata, Arequipa",Arequipa,67877
+535,Cesar Hernandez Alvarez,Residential,Residential,Av. Emancipacion 1939,"La Perla, Callao",Callao,94733
+536,Patricia Quispe Palacios,Residential,Residential,Psje. Independencia 261,"Ventanilla, Callao",Callao,63654
+537,Sandra Gutierrez Vera,Residential,Residential,Prol. Arequipa 2769,"Subtanjalla, Ica",Ica,98124
+538,Karina Zarate Jimenez,Residential,Residential,Jr. La Marina 2459,"Santa Rosa, Chiclayo",Lambayeque,80796
+539,Hidrandina,Energy,Enterprise,Jr. Arequipa 706,"Santa Rosa, Chiclayo",Lambayeque,27040
+540,Milagros Vega Silva,Residential,Residential,Av. Reducto 2652,"Surco, Lima",Lima,36244
+541,Raul Perez Gomez,Residential,Residential,Psje. Los Cedros 2174,"San Miguel, Lima",Lima,51963
+542,Ricardo Rojas Sanchez,Residential,Residential,Av. Universitaria 3302,"Centro, Piura",Piura,43488
+543,Mario Benavides Gutierrez,Residential,Residential,Av. San Martin 2368,"Jesus, Cajamarca",Cajamarca,35956
+544,Oscar Torres Vega,Residential,Residential,Jr. Brasil 1365,"Coishco, Chimbote",Ancash,17277
+545,Manuel Romero Chavez,Residential,Residential,Psje. Reducto 1799,"San Sebastian, Cusco",Cusco,12825
+546,Julio Paredes Ruiz,Residential,Residential,Jr. Caminos del Inca 1910,"La Molina, Lima",Lima,11542
+547,Sandra Torres Jimenez,Residential,Residential,Av. Reducto 384,"Coishco, Chimbote",Ancash,65297
+548,Jose Gomez Alvarez,Residential,Residential,Prol. Javier Prado 734,"Coishco, Chimbote",Ancash,85800
+549,Plaza Vea,Retail,Enterprise,Av. Las Orquideas 1497,"La Punta, Callao",Callao,59127
+550,Movistar Peru,Telecommunications,Enterprise,Av. Independencia 1682,"Castilla, Piura",Piura,98414
+551,Valeria Rodriguez Nunez,Residential,Residential,Jr. Independencia 1644,"Centro, Cajamarca",Cajamarca,41331
+552,Katherine Vega Ramirez,Residential,Residential,Prol. Arequipa 736,"Parcona, Ica",Ica,32918
+553,Diego Fernandez Vera,Residential,Residential,Av. Colonial 871,"San Sebastian, Cusco",Cusco,40494
+554,Ricardo Lopez Gutierrez,Residential,Residential,Psje. Colonial 2649,"Pimentel, Chiclayo",Lambayeque,16057
+555,PUCP,Education,SMB,Av. Libertad 2151,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,20925
+556,Carmen Huaman Vega,Residential,Residential,Av. San Martin 3166,"Chilca, Huancayo",Junin,24532
+557,Jorge Valenzuela Perez,Residential,Residential,Calle Los Eucaliptos 2120,"Banos del Inca, Cajamarca",Cajamarca,63019
+558,Alberto Castro Ortiz,Residential,Residential,Jr. Caminos del Inca 2625,"La Esperanza, Trujillo",La Libertad,12032
+559,Pablo Medina Paredes,Residential,Residential,Av. Ayacucho 2927,"La Victoria, Chiclayo",Lambayeque,88350
+560,Alberto Ruiz Nunez,Residential,Residential,Av. Universitaria 3365,"Santiago, Cusco",Cusco,75409
+561,Fernando Alvarez Nunez,Residential,Residential,Jr. Cusco 416,"Hunter, Arequipa",Arequipa,32635
+562,Andres Vargas Mendoza,Residential,Residential,Prol. Emancipacion 2314,"Moche, Trujillo",La Libertad,40282
+563,Municipalidad de San Isidro,Government,Government,Av. San Martin 369,"Parcona, Ica",Ica,56073
+564,Manuel Reyes Carrasco,Residential,Residential,Calle Primavera 1533,"Centro, Iquitos",Loreto,22933
+565,Luis Jimenez Vargas,Residential,Residential,Av. Los Eucaliptos 853,"Centro Historico, Cusco",Cusco,10863
+566,Fernanda Rivera Paredes,Residential,Residential,Calle San Martin 1398,"La Esperanza, Trujillo",La Libertad,69442
+567,Gabriela Torres Vera,Residential,Residential,Jr. Libertad 3309,"Huanchaco, Trujillo",La Libertad,60686
+568,Mario Lopez Romero,Residential,Residential,Av. Las Begonias 872,"La Victoria, Chiclayo",Lambayeque,99390
+569,Diego Huaman Rivera,Residential,Residential,Calle Primavera 1500,"Subtanjalla, Ica",Ica,81259
+570,Interbank,Banking,Enterprise,Av. Los Jazmines 1890,"Pilcomayo, Huancayo",Junin,76515
+571,Pilar Chavez Vargas,Residential,Residential,Prol. Universitaria 195,"Pimentel, Chiclayo",Lambayeque,12322
+572,Hugo Zarate Gutierrez,Residential,Residential,Av. Benavides 2408,"Jesus, Cajamarca",Cajamarca,77522
+573,Carla Paredes Vera,Residential,Residential,Calle Comandante Espinar 1699,"Centro, Huancayo",Junin,23425
+574,Municipalidad de Arequipa,Government,Government,Psje. Las Orquideas 549,"El Porvenir, Trujillo",La Libertad,60594
+575,Cesar Morales Cordova,Residential,Residential,Prol. La Marina 1346,"Huanchaco, Trujillo",La Libertad,85021
+576,Veronica Chavez Martinez,Residential,Residential,Prol. Grau 1239,"San Sebastian, Cusco",Cusco,43634
+577,Alfredo Huaman Rivera,Residential,Residential,Jr. Conquistadores 2993,"Nuevo Chimbote, Chimbote",Ancash,29634
+578,Banco Pichincha,Banking,Enterprise,Calle La Encalada 1605,"Banos del Inca, Cajamarca",Cajamarca,25894
+579,Daniel Garcia Soto,Residential,Residential,Prol. Libertad 3010,"Centro, Chiclayo",Lambayeque,11764
+580,Enrique Ortiz Vargas,Residential,Residential,Calle Grau 809,"San Juan Bautista, Iquitos",Loreto,16617
+581,USIL,Education,Enterprise,Prol. Larco 2072,"Nuevo Chimbote, Chimbote",Ancash,16614
+582,Roberto Ruiz Campos,Residential,Residential,Psje. Conquistadores 972,"Cercado, Arequipa",Arequipa,28585
+583,Natalia Vasquez Ramirez,Residential,Residential,Psje. La Marina 1070,"26 de Octubre, Piura",Piura,14703
+584,Carla Rivera Castro,Residential,Residential,Prol. Las Gardenias 3025,"Centro, Chiclayo",Lambayeque,89831
+585,Rosario Rivera Quispe,Residential,Residential,Jr. Comandante Espinar 319,"Centro, Trujillo",La Libertad,20982
+586,Carla Salazar Mendoza,Residential,Residential,Calle Los Pinos 305,"Centro, Iquitos",Loreto,70986
+587,Manuel Ramirez Vega,Residential,Residential,Prol. Las Gardenias 531,"Coishco, Chimbote",Ancash,20130
+588,Pedro Diaz Zarate,Residential,Residential,Psje. Bolognesi 3375,"Nuevo Chimbote, Chimbote",Ancash,19724
+589,Elizabeth Vera Perez,Residential,Residential,Psje. San Martin 1172,"Centro Historico, Cusco",Cusco,60485
+590,Alejandro Reyes Rojas,Residential,Residential,Av. Colonial 1405,"Los Aquijes, Ica",Ica,54917
+591,Rocio Medina Ruiz,Residential,Residential,Av. Tacna 1831,"Victor Larco Herrera, Trujillo",La Libertad,10307
+592,Patricia Lopez Medina,Residential,Residential,Jr. Los Alamos 302,"Centro, Ica",Ica,43009
+593,Antonio Hernandez Rodriguez,Residential,Residential,Jr. Huancavelica 392,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,90022
+594,Fernanda Hernandez Palacios,Residential,Residential,Jr. Colonial 318,"Socabaya, Arequipa",Arequipa,25176
+595,Gisela Mendoza Carrasco,Residential,Residential,Jr. Los Cedros 392,"El Tambo, Huancayo",Junin,60496
+596,Rosario Castro Gomez,Residential,Residential,Calle Wilson 2227,"Centro, Ica",Ica,50189
+597,Francisco Zarate Ramirez,Residential,Residential,Psje. Larco 1275,"Jesus, Cajamarca",Cajamarca,99532
+598,Andres Ortiz Nunez,Residential,Residential,Jr. Las Orquideas 1111,"Santa Anita, Lima",Lima,56947
+599,Alejandro Benavides Soto,Residential,Residential,Av. Independencia 1088,"Centro, Cajamarca",Cajamarca,99593
+600,Maria Miranda Gonzalez,Residential,Residential,Calle Comandante Espinar 2824,"Jesus, Cajamarca",Cajamarca,16414
+601,Clinica Angloamericana,Healthcare,Enterprise,Av. Libertad 1033,"Carabayllo, Lima",Lima,54596
+602,Lorena Zarate Herrera,Residential,Residential,Calle Universitaria 1122,"Centro, Piura",Piura,64712
+603,Roberto Arias Espinoza,Residential,Residential,Psje. Ica 587,"Centro, Ica",Ica,30056
+604,Electrocentro,Energy,Enterprise,Calle Libertad 1336,"Belen, Iquitos",Loreto,59169
+605,Sonesta,Hospitality,Enterprise,Psje. Las Palmeras 1949,"Villa Maria del Triunfo, Lima",Lima,21372
+606,Lorena Garcia Herrera,Residential,Residential,Psje. Larco 2646,"La Esperanza, Trujillo",La Libertad,94319
+607,UCSM Arequipa,Education,SMB,Jr. Ayacucho 2152,"Santa Rosa, Chiclayo",Lambayeque,17363
+608,Veronica Gomez Ruiz,Residential,Residential,Prol. Ica 2032,"Florencia de Mora, Trujillo",La Libertad,55516
+609,Gustavo Miranda Alvarez,Residential,Residential,Calle San Martin 672,"Florencia de Mora, Trujillo",La Libertad,55340
+610,Javier Morales Sanchez,Residential,Residential,Jr. Cusco 1538,"La Perla, Callao",Callao,17550
+611,Gonzalo Ruiz Sanchez,Residential,Residential,Psje. Independencia 999,"Breña, Lima",Lima,48649
+612,Rosario Miranda Diaz,Residential,Residential,Av. Ica 2047,"Ate, Lima",Lima,64414
+613,Gabriel Paredes Hernandez,Residential,Residential,Prol. Los Pinos 2014,"Punchana, Iquitos",Loreto,50230
+614,Daniela Ruiz Garcia,Residential,Residential,Av. 28 de Julio 2643,"La Esperanza, Trujillo",La Libertad,55666
+615,Veronica Diaz Perez,Residential,Residential,Av. 28 de Julio 2673,"San Sebastian, Cusco",Cusco,71224
+616,Jessica Quispe Espinoza,Residential,Residential,Calle Benavides 2122,"Bellavista, Callao",Callao,22651
+617,Patricia Rodriguez Gonzalez,Residential,Residential,Av. Grau 424,"La Victoria, Chiclayo",Lambayeque,11850
+618,Alfredo Villegas Condori,Residential,Residential,Av. Los Eucaliptos 1775,"Yanahuara, Arequipa",Arequipa,60553
+619,Alfredo Ortiz Cruz,Residential,Residential,Psje. Primavera 2986,"San Borja, Lima",Lima,62813
+620,Francisco Gomez Garcia,Residential,Residential,Av. Los Eucaliptos 1023,"Carabayllo, Lima",Lima,90086
+621,Gonzalo Zarate Quispe,Residential,Residential,Jr. Wilson 1302,"Moche, Trujillo",La Libertad,85526
+622,Fernando Condori Mendoza,Residential,Residential,Av. Ayacucho 299,"Llacanora, Cajamarca",Cajamarca,54329
+623,Ximena Aguilar Campos,Residential,Residential,Calle Tacna 1998,"Nuevo Chimbote, Chimbote",Ancash,28834
+624,Fernando Salazar Herrera,Residential,Residential,Av. Grau 2671,"Saylla, Cusco",Cusco,24482
+625,Banco Falabella,Banking,Enterprise,Psje. Los Cedros 2963,"Jesus, Cajamarca",Cajamarca,74471
+626,Cesar Vargas Perez,Residential,Residential,Calle Ica 116,"Bellavista, Callao",Callao,75593
+627,Cosapi,Construction,SMB,Av. Arequipa 3233,"La Esperanza, Trujillo",La Libertad,13779
+628,Marisol Delgado Rivera,Residential,Residential,Av. Reducto 497,"Centro, Cajamarca",Cajamarca,74381
+629,Jose Paredes Aguilar,Residential,Residential,Calle Reducto 250,"Llacanora, Cajamarca",Cajamarca,33543
+630,UNSA,Education,Enterprise,Av. Huancavelica 3471,"Nuevo Chimbote, Chimbote",Ancash,65447
+631,Natalia Herrera Vega,Residential,Residential,Jr. Las Begonias 402,"Banos del Inca, Cajamarca",Cajamarca,54117
+632,Vanessa Ramos Medina,Residential,Residential,Prol. Santa Cruz 3282,"Banos del Inca, Cajamarca",Cajamarca,26850
+633,Alberto Benavides Jimenez,Residential,Residential,Jr. El Polo 309,"Carmen de la Legua, Callao",Callao,83602
+634,Primax,Energy,Enterprise,Psje. Los Pinos 2473,"Centro, Ica",Ica,59155
+635,Hugo Carrasco Soto,Residential,Residential,Jr. Primavera 1306,"San Juan de Lurigancho, Lima",Lima,79586
+636,Mariana Morales Sanchez,Residential,Residential,Prol. Los Jazmines 2981,"Nuevo Chimbote, Chimbote",Ancash,32224
+637,Rosa Fernandez Delgado,Residential,Residential,Av. Grau 3155,"Centro, Ica",Ica,95430
+638,Patricia Aguilar Rojas,Residential,Residential,Av. Arequipa 873,"Victor Larco Herrera, Trujillo",La Libertad,89041
+639,MiBanco,Banking,Enterprise,Psje. Libertad 1979,"El Tambo, Huancayo",Junin,57608
+640,La Curacao,Retail,SMB,Calle Libertad 1259,"Ventanilla, Callao",Callao,61229
+641,Westin Lima,Hospitality,Enterprise,Av. San Martin 3290,"San Juan Bautista, Iquitos",Loreto,76817
+642,Enrique Sanchez Condori,Residential,Residential,Prol. Huancavelica 2383,"Nuevo Chimbote, Chimbote",Ancash,48140
+643,Cecilia Arias Reyes,Residential,Residential,Prol. San Martin 2077,"Los Aquijes, Ica",Ica,62425
+644,Oscar Sanchez Vargas,Residential,Residential,Jr. Libertad 2749,"La Tinguina, Ica",Ica,41123
+645,Javier Villegas Flores,Residential,Residential,Jr. Caminos del Inca 1103,"Pimentel, Chiclayo",Lambayeque,59245
+646,Cesar Silva Soto,Residential,Residential,Calle Las Orquideas 2553,"La Perla, Callao",Callao,61351
+647,Fernando Morales Reyes,Residential,Residential,Av. Bolognesi 283,"Jesus Maria, Lima",Lima,90927
+648,Diego Espinoza Diaz,Residential,Residential,Av. Las Palmeras 903,"La Molina, Lima",Lima,78102
+649,Jorge Caceres Garcia,Residential,Residential,Jr. Los Jazmines 1539,"Centro, Cajamarca",Cajamarca,65190
+650,Cesar Alvarez Villegas,Residential,Residential,Psje. Independencia 1381,"La Perla, Callao",Callao,12164
+651,Katherine Ponce Gonzalez,Residential,Residential,Av. Arequipa 2457,"Centro, Cajamarca",Cajamarca,69591
+652,Jose Salazar Torres,Residential,Residential,Calle Los Jazmines 2593,"Catacaos, Piura",Piura,62755
+653,Luz Rodriguez Delgado,Residential,Residential,Jr. El Polo 3370,"Centro, Callao",Callao,83969
+654,Rocio Zarate Ruiz,Residential,Residential,Calle 28 de Julio 2130,"Jesus, Cajamarca",Cajamarca,96712
+655,Repsol Peru,Energy,Enterprise,Av. Ica 1156,"Socabaya, Arequipa",Arequipa,47940
+656,Jose Castro Perez,Residential,Residential,Psje. Las Gardenias 810,"Centro, Trujillo",La Libertad,58228
+657,Lorena Martinez Castillo,Residential,Residential,Av. Colonial 1878,"San Sebastian, Cusco",Cusco,35684
+658,Claudia Silva Valenzuela,Residential,Residential,Jr. Los Eucaliptos 491,"Centro, Ica",Ica,19240
+659,Bitel,Telecommunications,Enterprise,Jr. Grau 3150,"San Jeronimo, Cusco",Cusco,46680
+660,Arturo Soto Salazar,Residential,Residential,Psje. Ayacucho 1237,"La Victoria, Chiclayo",Lambayeque,99404
+661,Lorena Paredes Mamani,Residential,Residential,Av. Huancavelica 2171,"Bellavista, Callao",Callao,30426
+662,Javier Garcia Fernandez,Residential,Residential,Av. Puno 3028,"La Tinguina, Ica",Ica,43708
+663,Andrea Mamani Carrasco,Residential,Residential,Psje. Larco 1228,"Santiago, Cusco",Cusco,77001
+664,Gonzalo Gonzalez Valenzuela,Residential,Residential,Calle Arequipa 1311,"La Perla, Callao",Callao,96998
+665,Diego Chavez Reyes,Residential,Residential,Prol. Caminos del Inca 1846,"Huanchaco, Trujillo",La Libertad,51502
+666,Jose Delgado Rivera,Residential,Residential,Calle Tacna 2363,"Castilla, Piura",Piura,83816
+667,Silvia Mendoza Cruz,Residential,Residential,Jr. Bolognesi 2633,"Centro, Chiclayo",Lambayeque,33649
+668,Minsur,Mining,Enterprise,Psje. Huancavelica 158,"Llacanora, Cajamarca",Cajamarca,72640
+669,Carla Zarate Rojas,Residential,Residential,Jr. Bolognesi 1905,"Jesus Maria, Lima",Lima,98563
+670,Gisela Silva Alvarez,Residential,Residential,Prol. Los Cedros 2905,"Moche, Trujillo",La Libertad,59489
+671,Interseguro,Insurance,SMB,Calle Abancay 2756,"La Esperanza, Trujillo",La Libertad,92136
+672,Country Club Lima Hotel,Hospitality,Enterprise,Calle Larco 2683,"Santa, Chimbote",Ancash,55437
+673,Silvia Sanchez Torres,Residential,Residential,Av. Ica 559,"Belen, Iquitos",Loreto,47537
+674,Natalia Vasquez Hernandez,Residential,Residential,Psje. 28 de Julio 3488,"El Tambo, Huancayo",Junin,75753
+675,Jimena Alvarez Nunez,Residential,Residential,Psje. Las Begonias 1047,"Huanchaco, Trujillo",La Libertad,66444
+676,Diego Vargas Caceres,Residential,Residential,Jr. Emancipacion 2688,"Tambogrande, Piura",Piura,81195
+677,Lorena Campos Quispe,Residential,Residential,Jr. Las Begonias 1196,"Paucarpata, Arequipa",Arequipa,28191
+678,Gustavo Lopez Perez,Residential,Residential,Psje. Tacna 2812,"Mariano Melgar, Arequipa",Arequipa,96221
+679,Sodimac,Retail,Enterprise,Av. Emancipacion 2637,"Saylla, Cusco",Cusco,41579
+680,Daniela Rivera Carrasco,Residential,Residential,Jr. Brasil 378,"La Punta, Callao",Callao,79251
+681,Universidad del Pacifico,Education,Enterprise,Psje. Arequipa 3399,"Ventanilla, Callao",Callao,96086
+682,Francisco Paredes Diaz,Residential,Residential,Calle Arequipa 1930,"La Punta, Callao",Callao,95015
+683,Pilar Mendoza Rivera,Residential,Residential,Prol. Los Alamos 1615,"Hunter, Arequipa",Arequipa,29645
+684,Paris,Retail,SMB,Av. Emancipacion 1019,"Centro, Trujillo",La Libertad,35722
+685,Gustavo Soto Campos,Residential,Residential,Prol. Las Gardenias 486,"Centro Historico, Cusco",Cusco,81557
+686,Daniel Vargas Cordova,Residential,Residential,Av. Conquistadores 3058,"Centro, Cajamarca",Cajamarca,95904
+687,Marco Ramirez Benavides,Residential,Residential,Av. Puno 283,"Ate, Lima",Lima,40944
+688,Ivan Espinoza Rivera,Residential,Residential,Av. Cusco 628,"Victor Larco Herrera, Trujillo",La Libertad,36559
+689,Mariela Ramos Martinez,Residential,Residential,Calle Cusco 2175,"Chilca, Huancayo",Junin,78226
+690,Patricia Castillo Arias,Residential,Residential,Calle Colonial 1156,"Punchana, Iquitos",Loreto,62057
+691,Ricardo Cruz Rivera,Residential,Residential,Jr. Independencia 1299,"Santa, Chimbote",Ancash,22849
+692,Volcan,Mining,Enterprise,Av. Ayacucho 1405,"La Punta, Callao",Callao,65040
+693,Pedro Torres Castro,Residential,Residential,Av. Las Orquideas 2906,"Moche, Trujillo",La Libertad,32739
+694,Enrique Vasquez Ramirez,Residential,Residential,Av. Comandante Espinar 2875,"Centro, Ica",Ica,42927
+695,Fernando Campos Diaz,Residential,Residential,Av. Las Gardenias 2009,"Belen, Iquitos",Loreto,27506
+696,Ibis Lima,Hospitality,SMB,Av. Los Alamos 1041,"Tambogrande, Piura",Piura,20986
+697,Milagros Aguilar Ponce,Residential,Residential,Av. Bolognesi 2824,"Saylla, Cusco",Cusco,97269
+698,Vanessa Sanchez Campos,Residential,Residential,Calle El Polo 424,"San Sebastian, Cusco",Cusco,44130
+699,Eduardo Rodriguez Silva,Residential,Residential,Prol. El Polo 1783,"Saylla, Cusco",Cusco,56291
+700,Juan Sanchez Vasquez,Residential,Residential,Av. Universitaria 820,"Santiago, Cusco",Cusco,69857
+701,Gonzalo Alvarez Herrera,Residential,Residential,Calle Brasil 775,"Huancan, Huancayo",Junin,40209
+702,Pablo Fernandez Cruz,Residential,Residential,Prol. 28 de Julio 1750,"Belen, Iquitos",Loreto,92510
+703,Carlos Mamani Alvarez,Residential,Residential,Jr. Cusco 999,"La Victoria, Chiclayo",Lambayeque,11872
+704,Gonzalo Morales Herrera,Residential,Residential,Calle Las Gardenias 285,"Victor Larco Herrera, Trujillo",La Libertad,87041
+705,David Morales Castro,Residential,Residential,Psje. Brasil 2189,"Banos del Inca, Cajamarca",Cajamarca,53444
+706,Claudia Soto Ponce,Residential,Residential,Prol. Grau 2657,"Jesus, Cajamarca",Cajamarca,72544
+707,Hugo Arias Jimenez,Residential,Residential,Prol. Emancipacion 535,"La Victoria, Chiclayo",Lambayeque,46695
+708,Manuel Gonzalez Herrera,Residential,Residential,Jr. Los Alamos 2600,"La Victoria, Chiclayo",Lambayeque,74644
+709,Hector Cordova Palacios,Residential,Residential,Calle Los Alamos 139,"La Punta, Callao",Callao,12128
+710,Vanessa Rojas Ponce,Residential,Residential,Jr. 28 de Julio 3412,"Catacaos, Piura",Piura,70364
+711,Swissotel Lima,Hospitality,SMB,Av. Primavera 1608,"Centro, Iquitos",Loreto,42243
+712,EsSalud,Healthcare,SMB,Av. Ica 2607,"Centro, Ica",Ica,33148
+713,Ivan Jimenez Zarate,Residential,Residential,Av. Reducto 1806,"Centro, Chimbote",Ancash,80861
+714,Francisco Vega Paredes,Residential,Residential,Psje. Las Orquideas 319,"Santa Rosa, Chiclayo",Lambayeque,64225
+715,Andres Garcia Ponce,Residential,Residential,Psje. Larco 3411,"San Miguel, Lima",Lima,52272
+716,Rosa Morales Carrasco,Residential,Residential,Psje. Reducto 1252,"Centro, Ica",Ica,21652
+717,UNMSM,Education,SMB,Prol. Ica 1155,"Centro, Cajamarca",Cajamarca,61930
+718,Mariela Gonzalez Gomez,Residential,Residential,Av. Los Jazmines 2991,"Bellavista, Callao",Callao,46149
+719,Ricardo Cordova Vargas,Residential,Residential,Psje. La Marina 3274,"Punchana, Iquitos",Loreto,43952
+720,Vanessa Huaman Torres,Residential,Residential,Prol. Cusco 692,"La Tinguina, Ica",Ica,72232
+721,Marisol Gonzalez Benavides,Residential,Residential,Calle Los Eucaliptos 927,"Santa Rosa, Chiclayo",Lambayeque,50422
+722,Inkaterra,Hospitality,Enterprise,Psje. Las Orquideas 121,"Llacanora, Cajamarca",Cajamarca,57171
+723,Mariana Ruiz Herrera,Residential,Residential,Psje. La Encalada 1514,"Centro, Trujillo",La Libertad,11614
+724,Marco Rivera Mamani,Residential,Residential,Calle La Marina 1674,"Llacanora, Cajamarca",Cajamarca,92458
+725,Oncosalud,Healthcare,Enterprise,Jr. Libertad 3418,"San Sebastian, Cusco",Cusco,85387
+726,Flor Nunez Palacios,Residential,Residential,Calle Caminos del Inca 2906,"Florencia de Mora, Trujillo",La Libertad,12504
+727,Cecilia Alvarez Gonzalez,Residential,Residential,Prol. Reducto 875,"Centro, Trujillo",La Libertad,31071
+728,Oscar Ponce Ruiz,Residential,Residential,Calle Abancay 1031,"Parcona, Ica",Ica,51645
+729,Carmen Espinoza Ramirez,Residential,Residential,Prol. Abancay 1666,"Victor Larco Herrera, Trujillo",La Libertad,92977
+730,Hiraoka,Retail,SMB,Calle Los Alamos 1068,"Santiago, Cusco",Cusco,90349
+731,Andres Campos Flores,Residential,Residential,Psje. La Encalada 3149,"Pimentel, Chiclayo",Lambayeque,30836
+732,Claro Peru,Telecommunications,Enterprise,Calle Cusco 2977,"Florencia de Mora, Trujillo",La Libertad,36107
+733,David Villegas Rivera,Residential,Residential,Av. Comandante Espinar 685,"Banos del Inca, Cajamarca",Cajamarca,20837
+734,RENIEC,Government,Government,Calle Comandante Espinar 1009,"Belen, Iquitos",Loreto,42517
+735,Miguel Condori Vera,Residential,Residential,Av. Las Orquideas 1205,"Punchana, Iquitos",Loreto,64888
+736,David Diaz Espinoza,Residential,Residential,Av. La Encalada 2527,"Pilcomayo, Huancayo",Junin,91791
+737,Ana Reyes Paredes,Residential,Residential,Av. 28 de Julio 360,"Santa, Chimbote",Ancash,60962
+738,Ximena Castillo Villegas,Residential,Residential,Jr. Las Orquideas 3366,"La Esperanza, Trujillo",La Libertad,39834
+739,Silvia Carrasco Sanchez,Residential,Residential,Av. Los Eucaliptos 1457,"Banos del Inca, Cajamarca",Cajamarca,28606
+740,Jessica Hernandez Palacios,Residential,Residential,Av. Comandante Espinar 2218,"Subtanjalla, Ica",Ica,83032
+741,Hugo Ramos Cruz,Residential,Residential,Psje. Los Jazmines 1888,"Centro, Cajamarca",Cajamarca,68889
+742,HV Contratistas,Construction,Enterprise,Calle Wilson 2656,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,85202
+743,Milagros Rojas Vasquez,Residential,Residential,Prol. Las Begonias 2778,"La Tinguina, Ica",Ica,58164
+744,Ivan Reyes Campos,Residential,Residential,Av. Reducto 333,"Subtanjalla, Ica",Ica,92274
+745,Julio Vargas Morales,Residential,Residential,Av. Santa Cruz 881,"Tambogrande, Piura",Piura,34487
+746,Saga Falabella,Retail,SMB,Calle Javier Prado 144,"Santa Anita, Lima",Lima,75184
+747,Victor Miranda Vargas,Residential,Residential,Jr. Los Alamos 2580,"Coishco, Chimbote",Ancash,22091
+748,Mariela Sanchez Rivera,Residential,Residential,Jr. Reducto 3438,"Chorrillos, Lima",Lima,37163
+749,Enrique Vega Ruiz,Residential,Residential,Jr. La Marina 1579,"San Miguel, Lima",Lima,86260
+750,Andrea Paredes Lopez,Residential,Residential,Av. Abancay 3333,"San Sebastian, Cusco",Cusco,99268
+751,Daniel Vargas Ramos,Residential,Residential,Prol. Ayacucho 3068,"San Isidro, Lima",Lima,83486
+752,Ana Soto Soto,Residential,Residential,Jr. 28 de Julio 1445,"Florencia de Mora, Trujillo",La Libertad,18763
+753,Alberto Rivera Ponce,Residential,Residential,Prol. Las Orquideas 1776,"Centro, Chimbote",Ancash,11384
+754,Rosa Aguilar Vasquez,Residential,Residential,Jr. Bolognesi 1381,"Jesus, Cajamarca",Cajamarca,81683
+755,Rocio Gonzalez Ramirez,Residential,Residential,Psje. Brasil 549,"Santa, Chimbote",Ancash,75094
+756,Katherine Paredes Chavez,Residential,Residential,Psje. La Marina 1379,"Santa Rosa, Chiclayo",Lambayeque,13209
+757,Gabriela Ramirez Vargas,Residential,Residential,Calle Santa Cruz 1907,"La Perla, Callao",Callao,89529
+758,Fernando Mamani Medina,Residential,Residential,Prol. Primavera 2884,"Pilcomayo, Huancayo",Junin,52039
+759,Natalia Ramirez Reyes,Residential,Residential,Av. Puno 920,"Breña, Lima",Lima,66344
+760,Andrea Chavez Gomez,Residential,Residential,Calle Los Pinos 530,"San Juan Bautista, Iquitos",Loreto,42489
+761,Luz Castro Arias,Residential,Residential,Prol. 28 de Julio 119,"Centro, Trujillo",La Libertad,37349
+762,Antonio Jimenez Ramos,Residential,Residential,Psje. Independencia 1175,"Victor Larco Herrera, Trujillo",La Libertad,71592
+763,Eduardo Ortiz Torres,Residential,Residential,Jr. Los Eucaliptos 1517,"Nuevo Chimbote, Chimbote",Ancash,81194
+764,Gustavo Garcia Vasquez,Residential,Residential,Av. El Polo 1415,"Santa, Chimbote",Ancash,77263
+765,Ximena Rivera Cruz,Residential,Residential,Calle San Martin 1901,"Yanahuara, Arequipa",Arequipa,69035
+766,David Lopez Herrera,Residential,Residential,Psje. 28 de Julio 1235,"Belen, Iquitos",Loreto,84788
+767,Luz Hernandez Campos,Residential,Residential,Calle San Martin 2020,"Los Olivos, Lima",Lima,18679
+768,Gisela Soto Vasquez,Residential,Residential,Av. Abancay 1256,"Victor Larco Herrera, Trujillo",La Libertad,85165
+769,Odebrecht Peru,Construction,SMB,Prol. Los Pinos 283,"Florencia de Mora, Trujillo",La Libertad,95003
+770,Katherine Aguilar Lopez,Residential,Residential,Av. Reducto 2570,"Centro, Chimbote",Ancash,91756
+771,Roberto Carrasco Espinoza,Residential,Residential,Av. Javier Prado 1814,"Moche, Trujillo",La Libertad,25387
+772,Katherine Espinoza Gutierrez,Residential,Residential,Psje. Colonial 3462,"Belen, Iquitos",Loreto,52578
+773,Osinergmin,Energy,Enterprise,Prol. Universitaria 1423,"Banos del Inca, Cajamarca",Cajamarca,87340
+774,Los Portales,Real Estate,Enterprise,Prol. Colonial 763,"Los Aquijes, Ica",Ica,25699
+775,Marisol Fernandez Herrera,Residential,Residential,Calle La Marina 170,"Surco, Lima",Lima,94475
+776,Diego Cordova Nunez,Residential,Residential,Psje. Brasil 2632,"Santiago, Cusco",Cusco,13015
+777,Ricardo Diaz Romero,Residential,Residential,Jr. Primavera 3488,"Moche, Trujillo",La Libertad,50802
+778,Cosapi Inmobiliaria,Real Estate,Enterprise,Psje. Cusco 2862,"Banos del Inca, Cajamarca",Cajamarca,34923
+779,Paola Chavez Salazar,Residential,Residential,Prol. Conquistadores 2330,"Los Olivos, Lima",Lima,32427
+780,Manuel Quispe Castillo,Residential,Residential,Calle Universitaria 2745,"Parcona, Ica",Ica,18453
+781,Pedro Mendoza Salazar,Residential,Residential,Av. Ica 2268,"Subtanjalla, Ica",Ica,11886
+782,Carlos Diaz Campos,Residential,Residential,Jr. El Polo 2831,"Tambogrande, Piura",Piura,18020
+783,UPN,Education,Enterprise,Calle Los Cedros 311,"Centro, Piura",Piura,80110
+784,Pedro Carrasco Vega,Residential,Residential,Av. Los Jazmines 3207,"Belen, Iquitos",Loreto,31044
+785,Luz Villegas Chavez,Residential,Residential,Av. Los Alamos 2179,"Centro, Chimbote",Ancash,26886
+786,Rosario Mamani Herrera,Residential,Residential,Prol. Los Alamos 1906,"Wanchaq, Cusco",Cusco,76522
+787,Alberto Castillo Miranda,Residential,Residential,Av. La Encalada 1729,"Parcona, Ica",Ica,95362
+788,Hugo Aguilar Carrasco,Residential,Residential,Jr. La Marina 3306,"Florencia de Mora, Trujillo",La Libertad,23633
+789,Manuel Chavez Villegas,Residential,Residential,Psje. Javier Prado 2736,"Parcona, Ica",Ica,29562
+790,Javier Gomez Herrera,Residential,Residential,Psje. Las Palmeras 2644,"La Victoria, Chiclayo",Lambayeque,10984
+791,Valeria Aguilar Ruiz,Residential,Residential,Jr. Wilson 1541,"El Porvenir, Trujillo",La Libertad,72083
+792,Jorge Silva Zarate,Residential,Residential,Prol. Colonial 863,"Wanchaq, Cusco",Cusco,29112
+793,Luis Arias Miranda,Residential,Residential,Calle Arequipa 469,"San Juan Bautista, Iquitos",Loreto,25363
+794,Victor Alvarez Campos,Residential,Residential,Jr. Abancay 555,"Santiago, Cusco",Cusco,35908
+795,Jimena Romero Morales,Residential,Residential,Calle Los Eucaliptos 3271,"Centro, Huancayo",Junin,57615
+796,Roberto Jimenez Villegas,Residential,Residential,Psje. Universitaria 375,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,94354
+797,Alfredo Quispe Rivera,Residential,Residential,Jr. Las Begonias 2414,"El Porvenir, Trujillo",La Libertad,55072
+798,Valeria Sanchez Gutierrez,Residential,Residential,Av. Libertad 713,"Nuevo Chimbote, Chimbote",Ancash,63454
+799,Antonio Zarate Perez,Residential,Residential,Psje. Wilson 2789,"La Tinguina, Ica",Ica,29182
+800,Enrique Villegas Arias,Residential,Residential,Psje. Cusco 3118,"Victor Larco Herrera, Trujillo",La Libertad,25827
+801,Juan Soto Vargas,Residential,Residential,Av. Ayacucho 308,"Centro, Piura",Piura,11208
+802,Enrique Perez Valenzuela,Residential,Residential,Jr. Reducto 1956,"Lince, Lima",Lima,49791
+803,Rosa Nunez Gutierrez,Residential,Residential,Prol. Primavera 290,"Catacaos, Piura",Piura,72284
+804,Karina Ortiz Gonzalez,Residential,Residential,Jr. Los Cedros 1171,"Centro, Ica",Ica,23849
+805,Hugo Rivera Romero,Residential,Residential,Calle Grau 2301,"Centro, Chiclayo",Lambayeque,27514
+806,Antonio Medina Valenzuela,Residential,Residential,Calle Arequipa 1503,"Centro, Iquitos",Loreto,44410
+807,Curacao,Retail,Enterprise,Jr. La Encalada 3141,"Paucarpata, Arequipa",Arequipa,69455
+808,Javier Mendoza Jimenez,Residential,Residential,Psje. Los Pinos 1734,"Centro, Trujillo",La Libertad,79425
+809,Maestro,Retail,SMB,Psje. Los Jazmines 874,"Centro, Chimbote",Ancash,58465
+810,Daniela Mendoza Medina,Residential,Residential,Prol. Brasil 1234,"Nuevo Chimbote, Chimbote",Ancash,85403
+811,Javier Alvarez Huaman,Residential,Residential,Prol. Las Palmeras 3092,"Victor Larco Herrera, Trujillo",La Libertad,17874
+812,Katherine Castro Garcia,Residential,Residential,Jr. Bolognesi 2895,"San Juan Bautista, Iquitos",Loreto,64741
+813,Sandra Huaman Ramirez,Residential,Residential,Psje. Caminos del Inca 1590,"Chilca, Huancayo",Junin,12784
+814,Ana Zarate Delgado,Residential,Residential,Psje. Independencia 1722,"Saylla, Cusco",Cusco,59734
+815,Clinica Internacional,Healthcare,Enterprise,Psje. Grau 2852,"Pilcomayo, Huancayo",Junin,90526
+816,Patricia Zarate Ortiz,Residential,Residential,Jr. Emancipacion 124,"Coishco, Chimbote",Ancash,41483
+817,Win Peru,Telecommunications,Enterprise,Calle Huancavelica 2860,"San Sebastian, Cusco",Cusco,88400
+818,Toulouse Lautrec,Education,Enterprise,Psje. Javier Prado 840,"Pilcomayo, Huancayo",Junin,15682
+819,Mario Castro Garcia,Residential,Residential,Prol. Ica 2311,"San Isidro, Lima",Lima,38164
+820,Alfredo Reyes Miranda,Residential,Residential,Prol. Conquistadores 3039,"Centro, Iquitos",Loreto,51899
+821,Arturo Lopez Flores,Residential,Residential,Av. Comandante Espinar 1925,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,68847
+822,Star Globalcom,Telecommunications,Enterprise,Calle Grau 1179,"Huancan, Huancayo",Junin,20240
+823,Cesar Ponce Garcia,Residential,Residential,Jr. Santa Cruz 2119,"Comas, Lima",Lima,97060
+824,Monica Castro Espinoza,Residential,Residential,Prol. Las Gardenias 2554,"Centro, Huancayo",Junin,75349
+825,Manuel Palacios Garcia,Residential,Residential,Jr. Las Begonias 3009,"Wanchaq, Cusco",Cusco,98440
+826,Cecilia Espinoza Quispe,Residential,Residential,Jr. Libertad 420,"Florencia de Mora, Trujillo",La Libertad,99241
+827,Gonzalo Valenzuela Rivera,Residential,Residential,Psje. Las Begonias 918,"Centro, Huancayo",Junin,22419
+828,Daniela Benavides Gonzalez,Residential,Residential,Jr. La Encalada 1464,"26 de Octubre, Piura",Piura,34306
+829,Karina Cruz Carrasco,Residential,Residential,Av. Los Cedros 2074,"Centro, Callao",Callao,73532
+830,Sandra Ramirez Mendoza,Residential,Residential,Av. Huancavelica 957,"El Tambo, Huancayo",Junin,13357
+831,Cecilia Castro Garcia,Residential,Residential,Prol. Los Eucaliptos 2146,"Los Aquijes, Ica",Ica,32188
+832,Pedro Nunez Martinez,Residential,Residential,Av. Independencia 1330,"Centro, Chiclayo",Lambayeque,52540
+833,Alejandro Fernandez Fernandez,Residential,Residential,Av. Benavides 1745,"Saylla, Cusco",Cusco,12597
+834,Protecta,Insurance,Enterprise,Av. Santa Cruz 1543,"Catacaos, Piura",Piura,27286
+835,Natalia Silva Carrasco,Residential,Residential,Av. Los Eucaliptos 651,"Paucarpata, Arequipa",Arequipa,56051
+836,Fernando Morales Villegas,Residential,Residential,Prol. Universitaria 2318,"Centro, Callao",Callao,61315
+837,Carolina Ramos Caceres,Residential,Residential,Psje. Los Jazmines 3074,"Los Aquijes, Ica",Ica,93028
+838,Flor Ponce Jimenez,Residential,Residential,Prol. Las Begonias 1617,"26 de Octubre, Piura",Piura,93701
+839,Arturo Chavez Alvarez,Residential,Residential,Psje. Reducto 196,"Los Aquijes, Ica",Ica,88567
+840,Carolina Garcia Gutierrez,Residential,Residential,Calle Santa Cruz 2130,"Villa El Salvador, Lima",Lima,84130
+841,Eduardo Morales Jimenez,Residential,Residential,Jr. Reducto 983,"Subtanjalla, Ica",Ica,98400
+842,Andrea Castillo Alvarez,Residential,Residential,Calle Caminos del Inca 2055,"El Porvenir, Trujillo",La Libertad,99560
+843,Pilar Ruiz Caceres,Residential,Residential,Av. Colonial 696,"Nuevo Chimbote, Chimbote",Ancash,70754
+844,Rosario Gonzalez Ruiz,Residential,Residential,Av. 28 de Julio 1728,"Centro, Piura",Piura,71882
+845,Juan Carrasco Rojas,Residential,Residential,Calle Ica 1371,"26 de Octubre, Piura",Piura,55348
+846,Jessica Gutierrez Quispe,Residential,Residential,Av. Los Eucaliptos 3084,"Centro, Callao",Callao,40701
+847,Rosario Chavez Huaman,Residential,Residential,Av. Wilson 1994,"La Esperanza, Trujillo",La Libertad,51974
+848,Milagros Zarate Vera,Residential,Residential,Av. Abancay 2934,"Llacanora, Cajamarca",Cajamarca,39595
+849,Enrique Gutierrez Gonzalez,Residential,Residential,Prol. Las Palmeras 551,"Centro, Huancayo",Junin,44198
+850,Raul Condori Ortiz,Residential,Residential,Calle Los Alamos 634,"Jose Leonardo Ortiz, Chiclayo",Lambayeque,77513
+851,Alfredo Gutierrez Rojas,Residential,Residential,Jr. Los Eucaliptos 215,"Jesus Maria, Lima",Lima,19031
+852,Elizabeth Valenzuela Vargas,Residential,Residential,Prol. Las Gardenias 1976,"Santa Rosa, Chiclayo",Lambayeque,25512
+853,Sergio Cruz Caceres,Residential,Residential,Psje. Colonial 3467,"Belen, Iquitos",Loreto,45576
+854,Cesar Paredes Benavides,Residential,Residential,Psje. Los Eucaliptos 2433,"Centro, Iquitos",Loreto,10513
+855,Andres Alvarez Soto,Residential,Residential,Jr. Cusco 2609,"Villa Maria del Triunfo, Lima",Lima,71862
+856,Congreso de la Republica,Government,Government,Av. Las Gardenias 2580,"Centro, Huancayo",Junin,62093
+857,Mario Garcia Delgado,Residential,Residential,Av. Colonial 1952,"Centro, Chiclayo",Lambayeque,33520
+858,Pilar Rodriguez Garcia,Residential,Residential,Prol. 28 de Julio 3285,"Nuevo Chimbote, Chimbote",Ancash,54972
+859,Paola Rivera Ponce,Residential,Residential,Jr. La Marina 2281,"Centro, Iquitos",Loreto,62620
+860,Flor Silva Espinoza,Residential,Residential,Prol. La Encalada 1835,"Pimentel, Chiclayo",Lambayeque,32741
+861,Marisol Salazar Ponce,Residential,Residential,Jr. Las Orquideas 1993,"Banos del Inca, Cajamarca",Cajamarca,27379
+862,Hector Delgado Ortiz,Residential,Residential,Jr. Los Pinos 2785,"Socabaya, Arequipa",Arequipa,63514
+863,Jose Palacios Silva,Residential,Residential,Psje. Grau 547,"El Porvenir, Trujillo",La Libertad,59485
+864,Carlos Hernandez Ruiz,Residential,Residential,Prol. Puno 2313,"La Punta, Callao",Callao,93476
+865,Ivan Caceres Arias,Residential,Residential,Psje. Brasil 2368,"San Juan Bautista, Iquitos",Loreto,89702
+866,Fernanda Huaman Quispe,Residential,Residential,Calle Bolognesi 2606,"Santa, Chimbote",Ancash,14799
+867,Alfredo Ortiz Espinoza,Residential,Residential,Jr. Benavides 2891,"Mariano Melgar, Arequipa",Arequipa,51938
+868,Monica Reyes Reyes,Residential,Residential,Av. Ayacucho 1847,"Punchana, Iquitos",Loreto,52429
+869,Eduardo Gonzalez Vasquez,Residential,Residential,Calle Las Palmeras 830,"26 de Octubre, Piura",Piura,71736
+870,Don Vittorio,Food & Beverage,Enterprise,Calle Santa Cruz 2643,"26 de Octubre, Piura",Piura,17867
+871,Molitalia,Food & Beverage,SMB,Av. La Encalada 1714,"Cercado, Arequipa",Arequipa,79411
+872,Francisco Palacios Villegas,Residential,Residential,Av. Universitaria 163,"La Tinguina, Ica",Ica,41617
+873,Rodrigo Alvarez Nunez,Residential,Residential,Psje. Primavera 2716,"Pimentel, Chiclayo",Lambayeque,28129
+874,Sergio Valenzuela Garcia,Residential,Residential,Psje. Libertad 407,"Los Olivos, Lima",Lima,61565
+875,Natalia Diaz Hernandez,Residential,Residential,Prol. Santa Cruz 1061,"Paucarpata, Arequipa",Arequipa,86445
+876,Gustavo Soto Ramos,Residential,Residential,Psje. Puno 3485,"Florencia de Mora, Trujillo",La Libertad,97254
+877,Katherine Mendoza Paredes,Residential,Residential,Prol. Las Palmeras 1765,"26 de Octubre, Piura",Piura,26839
+878,Lucia Flores Ramirez,Residential,Residential,Jr. Ayacucho 1561,"Hunter, Arequipa",Arequipa,86141
+879,Rosario Quispe Martinez,Residential,Residential,Calle Abancay 2393,"26 de Octubre, Piura",Piura,63664
+880,Francisco Benavides Castillo,Residential,Residential,Av. Conquistadores 1906,"Bellavista, Callao",Callao,19202
+881,Pilar Valenzuela Rivera,Residential,Residential,Jr. Puno 1032,"Carabayllo, Lima",Lima,60252
+882,Inmobiliaria Edifica,Real Estate,Enterprise,Prol. Ayacucho 1326,"Centro, Piura",Piura,69259
+883,Daniel Quispe Ramirez,Residential,Residential,Av. Grau 2046,"Tambogrande, Piura",Piura,15893
+884,Gabriela Ramirez Vasquez,Residential,Residential,Prol. Benavides 2817,"La Victoria, Chiclayo",Lambayeque,18020
+885,Milagros Soto Benavides,Residential,Residential,Psje. 28 de Julio 1494,"Punchana, Iquitos",Loreto,22905
+886,Tottus,Retail,Enterprise,Calle Tacna 2043,"26 de Octubre, Piura",Piura,90524
+887,Cibertec,Education,SMB,Jr. Grau 2344,"Banos del Inca, Cajamarca",Cajamarca,50384
+888,Alicorp,Food & Beverage,SMB,Jr. La Marina 2849,"La Victoria, Chiclayo",Lambayeque,46771
+889,Francisco Gutierrez Gonzalez,Residential,Residential,Av. Benavides 1804,"Pimentel, Chiclayo",Lambayeque,48593
+890,Marriott Lima,Hospitality,SMB,Prol. La Marina 1560,"Los Aquijes, Ica",Ica,48380
+891,Lorena Torres Torres,Residential,Residential,Calle Santa Cruz 3401,"Centro, Huancayo",Junin,51928
+892,Carmen Ortiz Lopez,Residential,Residential,Calle La Marina 2547,"La Victoria, Chiclayo",Lambayeque,96869
+893,Alejandro Rojas Gonzalez,Residential,Residential,Calle Tacna 1660,"San Juan Bautista, Iquitos",Loreto,17461
+894,Urbanova,Real Estate,SMB,Av. Independencia 1485,"La Punta, Callao",Callao,34781
+895,Patricia Ponce Zarate,Residential,Residential,Av. Independencia 2535,"Santa, Chimbote",Ancash,46597
+896,Claudia Garcia Diaz,Residential,Residential,Prol. Caminos del Inca 791,"Hunter, Arequipa",Arequipa,34942
+897,Yanacocha,Mining,Enterprise,Jr. Los Eucaliptos 1945,"San Jeronimo, Cusco",Cusco,30302
+898,Fernando Ramirez Valenzuela,Residential,Residential,Calle Larco 2598,"Socabaya, Arequipa",Arequipa,58774
+899,Monica Ponce Castro,Residential,Residential,Psje. Ica 2016,"Yanahuara, Arequipa",Arequipa,29561
+900,Rocio Valenzuela Ortiz,Residential,Residential,Psje. Ayacucho 1905,"Jesus, Cajamarca",Cajamarca,50873
+901,Daniel Gutierrez Miranda,Residential,Residential,Psje. Conquistadores 1623,"Barranco, Lima",Lima,79396
+902,Rosario Rodriguez Lopez,Residential,Residential,Psje. Emancipacion 1079,"Magdalena, Lima",Lima,62822
+903,Milagros Perez Silva,Residential,Residential,Jr. Conquistadores 1643,"Banos del Inca, Cajamarca",Cajamarca,66177
+904,Elizabeth Romero Castillo,Residential,Residential,Av. Los Eucaliptos 1076,"Centro, Huancayo",Junin,56128
+905,Carla Ponce Martinez,Residential,Residential,Psje. Las Palmeras 957,"Castilla, Piura",Piura,12095
+906,Raul Espinoza Zarate,Residential,Residential,Calle Los Alamos 1295,"Florencia de Mora, Trujillo",La Libertad,82665
+907,Rodrigo Valenzuela Fernandez,Residential,Residential,Calle Los Alamos 1922,"Centro, Huancayo",Junin,28609
+908,Manuel Quispe Quispe,Residential,Residential,Psje. Los Eucaliptos 211,"Parcona, Ica",Ica,58010
+909,Cecilia Cruz Ortiz,Residential,Residential,Prol. Brasil 2996,"Punchana, Iquitos",Loreto,53277
+910,Paola Sanchez Delgado,Residential,Residential,Psje. Santa Cruz 1420,"Santa, Chimbote",Ancash,27712
+911,Ana Herrera Silva,Residential,Residential,Calle Arequipa 380,"Centro, Ica",Ica,76904
+912,Rocio Fernandez Zarate,Residential,Residential,Psje. Bolognesi 1898,"Barranco, Lima",Lima,30105
+913,Oechsle,Retail,SMB,Calle Conquistadores 1452,"Centro, Chimbote",Ancash,55466
+914,Gabriel Castro Vargas,Residential,Residential,Av. Las Begonias 2939,"Florencia de Mora, Trujillo",La Libertad,32847
+915,Municipalidad de Miraflores,Government,Government,Prol. Las Begonias 939,"San Jeronimo, Cusco",Cusco,63272
+916,Natalia Ponce Arias,Residential,Residential,Jr. Las Begonias 1258,"San Sebastian, Cusco",Cusco,72962
+917,Carmen Reyes Medina,Residential,Residential,Prol. Huancavelica 298,"Socabaya, Arequipa",Arequipa,41523
+918,Vanessa Nunez Soto,Residential,Residential,Psje. Las Begonias 458,"Nuevo Chimbote, Chimbote",Ancash,42669
+919,Fernando Ponce Diaz,Residential,Residential,Jr. Reducto 2948,"El Tambo, Huancayo",Junin,70126
+920,Fernando Torres Ramos,Residential,Residential,Prol. Los Alamos 850,"Cerro Colorado, Arequipa",Arequipa,85616
+921,Sandra Rivera Miranda,Residential,Residential,Psje. Libertad 2941,"Los Olivos, Lima",Lima,63914
+922,Bimbo Peru,Food & Beverage,SMB,Jr. Grau 1709,"Huancan, Huancayo",Junin,77315
+923,Luis Romero Mamani,Residential,Residential,Calle Grau 922,"Centro, Iquitos",Loreto,86095
+924,Victor Gonzalez Campos,Residential,Residential,Psje. Las Orquideas 1980,"San Juan Bautista, Iquitos",Loreto,83520
+925,Karina Castro Medina,Residential,Residential,Psje. Emancipacion 1620,"Centro, Iquitos",Loreto,60926
+926,Eduardo Delgado Miranda,Residential,Residential,Calle Cusco 1657,"Jesus, Cajamarca",Cajamarca,45466
+927,Marco Reyes Mamani,Residential,Residential,Psje. Colonial 653,"Jesus, Cajamarca",Cajamarca,95174
+928,Paola Nunez Gutierrez,Residential,Residential,Calle Puno 927,"Catacaos, Piura",Piura,39392
+929,Mario Valenzuela Delgado,Residential,Residential,Calle Los Cedros 2920,"Centro, Piura",Piura,31639
+930,Jose Mendoza Ramirez,Residential,Residential,Calle Javier Prado 715,"Ventanilla, Callao",Callao,85459
+931,Patricia Nunez Rivera,Residential,Residential,Jr. El Polo 1921,"Santa, Chimbote",Ancash,92071
+932,Ana Flores Martinez,Residential,Residential,Jr. Puno 1720,"Pimentel, Chiclayo",Lambayeque,86121
+933,Marisol Diaz Caceres,Residential,Residential,Av. Arequipa 1437,"Centro Historico, Cusco",Cusco,75725
+934,Elizabeth Gutierrez Garcia,Residential,Residential,Av. Colonial 1859,"La Victoria, Chiclayo",Lambayeque,47972
+935,Jimena Cordova Torres,Residential,Residential,Prol. Los Eucaliptos 102,"Jose Luis Bustamante y Rivero, Arequipa",Arequipa,85722
+936,Luis Morales Mamani,Residential,Residential,Av. Brasil 2095,"Carmen de la Legua, Callao",Callao,96419
+937,Metro,Retail,SMB,Av. Los Alamos 2029,"Belen, Iquitos",Loreto,71761
+938,Francisco Rojas Garcia,Residential,Residential,Psje. Las Gardenias 2910,"Pilcomayo, Huancayo",Junin,55615
+939,Daniela Castro Zarate,Residential,Residential,Psje. Tacna 2769,"Centro, Huancayo",Junin,17583
+940,Gabriela Paredes Morales,Residential,Residential,Psje. Las Gardenias 2689,"Paucarpata, Arequipa",Arequipa,24442
+941,Jose Mamani Caceres,Residential,Residential,Av. San Martin 982,"San Borja, Lima",Lima,42817
+942,Antonio Reyes Campos,Residential,Residential,Prol. Ica 2520,"Centro, Cajamarca",Cajamarca,70311
+943,Diana Silva Benavides,Residential,Residential,Prol. Las Orquideas 2141,"Hunter, Arequipa",Arequipa,10403
+944,Poder Judicial,Government,Government,Av. 28 de Julio 1469,"Banos del Inca, Cajamarca",Cajamarca,26029
+945,Ministerio de Salud,Government,Government,Av. San Martin 1522,"Victor Larco Herrera, Trujillo",La Libertad,42092
+946,Francisco Vasquez Garcia,Residential,Residential,Jr. Los Alamos 198,"Catacaos, Piura",Piura,68383
+947,Electro Peru,Energy,Enterprise,Calle Javier Prado 1060,"Bellavista, Callao",Callao,56364
+948,Marisol Delgado Aguilar,Residential,Residential,Psje. Wilson 2326,"San Sebastian, Cusco",Cusco,27787
+949,Alejandro Caceres Lopez,Residential,Residential,Prol. Caminos del Inca 943,"Subtanjalla, Ica",Ica,56253
+950,La Positiva,Insurance,Enterprise,Av. Las Begonias 131,"Parcona, Ica",Ica,77138
+951,Veronica Salazar Espinoza,Residential,Residential,Calle La Encalada 2591,"Jesus, Cajamarca",Cajamarca,36698
+952,Hochschild Mining,Mining,Enterprise,Av. Primavera 2231,"Centro Historico, Cusco",Cusco,29260
+953,Carla Reyes Condori,Residential,Residential,Jr. Los Cedros 422,"Banos del Inca, Cajamarca",Cajamarca,20505
+954,Banco Central de Reserva,Government,Government,Jr. Bolognesi 2029,"Florencia de Mora, Trujillo",La Libertad,41808
+955,Caja Cusco,Banking,Enterprise,Calle Ica 3236,"Chilca, Huancayo",Junin,64308
+956,Engie Peru,Energy,Enterprise,Psje. Javier Prado 3267,"Chilca, Huancayo",Junin,68048
+957,Mariela Campos Flores,Residential,Residential,Psje. Abancay 2242,"Santiago, Cusco",Cusco,51447
+958,Andres Condori Nunez,Residential,Residential,Jr. Brasil 747,"Llacanora, Cajamarca",Cajamarca,16273
+959,Pablo Miranda Martinez,Residential,Residential,Av. Huancavelica 1700,"Belen, Iquitos",Loreto,66965
+960,Arturo Silva Torres,Residential,Residential,Prol. Santa Cruz 3002,"Huancan, Huancayo",Junin,22300
+961,Alejandro Chavez Vera,Residential,Residential,Psje. Primavera 1589,"Coishco, Chimbote",Ancash,58562
+962,Nexa Resources,Mining,Enterprise,Jr. La Marina 241,"Surquillo, Lima",Lima,68473
+963,Monica Vega Martinez,Residential,Residential,Prol. El Polo 854,"Catacaos, Piura",Piura,40496
+964,Silvia Mamani Castillo,Residential,Residential,Prol. Tacna 3119,"Jesus, Cajamarca",Cajamarca,13472
+965,Maria Ruiz Torres,Residential,Residential,Jr. Puno 524,"Centro, Piura",Piura,18854
+966,Daniel Morales Reyes,Residential,Residential,Jr. Colonial 983,"Santa, Chimbote",Ancash,84593
+967,Julio Alvarez Delgado,Residential,Residential,Jr. Los Alamos 131,"Carmen de la Legua, Callao",Callao,15729
+968,Silvia Chavez Gutierrez,Residential,Residential,Av. Las Begonias 3234,"Chilca, Huancayo",Junin,74392
+969,Vanessa Medina Rodriguez,Residential,Residential,Prol. Brasil 3314,"Nuevo Chimbote, Chimbote",Ancash,18985
+970,Claudia Romero Reyes,Residential,Residential,Prol. Abancay 529,"Magdalena, Lima",Lima,89219
+971,Jorge Ruiz Villegas,Residential,Residential,Prol. Las Begonias 1955,"Nuevo Chimbote, Chimbote",Ancash,94854
+972,Fernando Vargas Vargas,Residential,Residential,Calle Independencia 3260,"Coishco, Chimbote",Ancash,80870
+973,Carolina Palacios Chavez,Residential,Residential,Prol. La Encalada 2035,"San Juan Bautista, Iquitos",Loreto,12116
+974,Ximena Silva Gutierrez,Residential,Residential,Calle Los Eucaliptos 2905,"San Miguel, Lima",Lima,11511
+975,Carolina Rivera Ponce,Residential,Residential,Av. Brasil 1252,"Mariano Melgar, Arequipa",Arequipa,20268
+976,Daniela Miranda Flores,Residential,Residential,Jr. Bolognesi 3476,"Tambogrande, Piura",Piura,42980
+977,Marco Arias Jimenez,Residential,Residential,Prol. Grau 793,"26 de Octubre, Piura",Piura,27580
+978,Arturo Condori Ortiz,Residential,Residential,Av. Las Begonias 1452,"Jesus Maria, Lima",Lima,12212
+979,Andres Garcia Arias,Residential,Residential,Calle La Encalada 2767,"Centro, Chiclayo",Lambayeque,90892
+980,Oscar Zarate Valenzuela,Residential,Residential,Jr. Independencia 2968,"San Juan de Lurigancho, Lima",Lima,33399
+981,Marisol Castillo Ramos,Residential,Residential,Prol. Los Cedros 419,"Castilla, Piura",Piura,17688
+982,Hugo Soto Ruiz,Residential,Residential,Calle Cusco 1491,"26 de Octubre, Piura",Piura,63641
+983,Julio Zarate Perez,Residential,Residential,Psje. Santa Cruz 2285,"Nuevo Chimbote, Chimbote",Ancash,26100
+984,Mariana Salazar Reyes,Residential,Residential,Prol. Las Orquideas 3481,"Centro, Iquitos",Loreto,92715
+985,Milagros Silva Nunez,Residential,Residential,Calle Los Alamos 2167,"Belen, Iquitos",Loreto,64413
+986,Clinica Santa Maria del Sur,Healthcare,SMB,Psje. Wilson 1951,"Centro, Chiclayo",Lambayeque,45339
+987,Monica Cruz Campos,Residential,Residential,Calle Universitaria 872,"Nuevo Chimbote, Chimbote",Ancash,22756
+988,Hospital Rebagliati,Healthcare,SMB,Prol. Los Cedros 1480,"San Sebastian, Cusco",Cusco,44800
+989,Juan Lopez Ponce,Residential,Residential,Calle Ayacucho 2027,"La Tinguina, Ica",Ica,42754
+990,Pablo Gomez Gomez,Residential,Residential,Prol. Abancay 1916,"Socabaya, Arequipa",Arequipa,44032
+991,IDAT,Education,Enterprise,Psje. Los Eucaliptos 2048,"Huancan, Huancayo",Junin,16262
+992,San Charbel,Real Estate,SMB,Av. Wilson 2103,"San Juan Bautista, Iquitos",Loreto,11397
+993,Mario Vega Castro,Residential,Residential,Jr. Puno 2352,"Santa, Chimbote",Ancash,68480
+994,Diego Morales Valenzuela,Residential,Residential,Av. Caminos del Inca 1153,"Pilcomayo, Huancayo",Junin,95209
+995,Andres Vasquez Vega,Residential,Residential,Jr. Cusco 1123,"Saylla, Cusco",Cusco,95272
+996,Silvia Cruz Alvarez,Residential,Residential,Prol. Cusco 2825,"Centro, Huancayo",Junin,30533
+997,Pilar Carrasco Hernandez,Residential,Residential,Psje. Las Gardenias 1253,"San Miguel, Lima",Lima,23813
+998,Sacyr Peru,Construction,Enterprise,Jr. Abancay 3477,"San Sebastian, Cusco",Cusco,35437
+999,Mariela Cordova Palacios,Residential,Residential,Calle Emancipacion 206,"Santa, Chimbote",Ancash,23061
+1000,Rosa Vasquez Huaman,Residential,Residential,Av. Los Pinos 1805,"Santiago, Cusco",Cusco,29544

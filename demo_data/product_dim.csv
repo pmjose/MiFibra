@@ -1,0 +1,65 @@
+product_key,product_name,category_key,category_name,vertical
+1,Internet Hogar 500 Mbps,1,Internet Hogar,Residential
+2,Internet Hogar 1500 Mbps,1,Internet Hogar,Residential
+3,Internet Hogar 2500 Mbps,1,Internet Hogar,Residential
+4,Internet Hogar 5000 Mbps,1,Internet Hogar,Residential
+5,Duo 500 Mbps + MiFibra TvGo + L1MAX,2,Duos Internet + TV,Residential
+6,Duo 1500 Mbps + MiFibra TvGo + L1MAX,2,Duos Internet + TV,Residential
+7,Duo 2500 Mbps + MiFibra TvGo + L1MAX,2,Duos Internet + TV,Residential
+8,Duo 5000 Mbps + MiFibra TvGo + L1MAX,2,Duos Internet + TV,Residential
+9,Empresas Professional 1500 Mbps Simetrico,3,Internet Empresas,Enterprise
+10,Empresas Business 2500 Mbps,3,Internet Empresas,Enterprise
+11,Empresas Enterprise 5000 Mbps,3,Internet Empresas,Enterprise
+12,Empresas Enterprise Plus 5000 Mbps Simetrico,3,Internet Empresas,Enterprise
+13,MiFibra TvGo 80+ Canales,4,TV Digital,Residential
+14,L1MAX Deportes,4,TV Digital,All
+15,Router WiFi 5 Alta Velocidad,5,Equipamiento,All
+16,Router WiFi 6 Ultra Velocidad,5,Equipamiento,All
+17,Mesh WiFi Extensor,5,Equipamiento,All
+18,Mesh WiFi Pack 2 Unidades,5,Equipamiento,All
+19,ONT Fibra Optica,5,Equipamiento,All
+20,Router Mikrotik Profesional,5,Equipamiento,Enterprise
+21,IP Publica Fija,6,Servicios Adicionales,All
+22,IP Publica Adicional,6,Servicios Adicionales,Enterprise
+23,Bloque IPs Empresarial,6,Servicios Adicionales,Enterprise
+24,Instalacion Estandar,7,Servicios,All
+25,Instalacion Prioritaria 1 Dia,7,Servicios,Enterprise
+26,Atencion Premium 2 Horas,7,Servicios,Enterprise
+27,Soporte Tecnico 24/7,7,Servicios,Enterprise
+28,Monitoreo Proactivo,7,Servicios,Enterprise
+29,Visor de Trafico Dashboard,7,Servicios,Enterprise
+30,Firewall en la Nube,8,Seguridad,Enterprise
+31,Proteccion IPS,8,Seguridad,Enterprise
+32,Promo Velocidad Doble x4 Meses,9,Promociones,Residential
+33,Promo Cero Instalacion,9,Promociones,Residential
+34,Promo Mesh Incluido,9,Promociones,Residential
+35,Descuento Pago Automatico,9,Promociones,All
+36,Enlace Dedicado 100 Mbps,3,Internet Empresas,Enterprise
+37,Enlace Dedicado 200 Mbps,3,Internet Empresas,Enterprise
+38,Enlace Dedicado 500 Mbps,3,Internet Empresas,Enterprise
+39,Enlace Dedicado 1 Gbps,3,Internet Empresas,Enterprise
+40,VPN Corporativa,8,Seguridad,Enterprise
+41,Backup en la Nube 100GB,6,Servicios Adicionales,Enterprise
+42,Backup en la Nube 500GB,6,Servicios Adicionales,Enterprise
+43,Backup en la Nube 1TB,6,Servicios Adicionales,Enterprise
+44,Hosting Web Basico,6,Servicios Adicionales,Enterprise
+45,Hosting Web Premium,6,Servicios Adicionales,Enterprise
+46,Correo Corporativo 10 Cuentas,6,Servicios Adicionales,Enterprise
+47,Correo Corporativo 50 Cuentas,6,Servicios Adicionales,Enterprise
+48,Telefonia IP 5 Lineas,6,Servicios Adicionales,Enterprise
+49,Telefonia IP 20 Lineas,6,Servicios Adicionales,Enterprise
+50,Telefonia IP Ilimitada,6,Servicios Adicionales,Enterprise
+51,Seguridad Perimetral UTM,8,Seguridad,Enterprise
+52,Anti-DDoS Proteccion,8,Seguridad,Enterprise
+53,SSL Certificado,8,Seguridad,Enterprise
+54,Mantenimiento Preventivo Anual,7,Servicios,Enterprise
+55,SLA 99.9% Garantizado,7,Servicios,Enterprise
+56,Soporte Presencial Prioritario,7,Servicios,Enterprise
+57,Capacitacion Usuario Final,7,Servicios,Enterprise
+58,Consultoria Red,7,Servicios,Enterprise
+59,MiFibra TvGo + HBO Max,4,TV Digital,Residential
+60,MiFibra TvGo + Disney+,4,TV Digital,Residential
+61,MiFibra TvGo Premium 120+ Canales,4,TV Digital,Residential
+62,Pack Deportes Total,4,TV Digital,Residential
+63,Pack Peliculas Premium,4,TV Digital,Residential
+64,Pack Familiar Kids,4,TV Digital,Residential

@@ -1,0 +1,36 @@
+node_id,region_key,city_name,department,node_type,status,capacity_gbps,utilization_pct,households_passed,active_subscribers,penetration_pct,latency_ms,uptime_pct,olt_count,ont_deployed,fiber_km,technology,last_maintenance,next_maintenance,noc_region
+1,400,Lima Centro,Lima,Primary Hub,Operational,400,48,450000,155000,34.4,2.8,99.95,45,155000,2800,XGS-PON,2026-01-15,2026-03-15,Lima
+2,400,San Isidro,Lima,Distribution Node,Operational,100,52,38000,16500,43.4,2.5,99.98,8,16500,280,XGS-PON,2026-01-20,2026-03-20,Lima
+3,400,Miraflores,Lima,Distribution Node,Operational,100,55,52000,22000,42.3,2.6,99.97,10,22000,320,XGS-PON,2026-01-18,2026-03-18,Lima
+4,400,San Borja,Lima,Distribution Node,Operational,100,45,45000,18000,40.0,2.4,99.99,9,18000,275,XGS-PON,2026-01-22,2026-03-22,Lima
+5,400,Surco,Lima,Distribution Node,Operational,120,58,85000,32000,37.6,2.9,99.94,15,32000,450,XGS-PON,2026-02-01,2026-04-01,Lima
+6,400,La Molina,Lima,Distribution Node,Operational,80,42,48000,17500,36.5,3.1,99.96,10,17500,380,XGS-PON,2026-01-25,2026-03-25,Lima
+7,400,San Miguel,Lima,Distribution Node,Operational,60,48,42000,14000,33.3,3.0,99.93,8,14000,160,GPON,2026-02-05,2026-04-05,Lima
+8,400,Pueblo Libre,Lima,Distribution Node,Operational,40,44,28000,9500,33.9,2.9,99.95,6,9500,120,GPON,2026-01-28,2026-03-28,Lima
+9,400,Jesus Maria,Lima,Distribution Node,Operational,50,51,32000,8000,25.0,2.7,99.96,4,8000,95,XGS-PON,2026-02-03,2026-04-03,Lima
+17,401,Arequipa Centro,Arequipa,Regional Hub,Operational,100,52,85000,30000,35.3,4.2,99.92,12,30000,520,XGS-PON,2026-01-12,2026-03-12,Arequipa
+18,401,Cayma,Arequipa,Distribution Node,Operational,40,48,18000,6500,36.1,4.5,99.90,4,6500,120,GPON,2026-02-07,2026-04-07,Arequipa
+19,401,Yanahuara,Arequipa,Distribution Node,Operational,35,45,12000,3500,29.2,4.3,99.93,3,3500,85,XGS-PON,2026-01-19,2026-03-19,Arequipa
+20,401,Jose Luis Bustamante,Arequipa,Distribution Node,Operational,25,55,5000,2000,40.0,4.6,99.89,2,2000,65,GPON,2026-02-09,2026-04-09,Arequipa
+22,402,Trujillo Centro,La Libertad,Regional Hub,Operational,80,48,70000,22000,31.4,5.5,99.88,10,22000,420,XGS-PON,2026-01-14,2026-03-14,Lima
+23,402,Victor Larco,La Libertad,Distribution Node,Operational,30,52,15000,4000,26.7,5.8,99.85,3,4000,95,GPON,2026-02-11,2026-04-11,Lima
+24,402,Moche,La Libertad,Distribution Node,Operational,20,45,10000,2000,20.0,6.0,99.82,2,2000,55,GPON,2026-01-31,2026-03-31,Lima
+26,403,Cusco Centro,Cusco,Regional Hub,Operational,60,48,40000,11000,27.5,8.5,99.82,7,11000,280,XGS-PON,2026-01-16,2026-03-16,Lima
+27,403,Wanchaq,Cusco,Distribution Node,Operational,25,52,10000,2800,28.0,8.8,99.78,2,2800,75,GPON,2026-02-13,2026-04-13,Lima
+28,403,San Sebastian,Cusco,Distribution Node,Operational,15,44,5000,1200,24.0,9.0,99.75,1,1200,45,GPON,2026-01-27,2026-03-27,Lima
+30,404,Piura Centro,Piura,Regional Hub,Operational,50,45,35000,9500,27.1,6.8,99.85,6,9500,280,XGS-PON,2026-01-17,2026-03-17,Lima
+31,404,Castilla,Piura,Distribution Node,Operational,20,48,10000,2500,25.0,7.2,99.82,2,2500,65,GPON,2026-02-15,2026-04-15,Lima
+33,405,Chiclayo Centro,Lambayeque,Regional Hub,Operational,45,50,32000,10500,32.8,6.2,99.87,6,10500,240,XGS-PON,2026-01-21,2026-03-21,Lima
+34,405,Jose Leonardo Ortiz,Lambayeque,Distribution Node,Operational,18,55,8000,2500,31.3,6.5,99.83,2,2500,65,GPON,2026-02-16,2026-04-16,Lima
+36,406,Cajamarca Centro,Cajamarca,Regional Hub,Operational,35,42,15000,4800,32.0,9.5,99.78,4,4800,180,GPON,2026-01-13,2026-03-13,Lima
+37,406,Banos del Inca,Cajamarca,Distribution Node,Operational,12,38,3000,700,23.3,10.0,99.72,1,700,35,GPON,2026-02-17,2026-04-17,Lima
+38,407,Huancayo Centro,Junin,Regional Hub,Operational,40,48,15000,4500,30.0,7.8,99.80,4,4500,220,XGS-PON,2026-01-11,2026-03-11,Lima
+39,407,El Tambo,Junin,Distribution Node,Operational,15,52,3000,1000,33.3,8.2,99.76,1,1000,55,GPON,2026-02-18,2026-04-18,Lima
+41,408,Chimbote Centro,Ancash,Regional Hub,Operational,30,40,12000,3800,31.7,7.5,99.82,3,3800,160,GPON,2026-02-01,2026-04-01,Lima
+42,408,Nuevo Chimbote,Ancash,Distribution Node,Operational,15,45,3000,700,23.3,7.8,99.78,1,700,45,GPON,2026-02-19,2026-04-19,Lima
+43,409,Ica Centro,Ica,Regional Hub,Operational,35,48,20000,6500,32.5,5.8,99.88,5,6500,180,XGS-PON,2026-01-10,2026-03-10,Lima
+44,409,Subtanjalla,Ica,Distribution Node,Operational,12,42,5000,1500,30.0,6.2,99.84,1,1500,45,GPON,2026-02-20,2026-04-20,Lima
+46,410,Callao Centro,Callao,Regional Hub,Operational,50,52,28000,9500,33.9,3.2,99.92,6,9500,220,XGS-PON,2026-01-09,2026-03-09,Lima
+47,410,Bellavista,Callao,Distribution Node,Operational,20,48,7000,2500,35.7,3.5,99.90,2,2500,55,GPON,2026-02-21,2026-04-21,Lima
+49,411,Iquitos Centro,Loreto,Regional Hub,Operational,25,55,10000,2800,28.0,15.5,99.65,3,2800,120,GPON,2026-01-08,2026-03-08,Lima
+50,411,Punchana,Loreto,Distribution Node,Operational,10,48,2000,700,35.0,16.2,99.58,1,700,35,GPON,2026-02-22,2026-04-22,Lima
