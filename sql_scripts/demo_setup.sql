@@ -158,8 +158,10 @@ use role MiFibra_Demo;
         vertical VARCHAR(50),
         address VARCHAR(200),
         city VARCHAR(100),
-        state VARCHAR(10),
-        zip VARCHAR(20)
+        county VARCHAR(100),
+        postcode VARCHAR(20),
+        latitude FLOAT,
+        longitude FLOAT
     );
 
     -- Account Dimension (Finance)
@@ -178,7 +180,11 @@ use role MiFibra_Demo;
     -- Region Dimension
     CREATE OR REPLACE TABLE MIFIBRA_REGION_DIM (
         region_key INT PRIMARY KEY,
-        region_name VARCHAR(100) NOT NULL
+        region_name VARCHAR(100) NOT NULL,
+        latitude FLOAT,
+        longitude FLOAT,
+        capital_city VARCHAR(100),
+        area_km2 INT
     );
 
     -- Sales Rep Dimension
@@ -219,7 +225,38 @@ use role MiFibra_Demo;
     -- Location Dimension (HR)
     CREATE OR REPLACE TABLE MIFIBRA_LOCATION_DIM (
         location_key INT PRIMARY KEY,
-        location_name VARCHAR(200) NOT NULL
+        location_name VARCHAR(200) NOT NULL,
+        city VARCHAR(100),
+        department VARCHAR(100),
+        location_type VARCHAR(50),
+        latitude FLOAT,
+        longitude FLOAT
+    );
+
+    -- Network Status Dimension (Infrastructure)
+    CREATE OR REPLACE TABLE MIFIBRA_NETWORK_STATUS_DIM (
+        node_id INT PRIMARY KEY,
+        region_key INT NOT NULL,
+        city_name VARCHAR(100) NOT NULL,
+        department VARCHAR(100),
+        node_type VARCHAR(50),
+        status VARCHAR(50),
+        capacity_gbps INT,
+        utilization_pct FLOAT,
+        households_passed INT,
+        active_subscribers INT,
+        penetration_pct FLOAT,
+        latency_ms FLOAT,
+        uptime_pct FLOAT,
+        olt_count INT,
+        ont_deployed INT,
+        fiber_km FLOAT,
+        technology VARCHAR(50),
+        last_maintenance DATE,
+        next_maintenance DATE,
+        noc_region VARCHAR(100),
+        latitude FLOAT,
+        longitude FLOAT
     );
 
     -- ========================================================================
@@ -418,6 +455,12 @@ use role MiFibra_Demo;
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
+    -- Load Network Status Dimension
+    COPY INTO MIFIBRA_NETWORK_STATUS_DIM
+    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/network_status_dim.csv
+    FILE_FORMAT = MIFIBRA_CSV_FORMAT
+    ON_ERROR = 'CONTINUE';
+
     -- ========================================================================
     -- LOAD FACT DATA FROM INTERNAL STAGE
     -- ========================================================================
@@ -474,7 +517,7 @@ use role MiFibra_Demo;
 
     -- Verify Git integration and file copy
     SHOW GIT REPOSITORIES;
-  -- SELECT 'Internal Stage Files' as stage_type, COUNT(*) as file_count FROM (LS @INTERNAL_DATA_STAGE);
+  -- SELECT 'Internal Stage Files' as stage_type, COUNT(*) as file_count FROM (LS @MIFIBRA_INTERNAL_STAGE);
 
     -- Verify data loads
     SELECT 'DIMENSION TABLES' as category, '' as table_name, NULL as row_count
@@ -578,6 +621,14 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_FINANCE_S
         CUSTOMERS.CUSTOMER_NAME as customer_name with synonyms=('customer','client') comment='Name of the customer',
         CUSTOMERS.INDUSTRY as INDUSTRY with synonyms=('industry','customer industry','sector') comment='Customer industry sector',
         CUSTOMERS.VERTICAL as VERTICAL with synonyms=('vertical','segment','customer segment') comment='Customer vertical/segment (SMB/Enterprise/Public Sector/Partner)',
+        CUSTOMERS.LATITUDE as CUSTOMER_LATITUDE with synonyms=('customer lat','customer latitude') comment='Customer location latitude (WGS84)',
+        CUSTOMERS.LONGITUDE as CUSTOMER_LONGITUDE with synonyms=('customer long','customer longitude') comment='Customer location longitude (WGS84)',
+        CUSTOMERS.CITY as CUSTOMER_CITY with synonyms=('customer city') comment='Customer city',
+        CUSTOMERS.COUNTY as CUSTOMER_DEPARTMENT with synonyms=('customer department') comment='Customer department (Peru region)',
+        CUSTOMERS.LATITUDE as CUSTOMER_LATITUDE with synonyms=('customer lat','customer latitude') comment='Customer location latitude (WGS84)',
+        CUSTOMERS.LONGITUDE as CUSTOMER_LONGITUDE with synonyms=('customer long','customer longitude') comment='Customer location longitude (WGS84)',
+        CUSTOMERS.CITY as CUSTOMER_CITY with synonyms=('customer city','city') comment='Customer city',
+        CUSTOMERS.COUNTY as CUSTOMER_DEPARTMENT with synonyms=('customer department','department') comment='Customer department (Peru administrative region)',
         TRANSACTIONS.APPROVAL_STATUS as approval_status with synonyms=('approval','status','approval state') comment='Transaction approval status (Approved/Pending/Rejected)',
         TRANSACTIONS.PROCUREMENT_METHOD as procurement_method with synonyms=('procurement','method','purchase method') comment='Method of procurement (RFP/Quotes/Emergency/Contract)',
         TRANSACTIONS.APPROVER_ID as approver_id with synonyms=('approver','approver employee id') comment='Employee ID of the approver from HR',
@@ -633,6 +684,10 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SALES_SEM
     MIFIBRA_PRODUCT_CATEGORY_DIM.VERTICAL as VERTICAL with synonyms=('industry','sector','market','category_group','business_area','domain') comment='The industry or sector in which a product is categorized, such as retail, technology, or manufacturing.',
     REGIONS.REGION_KEY as REGION_KEY,
     REGIONS.REGION_NAME as region_name with synonyms=('region','territory','area') comment='Name of the region',
+    REGIONS.LATITUDE as REGION_LATITUDE with synonyms=('region lat','region latitude') comment='Region center latitude (WGS84)',
+    REGIONS.LONGITUDE as REGION_LONGITUDE with synonyms=('region long','region longitude') comment='Region center longitude (WGS84)',
+    REGIONS.CAPITAL_CITY as REGION_CAPITAL with synonyms=('capital','regional capital') comment='Capital city of the region',
+    REGIONS.AREA_KM2 as REGION_AREA_KM2 with synonyms=('area','region size','square kilometers') comment='Region area in square kilometers',
     SALES.CUSTOMER_KEY as CUSTOMER_KEY,
     SALES.PRODUCT_KEY as PRODUCT_KEY,
     SALES.REGION_KEY as REGION_KEY,
@@ -738,7 +793,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_MARKETING
     PUBLIC PRODUCTS.PRODUCT_NAME as PRODUCT_NAME with synonyms=('product','item','product title') comment='Name of the product being promoted',
     PUBLIC PRODUCTS.PRODUCT_VERTICAL as VERTICAL with synonyms=('vertical','industry') comment='Business vertical of the product',
     PUBLIC REGIONS.REGION_KEY as REGION_KEY,
-    PUBLIC REGIONS.REGION_NAME as REGION_NAME with synonyms=('region','market','territory') comment='Name of the region'
+    PUBLIC REGIONS.REGION_NAME as REGION_NAME with synonyms=('region','market','territory') comment='Name of the region',
+    PUBLIC REGIONS.LATITUDE as REGION_LATITUDE with synonyms=('region lat','region latitude') comment='Region center latitude (WGS84)',
+    PUBLIC REGIONS.LONGITUDE as REGION_LONGITUDE with synonyms=('region long','region longitude') comment='Region center longitude (WGS84)',
+    PUBLIC REGIONS.CAPITAL_CITY as REGION_CAPITAL with synonyms=('capital','regional capital') comment='Capital city of the region',
+    PUBLIC REGIONS.AREA_KM2 as REGION_AREA_KM2 with synonyms=('area','region size') comment='Region area in square kilometers'
   )
   metrics (
     PUBLIC CAMPAIGNS.AVERAGE_SPEND as AVG(CAMPAIGNS.spend) comment='Average campaign spend',
@@ -798,7 +857,12 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
     JOBS.JOB_LEVEL as job_level with synonyms=('level','grade','seniority') comment='Job level or grade',
     JOBS.JOB_TITLE as job_title with synonyms=('job title','position','role') comment='Employee job title',
     LOCATIONS.LOCATION_KEY as LOCATION_KEY,
-    LOCATIONS.LOCATION_NAME as location_name with synonyms=('location','office','site') comment='Work location'
+    LOCATIONS.LOCATION_NAME as location_name with synonyms=('location','office','site') comment='Work location',
+    LOCATIONS.CITY as LOCATION_CITY with synonyms=('city','office city') comment='City where office is located',
+    LOCATIONS.DEPARTMENT as LOCATION_DEPARTMENT with synonyms=('department','office department','region') comment='Peru department where office is located',
+    LOCATIONS.LOCATION_TYPE as LOCATION_TYPE with synonyms=('office type','site type') comment='Type of location (Headquarters/Regional Office/etc)',
+    LOCATIONS.LATITUDE as LOCATION_LATITUDE with synonyms=('office lat','location latitude') comment='Office location latitude (WGS84)',
+    LOCATIONS.LONGITUDE as LOCATION_LONGITUDE with synonyms=('office long','location longitude') comment='Office location longitude (WGS84)'
   )
   metrics (
     HR_RECORDS.ATTRITION_COUNT as SUM(hr_records.attrition_flag) comment='Number of employees who left',
@@ -808,6 +872,62 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
   )
   comment='Semantic view for HR analytics and workforce management'
   with extension (CA='{"tables":[{"name":"DEPARTMENTS","dimensions":[{"name":"DEPARTMENT_KEY"},{"name":"DEPARTMENT_NAME","sample_values":["Operaciones de Red","Soporte Tecnico","Ventas Residencial","Finanzas","Atencion al Cliente"]}]},{"name":"EMPLOYEES","dimensions":[{"name":"EMPLOYEE_KEY"},{"name":"EMPLOYEE_NAME","sample_values":["Carlos Garcia Rodriguez","Maria Quispe Huaman","Jose Fernandez Torres"]},{"name":"GENDER"},{"name":"HIRE_DATE"}]},{"name":"HR_RECORDS","dimensions":[{"name":"DEPARTMENT_KEY"},{"name":"EMPLOYEE_KEY"},{"name":"HR_FACT_ID"},{"name":"JOB_KEY"},{"name":"LOCATION_KEY"},{"name":"RECORD_DATE"},{"name":"RECORD_MONTH"},{"name":"RECORD_YEAR"}],"facts":[{"name":"ATTRITION_FLAG","sample_values":["0","1"]},{"name":"EMPLOYEE_RECORD"},{"name":"EMPLOYEE_SALARY"}],"metrics":[{"name":"ATTRITION_COUNT"},{"name":"AVG_SALARY"},{"name":"TOTAL_EMPLOYEES"},{"name":"TOTAL_SALARY_COST"}]},{"name":"JOBS","dimensions":[{"name":"JOB_KEY"},{"name":"JOB_LEVEL"},{"name":"JOB_TITLE","sample_values":["Gerente General","Tecnico de Instalaciones","Ejecutivo de Ventas","Ingeniero de Red"]}]},{"name":"LOCATIONS","dimensions":[{"name":"LOCATION_KEY"},{"name":"LOCATION_NAME","sample_values":["Sede Central - San Isidro Lima","Oficina Regional Arequipa","Call Center San Borja"]}]}],"relationships":[{"name":"HR_TO_DEPARTMENTS","relationship_type":"many_to_one"},{"name":"HR_TO_EMPLOYEES","relationship_type":"many_to_one"},{"name":"HR_TO_JOBS","relationship_type":"many_to_one"},{"name":"HR_TO_LOCATIONS","relationship_type":"many_to_one"}],"verified_queries":[{"name":"List of all active employees","question":"List of all active employees","sql":"select\\n  h.employee_key,\\n  e.employee_name,\\nfrom\\n  employees e\\n  left join hr_records h on e.employee_key = h.employee_key\\ngroup by\\n  all\\nhaving\\n  sum(h.attrition_flag) = 0;","use_as_onboarding_question":false,"verified_by":"MiFibra Admin","verified_at":1753846263},{"name":"List of all inactive employees","question":"List of all inactive employees","sql":"SELECT\\n  h.employee_key,\\n  e.employee_name\\nFROM\\n  employees AS e\\n  LEFT JOIN hr_records AS h ON e.employee_key = h.employee_key\\nGROUP BY\\n  ALL\\nHAVING\\n  SUM(h.attrition_flag) > 0","use_as_onboarding_question":false,"verified_by":"MiFibra Admin","verified_at":1753846300}],"custom_instructions":"- Each employee can have multiple hr_employee_fact records. \\n- Only one hr_employee_fact record per employee is valid and that is the one which has the highest date value."}');ncilar","verified_at":1753846300}],"custom_instructions":"- Each employee can have multiple hr_employee_fact records. \\n- Only one hr_employee_fact record per employee is valid and that is the one which has the highest date value."}');
+  -- ========================================================================
+  -- INFRASTRUCTURE SEMANTIC VIEW (Network Status)
+  -- ========================================================================
+create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INFRASTRUCTURE_SEMANTIC_VIEW
+  tables (
+    NETWORK_NODES as MIFIBRA_NETWORK_STATUS_DIM primary key (NODE_ID) with synonyms=('network nodes','infrastructure','fiber nodes','POPs') comment='Network infrastructure nodes across Peru',
+    REGIONS as MIFIBRA_REGION_DIM primary key (REGION_KEY) with synonyms=('regions','territories','departments') comment='Regional dimension for geographic analysis'
+  )
+  relationships (
+    NODES_TO_REGIONS as NETWORK_NODES(REGION_KEY) references REGIONS(REGION_KEY)
+  )
+  facts (
+    NETWORK_NODES.NODE_RECORD as 1 comment='Count of network nodes',
+    NETWORK_NODES.CAPACITY_GBPS as CAPACITY_GBPS comment='Node capacity in Gbps',
+    NETWORK_NODES.ACTIVE_SUBSCRIBERS as ACTIVE_SUBSCRIBERS comment='Number of active subscribers',
+    NETWORK_NODES.UPTIME_PCT as UPTIME_PCT comment='Node uptime percentage',
+    NETWORK_NODES.HOUSEHOLDS_PASSED as HOUSEHOLDS_PASSED comment='Homes passed by fiber',
+    NETWORK_NODES.FIBER_KM as FIBER_KM comment='Kilometers of fiber deployed'
+  )
+  dimensions (
+    NETWORK_NODES.NODE_ID as NODE_ID,
+    NETWORK_NODES.CITY_NAME as CITY with synonyms=('city','location','node city') comment='City where node is located',
+    NETWORK_NODES.DEPARTMENT as DEPARTMENT with synonyms=('department','region','administrative region') comment='Peru department',
+    NETWORK_NODES.NODE_TYPE as NODE_TYPE with synonyms=('node type','infrastructure type') comment='Type of node (Primary Hub/Secondary Hub/Distribution Node/Access Node)',
+    NETWORK_NODES.STATUS as NODE_STATUS with synonyms=('status','operational status') comment='Node operational status',
+    NETWORK_NODES.TECHNOLOGY as FIBER_TECHNOLOGY with synonyms=('technology','fiber type') comment='Fiber technology (XGS-PON/GPON)',
+    NETWORK_NODES.LAST_MAINTENANCE as LAST_MAINTENANCE with synonyms=('maintenance date','last service') comment='Date of last maintenance',
+    NETWORK_NODES.NEXT_MAINTENANCE as NEXT_MAINTENANCE with synonyms=('next maintenance','scheduled maintenance') comment='Next scheduled maintenance date',
+    NETWORK_NODES.NOC_REGION as NOC_REGION with synonyms=('NOC','network operations center') comment='NOC region assignment',
+    NETWORK_NODES.UTILIZATION_PCT as UTILIZATION_PCT with synonyms=('utilization','capacity usage') comment='Node utilization percentage',
+    NETWORK_NODES.PENETRATION_PCT as PENETRATION_PCT with synonyms=('penetration','market penetration') comment='Market penetration percentage',
+    NETWORK_NODES.LATENCY_MS as LATENCY_MS with synonyms=('latency','ping') comment='Network latency in milliseconds',
+    NETWORK_NODES.OLT_COUNT as OLT_COUNT with synonyms=('OLT','optical line terminals') comment='Number of OLT devices',
+    NETWORK_NODES.ONT_DEPLOYED as ONT_DEPLOYED with synonyms=('ONT','optical network terminals') comment='Number of ONT devices deployed',
+    NETWORK_NODES.LATITUDE as NODE_LATITUDE with synonyms=('node lat','latitude') comment='Node location latitude (WGS84)',
+    NETWORK_NODES.LONGITUDE as NODE_LONGITUDE with synonyms=('node long','longitude') comment='Node location longitude (WGS84)',
+    NETWORK_NODES.REGION_KEY as REGION_KEY,
+    REGIONS.REGION_KEY as REGION_KEY,
+    REGIONS.REGION_NAME as REGION_NAME with synonyms=('region','territory') comment='Name of the region',
+    REGIONS.LATITUDE as REGION_LATITUDE with synonyms=('region lat') comment='Region center latitude',
+    REGIONS.LONGITUDE as REGION_LONGITUDE with synonyms=('region long') comment='Region center longitude',
+    REGIONS.CAPITAL_CITY as REGION_CAPITAL with synonyms=('capital') comment='Regional capital city',
+    REGIONS.AREA_KM2 as REGION_AREA_KM2 with synonyms=('area') comment='Region area in km2'
+  )
+  metrics (
+    NETWORK_NODES.TOTAL_NODES as COUNT(network_nodes.node_record) comment='Total number of network nodes',
+    NETWORK_NODES.TOTAL_CAPACITY as SUM(network_nodes.capacity_gbps) comment='Total network capacity in Gbps',
+    NETWORK_NODES.TOTAL_SUBSCRIBERS as SUM(network_nodes.active_subscribers) comment='Total active subscribers',
+    NETWORK_NODES.TOTAL_HOUSEHOLDS_PASSED as SUM(network_nodes.households_passed) comment='Total homes passed by fiber',
+    NETWORK_NODES.TOTAL_FIBER_KM as SUM(network_nodes.fiber_km) comment='Total fiber kilometers deployed',
+    NETWORK_NODES.AVG_UPTIME as AVG(network_nodes.uptime_pct) comment='Average network uptime percentage',
+    NETWORK_NODES.AVG_UTILIZATION as AVG(network_nodes.utilization_pct) comment='Average node utilization',
+    NETWORK_NODES.AVG_PENETRATION as AVG(network_nodes.penetration_pct) comment='Average market penetration'
+  )
+  comment='Semantic view for MiFibra network infrastructure analysis and CARTO mapping';
+
   -- ========================================================================
   -- VERIFICATION
   -- ========================================================================
@@ -832,40 +952,40 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
     -- ========================================================================
     
     -- Parse structured documents (PDF, DOCX, PPTX) using PARSE_DOCUMENT
-    CREATE OR REPLACE TABLE parsed_content_docs AS 
+    CREATE OR REPLACE TABLE MIFIBRA_PARSED_CONTENT_DOCS AS 
     SELECT 
         relative_path, 
-        BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE', relative_path) as file_url,
-        TO_FILE(BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE', relative_path)) as file_object,
+        BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE', relative_path) as file_url,
+        TO_FILE(BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE', relative_path)) as file_object,
         SNOWFLAKE.CORTEX.PARSE_DOCUMENT(
-            @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE,
+            @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE,
             relative_path,
             {'mode':'LAYOUT'}
         ):content::string as content
-    FROM directory(@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE) 
+    FROM directory(@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE) 
     WHERE relative_path ilike 'unstructured_docs/%.pdf'
        OR relative_path ilike 'unstructured_docs/%.docx'
        OR relative_path ilike 'unstructured_docs/%.pptx';
 
     -- Parse Markdown files using PARSE_DOCUMENT (supports plain text extraction)
-    CREATE OR REPLACE TABLE parsed_content_md AS
+    CREATE OR REPLACE TABLE MIFIBRA_PARSED_CONTENT_MD AS
     SELECT 
         relative_path,
-        BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE', relative_path) as file_url,
-        TO_FILE(BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE', relative_path)) as file_object,
+        BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE', relative_path) as file_url,
+        TO_FILE(BUILD_STAGE_FILE_URL('@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE', relative_path)) as file_object,
         SNOWFLAKE.CORTEX.PARSE_DOCUMENT(
-            @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE,
+            @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE,
             relative_path,
             {'mode':'LAYOUT'}
         ):content::string as content
-    FROM directory(@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE) 
+    FROM directory(@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE) 
     WHERE relative_path ilike 'unstructured_docs/%.md';
 
     -- Combine all document types into unified parsed_content table
-    CREATE OR REPLACE TABLE parsed_content AS
-    SELECT relative_path, file_url, file_object, content FROM parsed_content_docs
+    CREATE OR REPLACE TABLE MIFIBRA_PARSED_CONTENT AS
+    SELECT relative_path, file_url, file_object, content FROM MIFIBRA_PARSED_CONTENT_DOCS
     UNION ALL
-    SELECT relative_path, file_url, file_object, content FROM parsed_content_md;
+    SELECT relative_path, file_url, file_object, content FROM MIFIBRA_PARSED_CONTENT_MD;
     
     -- Verify document counts by type
     SELECT 
@@ -877,7 +997,7 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             ELSE 'Other'
         END as file_type,
         COUNT(*) as file_count
-    FROM parsed_content
+    FROM MIFIBRA_PARSED_CONTENT
     GROUP BY file_type
     ORDER BY file_count DESC;
 
@@ -889,7 +1009,7 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
 
     -- Create search service for finance documents
     -- This enables semantic search over finance-related content
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_finance_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_FINANCE_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -899,15 +1019,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title, -- Extract filename as title
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/finance/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
     
     -- Create search service for HR documents
     -- This enables semantic search over HR-related content
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_hr_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_HR_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -917,15 +1033,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/hr/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
 
     -- Create search service for marketing documents
     -- This enables semantic search over marketing-related content
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_marketing_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_MARKETING_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -935,15 +1047,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/marketing/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
 
     -- Create search service for sales documents
     -- This enables semantic search over sales-related content
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_sales_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_SALES_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -953,15 +1061,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/sales/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
 
     -- Create search service for strategy documents
     -- This enables semantic search over CEO/strategy-related content (UK Telecom)
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_strategy_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_STRATEGY_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -971,15 +1075,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/strategy/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
 
     -- Create search service for demo scripts
     -- This enables semantic search over demo presentation materials
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_demo_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_DEMO_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -989,15 +1089,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/demo/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
 
     -- Create search service for network infrastructure documents
     -- This enables semantic search over data center, network capacity, and platform uptime content
-    CREATE OR REPLACE CORTEX SEARCH SERVICE Search_network_docs
+    CREATE OR REPLACE CORTEX SEARCH SERVICE MIFIBRA_SEARCH_NETWORK_DOCS
         ON content
         ATTRIBUTES relative_path, file_url, title
         WAREHOUSE = MIFIBRA_DEMO_WH
@@ -1007,11 +1103,7 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANT
             SELECT
                 relative_path,
                 file_url,
-                REGEXP_SUBSTR(relative_path, '[^/]+$') as title,
-                content
-            FROM parsed_content
-            WHERE relative_path ilike '%/network/%'
-        );
+                REGEXP_SUBSTR(relative_path, '[^/]+
 
 
 use role mifibra_demo;
@@ -1053,21 +1145,21 @@ use role MiFibra_Demo;
 -- CREATES A SNOWFLAKE INTELLIGENCE AGENT WITH MULTIPLE TOOLS
 
 -- Create stored procedure to generate presigned URLs for files in internal stages
-CREATE OR REPLACE PROCEDURE Get_File_Presigned_URL_SP(
+CREATE OR REPLACE PROCEDURE MIFIBRA_GET_FILE_PRESIGNED_URL_SP(
     RELATIVE_FILE_PATH STRING, 
     EXPIRATION_MINS INTEGER DEFAULT 60
 )
 RETURNS STRING
 LANGUAGE SQL
-COMMENT = 'Generates a presigned URL for a file in the static @INTERNAL_DATA_STAGE. Input is the relative file path.'
+COMMENT = 'Generates a presigned URL for a file in the static @MIFIBRA_INTERNAL_STAGE. Input is the relative file path.'
 EXECUTE AS CALLER
 AS
-$$
+$
 DECLARE
     presigned_url STRING;
     sql_stmt STRING;
     expiration_seconds INTEGER;
-    stage_name STRING DEFAULT '@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE';
+    stage_name STRING DEFAULT '@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE';
 BEGIN
     expiration_seconds := EXPIRATION_MINS * 60;
 
@@ -1086,7 +1178,7 @@ $$;
 
 -- Create stored procedure to send emails to verified recipients in Snowflake
 
-CREATE OR REPLACE PROCEDURE send_mail(recipient TEXT, subject TEXT, text TEXT)
+CREATE OR REPLACE PROCEDURE MIFIBRA_SEND_MAIL(recipient TEXT, subject TEXT, text TEXT)
 RETURNS TEXT
 LANGUAGE PYTHON
 RUNTIME_VERSION = '3.11'
@@ -1106,7 +1198,7 @@ def send_mail(session, recipient, subject, text):
     return f'Email was sent to {recipient} with subject: "{subject}".'
 $$;
 
-CREATE OR REPLACE FUNCTION Web_scrape(weburl STRING)
+CREATE OR REPLACE FUNCTION MIFIBRA_WEB_SCRAPE(weburl STRING)
 RETURNS STRING
 LANGUAGE PYTHON
 RUNTIME_VERSION = 3.11
@@ -1128,7 +1220,7 @@ def get_page(weburl):
 $$;
 
 
-CREATE OR REPLACE PROCEDURE MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.GENERATE_STREAMLIT_APP("USER_INPUT" VARCHAR)
+CREATE OR REPLACE PROCEDURE MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_GENERATE_STREAMLIT_APP("USER_INPUT" VARCHAR)
 RETURNS VARCHAR
 LANGUAGE PYTHON
 RUNTIME_VERSION = '3.11'
@@ -1256,7 +1348,7 @@ dependencies:
                 f.write(environment_yml_content)
             
             # Upload both files to Snowflake stage
-            stage_path = ''@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE''
+            stage_path = ''@MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE''
             
             # Upload Python file
             session.file.put(
@@ -1283,8 +1375,8 @@ dependencies:
             warehouse = ''mifibra_demo_wh''
             
             create_streamlit_sql = f"""
-            CREATE OR REPLACE STREAMLIT MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.{app_name}
-                FROM @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE
+            CREATE OR REPLACE STREAMLIT MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_{app_name}
+                FROM @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE
                 MAIN_FILE = ''test.py''
                 QUERY_WAREHOUSE = {warehouse}
             """
@@ -1298,7 +1390,7 @@ dependencies:
                 org_name = account_info[0][''ORG'']
                 
                 # Construct app URL
-                app_url = f"https://app.snowflake.com/{org_name}/{account_name}/#/streamlit-apps/MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.{app_name}"
+                app_url = f"https://app.snowflake.com/{org_name}/{account_name}/#/streamlit-apps/MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_{app_name}"
                 
                 # Return only the URL if successful
                 return app_url
@@ -1311,8 +1403,8 @@ dependencies:
 ⚠️  Warning: Could not auto-create Streamlit app: {str(create_error)}
 
 To create manually, run:
-CREATE OR REPLACE STREAMLIT MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.{app_name}
-    FROM @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.INTERNAL_DATA_STAGE
+CREATE OR REPLACE STREAMLIT MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_{app_name}
+    FROM @MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_INTERNAL_STAGE
     MAIN_FILE = ''test.py''
     QUERY_WAREHOUSE = {warehouse};
 
@@ -1519,56 +1611,56 @@ FROM SPECIFICATION $$
         "type": "warehouse",
         "warehouse": "MIFIBRA_DEMO_WH"
       },
-      "identifier": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.GET_FILE_PRESIGNED_URL_SP",
-      "name": "GET_FILE_PRESIGNED_URL_SP(VARCHAR, DEFAULT NUMBER)",
+      "identifier": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_GET_FILE_PRESIGNED_URL_SP",
+      "name": "MIFIBRA_GET_FILE_PRESIGNED_URL_SP(VARCHAR, DEFAULT NUMBER)",
       "type": "procedure"
     },
     "Query Finance Datamart": {
-      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.FINANCE_SEMANTIC_VIEW"
+      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_FINANCE_SEMANTIC_VIEW"
     },
     "Query HR Datamart": {
-      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.HR_SEMANTIC_VIEW"
+      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_HR_SEMANTIC_VIEW"
     },
     "Query Marketing Datamart": {
-      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MARKETING_SEMANTIC_VIEW"
+      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_MARKETING_SEMANTIC_VIEW"
     },
     "Query Sales Datamart": {
-      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SALES_SEMANTIC_VIEW"
+      "semantic_view": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SALES_SEMANTIC_VIEW"
     },
     "Search Internal Documents: Finance": {
       "id_column": "FILE_URL",
       "max_results": 5,
-      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEARCH_FINANCE_DOCS",
+      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEARCH_FINANCE_DOCS",
       "title_column": "TITLE"
     },
     "Search Internal Documents: HR": {
       "id_column": "FILE_URL",
       "max_results": 5,
-      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEARCH_HR_DOCS",
+      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEARCH_HR_DOCS",
       "title_column": "TITLE"
     },
     "Search Internal Documents: Marketing": {
       "id_column": "RELATIVE_PATH",
       "max_results": 5,
-      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEARCH_MARKETING_DOCS",
+      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEARCH_MARKETING_DOCS",
       "title_column": "TITLE"
     },
     "Search Internal Documents: Sales": {
       "id_column": "FILE_URL",
       "max_results": 5,
-      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEARCH_SALES_DOCS",
+      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEARCH_SALES_DOCS",
       "title_column": "TITLE"
     },
     "Search Internal Documents: Strategy": {
       "id_column": "RELATIVE_PATH",
       "max_results": 5,
-      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEARCH_STRATEGY_DOCS",
+      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEARCH_STRATEGY_DOCS",
       "title_column": "TITLE"
     },
     "Search Internal Documents: Network": {
       "id_column": "RELATIVE_PATH",
       "max_results": 5,
-      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEARCH_NETWORK_DOCS",
+      "name": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEARCH_NETWORK_DOCS",
       "title_column": "TITLE"
     },
     "Send_Emails": {
@@ -1577,8 +1669,8 @@ FROM SPECIFICATION $$
         "type": "warehouse",
         "warehouse": "MIFIBRA_DEMO_WH"
       },
-      "identifier": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.SEND_MAIL",
-      "name": "SEND_MAIL(VARCHAR, VARCHAR, VARCHAR)",
+      "identifier": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_SEND_MAIL",
+      "name": "MIFIBRA_SEND_MAIL(VARCHAR, VARCHAR, VARCHAR)",
       "type": "procedure"
     },
     "Web_scraper": {
@@ -1587,8 +1679,8 @@ FROM SPECIFICATION $$
         "type": "warehouse",
         "warehouse": "MIFIBRA_DEMO_WH"
       },
-      "identifier": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.WEB_SCRAPE",
-      "name": "WEB_SCRAPE(VARCHAR)",
+      "identifier": "MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_WEB_SCRAPE",
+      "name": "MIFIBRA_WEB_SCRAPE(VARCHAR)",
       "type": "function"
     }
   }

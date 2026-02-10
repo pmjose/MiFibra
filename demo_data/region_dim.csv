@@ -1,13 +1,13 @@
-region_key,region_name
-400,Lima
-401,Arequipa
-402,La Libertad
-403,Cusco
-404,Piura
-405,Lambayeque
-406,Cajamarca
-407,Junin
-408,Ancash
-409,Ica
-410,Callao
-411,Loreto
+region_key,region_name,latitude,longitude,capital_city,area_km2
+400,Lima,-12.0464,-77.0428,Lima,34801
+401,Arequipa,-16.4090,-71.5375,Arequipa,63345
+402,La Libertad,-8.1150,-79.0300,Trujillo,25500
+403,Cusco,-13.5300,-71.9675,Cusco,71987
+404,Piura,-5.1945,-80.6328,Piura,35892
+405,Lambayeque,-6.7714,-79.8409,Chiclayo,14231
+406,Cajamarca,-7.1638,-78.5003,Cajamarca,33318
+407,Junin,-12.0651,-75.2049,Huancayo,44197
+408,Ancash,-9.5279,-77.5278,Huaraz,35915
+409,Ica,-14.0678,-75.7286,Ica,21328
+410,Callao,-12.0566,-77.1181,Callao,147
+411,Loreto,-3.7491,-73.2538,Iquitos,368852

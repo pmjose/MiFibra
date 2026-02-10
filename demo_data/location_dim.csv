@@ -1,33 +1,33 @@
-location_key,location_name
-900,Sede Central - San Isidro Lima
-901,Oficina Comercial Miraflores
-902,Centro Operaciones Callao
-903,Centro de Datos Lima Norte
-904,Centro de Datos Lima Sur
-905,Oficina Regional Arequipa
-906,Oficina Regional Trujillo
-907,Oficina Regional Cusco
-908,Oficina Regional Chiclayo
-909,Oficina Regional Piura
-910,Oficina Regional Huancayo
-911,Oficina Regional Ica
-912,Oficina Regional Cajamarca
-913,Call Center San Borja
-914,Call Center Surco
-915,Centro Tecnico Los Olivos
-916,Centro Tecnico Ate
-917,Centro Tecnico San Juan de Lurigancho
-918,Almacen Central Lurin
-919,Almacen Regional Norte
-920,Almacen Regional Sur
-921,Tienda San Isidro
-922,Tienda Miraflores
-923,Tienda Surco
-924,Tienda Plaza Norte
-925,Tienda Mega Plaza
-926,Tienda Mall del Sur
-927,Remoto Peru
-928,Centro de Monitoreo NOC
-929,Data Center Principal
-930,Data Center Backup
-931,Oficina Administrativa Lince
+location_key,location_name,city,department,location_type,latitude,longitude
+900,Sede Central - San Isidro Lima,San Isidro,Lima,Headquarters,-12.0977,-77.0365
+901,Oficina Comercial Miraflores,Miraflores,Lima,Commercial Office,-12.1191,-77.0289
+902,Centro Operaciones Callao,Callao,Callao,Operations Center,-12.0566,-77.1181
+903,Centro de Datos Lima Norte,Los Olivos,Lima,Data Center,-11.9867,-77.0714
+904,Centro de Datos Lima Sur,Villa El Salvador,Lima,Data Center,-12.2125,-76.9361
+905,Oficina Regional Arequipa,Arequipa,Arequipa,Regional Office,-16.3989,-71.5350
+906,Oficina Regional Trujillo,Trujillo,La Libertad,Regional Office,-8.1116,-79.0288
+907,Oficina Regional Cusco,Cusco,Cusco,Regional Office,-13.5183,-71.9781
+908,Oficina Regional Chiclayo,Chiclayo,Lambayeque,Regional Office,-6.7714,-79.8409
+909,Oficina Regional Piura,Piura,Piura,Regional Office,-5.1945,-80.6328
+910,Oficina Regional Huancayo,Huancayo,Junin,Regional Office,-12.0651,-75.2049
+911,Oficina Regional Ica,Ica,Ica,Regional Office,-14.0678,-75.7286
+912,Oficina Regional Cajamarca,Cajamarca,Cajamarca,Regional Office,-7.1638,-78.5003
+913,Call Center San Borja,San Borja,Lima,Call Center,-12.1067,-77.0011
+914,Call Center Surco,Surco,Lima,Call Center,-12.1416,-76.9989
+915,Centro Tecnico Los Olivos,Los Olivos,Lima,Technical Center,-11.9867,-77.0714
+916,Centro Tecnico Ate,Ate,Lima,Technical Center,-12.0267,-76.9183
+917,Centro Tecnico San Juan de Lurigancho,San Juan de Lurigancho,Lima,Technical Center,-11.9833,-76.9989
+918,Almacen Central Lurin,Lurin,Lima,Warehouse,-12.2711,-76.8694
+919,Almacen Regional Norte,Trujillo,La Libertad,Warehouse,-8.1116,-79.0288
+920,Almacen Regional Sur,Arequipa,Arequipa,Warehouse,-16.4090,-71.5375
+921,Tienda San Isidro,San Isidro,Lima,Retail Store,-12.0977,-77.0365
+922,Tienda Miraflores,Miraflores,Lima,Retail Store,-12.1191,-77.0289
+923,Tienda Surco,Surco,Lima,Retail Store,-12.1416,-76.9989
+924,Tienda Plaza Norte,Independencia,Lima,Retail Store,-12.0056,-77.0597
+925,Tienda Mega Plaza,Independencia,Lima,Retail Store,-12.0028,-77.0578
+926,Tienda Mall del Sur,San Juan de Miraflores,Lima,Retail Store,-12.1592,-76.9728
+927,Remoto Peru,Remote,Multiple,Remote Work,-12.0464,-77.0428
+928,Centro de Monitoreo NOC,San Isidro,Lima,NOC,-12.0977,-77.0365
+929,Data Center Principal,Lurin,Lima,Data Center,-12.2711,-76.8694
+930,Data Center Backup,Villa El Salvador,Lima,Data Center,-12.2125,-76.9361
+931,Oficina Administrativa Lince,Lince,Lima,Administrative Office,-12.0833,-77.0333
