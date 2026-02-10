@@ -1429,7 +1429,7 @@ with st.sidebar:
         "Network Status",
         "Marketing",
         "HR & Workforce",
-        "Settings",
+        "Conclusion",
     ]
 
     selected_menu = st.radio(
@@ -7044,24 +7044,11 @@ elif selected_menu == "HR & Workforce":
             </div>
         """), unsafe_allow_html=True)
 
-elif selected_menu == "Settings":
-    st.markdown(dedent("""
-        <div class="mf-hero" style="padding: 36px 40px;">
-            <div class="mf-hero-content">
-                <div class="mf-hero-badge">Config</div>
-                <h1><span>Settings</span></h1>
-                <p>Application configuration and data source management</p>
-            </div>
-        </div>
-    """), unsafe_allow_html=True)
-
-    st.markdown(dedent("""
-        <div class="mf-empty">
-            <div class="mf-empty-icon">⚙️</div>
-            <h3>Settings</h3>
-            <p>Application settings and Snowflake connection configuration.</p>
-        </div>
-    """), unsafe_allow_html=True)
+elif selected_menu == "Conclusion":
+    st.image(
+        "https://raw.githubusercontent.com/pmjose/MiFibra/main/image/gemini.png",
+        use_container_width=True,
+    )
 
 # ---------------------------------------------------------------------------
 # Footer (matches mifibra.pe footer)
