@@ -99,22 +99,16 @@ use role MiFibra_Demo;
     ALTER GIT REPOSITORY MIFIBRA_AI_DEMO_REPO FETCH;
 
     -- ========================================================================
-    -- COPY DATA FROM GIT TO INTERNAL STAGE
+    -- COPY UNSTRUCTURED DOCS FROM GIT TO INTERNAL STAGE
+    -- (Required for PARSE_DOCUMENT - CSV data loads directly from Git)
     -- ========================================================================
 
-    -- Copy all CSV files from Git repository demo_data folder to internal stage
-    COPY FILES
-    INTO @MIFIBRA_INTERNAL_STAGE/demo_data/
-    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/;
-
-
+    -- Copy unstructured docs (PDF, DOCX, etc.) to internal stage for parsing
     COPY FILES
     INTO @MIFIBRA_INTERNAL_STAGE/unstructured_docs/
     FROM @MIFIBRA_AI_DEMO_REPO/branches/main/unstructured_docs/;
 
-    -- Verify files were copied
-    LS @MIFIBRA_INTERNAL_STAGE;
-
+    -- Refresh stage directory
     ALTER STAGE MIFIBRA_INTERNAL_STAGE refresh;
 
   
@@ -379,85 +373,85 @@ use role MiFibra_Demo;
 
     -- Load Product Category Dimension
     COPY INTO MIFIBRA_PRODUCT_CATEGORY_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/product_category_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/product_category_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Product Dimension
     COPY INTO MIFIBRA_PRODUCT_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/product_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/product_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Vendor Dimension
     COPY INTO MIFIBRA_VENDOR_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/vendor_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/vendor_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Customer Dimension
     COPY INTO MIFIBRA_CUSTOMER_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/customer_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/customer_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Account Dimension
     COPY INTO MIFIBRA_ACCOUNT_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/account_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/account_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Department Dimension
     COPY INTO MIFIBRA_DEPARTMENT_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/department_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/department_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Region Dimension
     COPY INTO MIFIBRA_REGION_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/region_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/region_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Sales Rep Dimension
     COPY INTO MIFIBRA_SALES_REP_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/sales_rep_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/sales_rep_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Campaign Dimension
     COPY INTO MIFIBRA_CAMPAIGN_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/campaign_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/campaign_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Channel Dimension
     COPY INTO MIFIBRA_CHANNEL_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/channel_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/channel_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Employee Dimension
     COPY INTO MIFIBRA_EMPLOYEE_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/employee_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/employee_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Job Dimension
     COPY INTO MIFIBRA_JOB_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/job_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/job_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Location Dimension
     COPY INTO MIFIBRA_LOCATION_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/location_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/location_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Network Status Dimension
     COPY INTO MIFIBRA_NETWORK_STATUS_DIM
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/network_status_dim.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/network_status_dim.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
@@ -467,25 +461,25 @@ use role MiFibra_Demo;
 
     -- Load Sales Fact
     COPY INTO MIFIBRA_SALES_FACT
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/sales_fact.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/sales_fact.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Finance Transactions
     COPY INTO MIFIBRA_FINANCE_TRANSACTIONS
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/finance_transactions.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/finance_transactions.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Marketing Campaign Fact
     COPY INTO MIFIBRA_MARKETING_CAMPAIGN_FACT
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/marketing_campaign_fact.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/marketing_campaign_fact.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load HR Employee Fact
     COPY INTO MIFIBRA_HR_EMPLOYEE_FACT
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/hr_employee_fact.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/hr_employee_fact.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
@@ -495,19 +489,19 @@ use role MiFibra_Demo;
 
     -- Load Salesforce Accounts
     COPY INTO MIFIBRA_SF_ACCOUNTS
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/sf_accounts.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/sf_accounts.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Salesforce Opportunities
     COPY INTO MIFIBRA_SF_OPPORTUNITIES
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/sf_opportunities.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/sf_opportunities.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
     -- Load Salesforce Contacts
     COPY INTO MIFIBRA_SF_CONTACTS
-    FROM @MIFIBRA_INTERNAL_STAGE/demo_data/sf_contacts.csv
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/sf_contacts.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
