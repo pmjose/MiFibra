@@ -84,7 +84,7 @@ GRANT USAGE ON INTEGRATION MIFIBRA_GIT_API_INTEGRATION TO ROLE MiFibra_Demo;
 
 
 use role MiFibra_Demo;
-    -- Create Git repository integration for the Eutelsat UK demo repository
+    -- Create Git repository integration for the MiFibra Peru demo repository
     CREATE OR REPLACE GIT REPOSITORY MIFIBRA_AI_DEMO_REPO
         API_INTEGRATION = mifibra_git_api_integration
         ORIGIN = 'https://github.com/pmjose/MiFibra.git';
@@ -140,8 +140,8 @@ use role MiFibra_Demo;
         vertical VARCHAR(50) NOT NULL,
         address VARCHAR(200),
         city VARCHAR(100),
-        state VARCHAR(10),
-        zip VARCHAR(20)
+        county VARCHAR(100),
+        postcode VARCHAR(20)
     );
 
     -- Customer Dimension
@@ -253,6 +253,38 @@ use role MiFibra_Demo;
         longitude FLOAT
     );
 
+    -- Network Incidents Fact Table
+    CREATE OR REPLACE TABLE MIFIBRA_NETWORK_INCIDENTS_FACT (
+        incident_id INT PRIMARY KEY,
+        node_id INT NOT NULL,
+        region_key INT NOT NULL,
+        incident_date DATE NOT NULL,
+        incident_type VARCHAR(100),
+        severity VARCHAR(50),
+        status VARCHAR(50),
+        affected_subscribers INT,
+        duration_hours FLOAT,
+        root_cause VARCHAR(200),
+        resolution VARCHAR(200),
+        reported_by VARCHAR(100),
+        resolved_by VARCHAR(100)
+    );
+
+    -- Network Maintenance Schedule Table
+    CREATE OR REPLACE TABLE MIFIBRA_NETWORK_MAINTENANCE_SCHEDULE (
+        maintenance_id INT PRIMARY KEY,
+        node_id INT NOT NULL,
+        region_key INT NOT NULL,
+        scheduled_date DATE NOT NULL,
+        maintenance_type VARCHAR(100),
+        duration_hours FLOAT,
+        affected_subscribers_estimate INT,
+        status VARCHAR(50),
+        description VARCHAR(500),
+        assigned_team VARCHAR(100),
+        impact_level VARCHAR(50)
+    );
+
     -- ========================================================================
     -- FACT TABLES
     -- ========================================================================
@@ -354,7 +386,6 @@ use role MiFibra_Demo;
     -- Salesforce Contacts Table
     CREATE OR REPLACE TABLE MIFIBRA_SF_CONTACTS (
         contact_id VARCHAR(20) PRIMARY KEY,
-        opportunity_id VARCHAR(20) NOT NULL,
         account_id VARCHAR(20) NOT NULL,
         first_name VARCHAR(100),
         last_name VARCHAR(100),
@@ -362,8 +393,6 @@ use role MiFibra_Demo;
         phone VARCHAR(50),
         title VARCHAR(100),
         department VARCHAR(100),
-        lead_source VARCHAR(100),
-        campaign_no INT,
         created_date DATE
     );
 
@@ -452,6 +481,18 @@ use role MiFibra_Demo;
     -- Load Network Status Dimension
     COPY INTO MIFIBRA_NETWORK_STATUS_DIM
     FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/network_status_dim.csv
+    FILE_FORMAT = MIFIBRA_CSV_FORMAT
+    ON_ERROR = 'CONTINUE';
+
+    -- Load Network Incidents Fact
+    COPY INTO MIFIBRA_NETWORK_INCIDENTS_FACT
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/network_incidents_fact.csv
+    FILE_FORMAT = MIFIBRA_CSV_FORMAT
+    ON_ERROR = 'CONTINUE';
+
+    -- Load Network Maintenance Schedule
+    COPY INTO MIFIBRA_NETWORK_MAINTENANCE_SCHEDULE
+    FROM @MIFIBRA_AI_DEMO_REPO/branches/main/demo_data/network_maintenance_schedule.csv
     FILE_FORMAT = MIFIBRA_CSV_FORMAT
     ON_ERROR = 'CONTINUE';
 
@@ -717,7 +758,6 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_MARKETING
     CAMPAIGN_DETAILS as MIFIBRA_CAMPAIGN_DIM primary key (CAMPAIGN_KEY) with synonyms=('campaign info','campaign details') comment='Campaign dimension with objectives and names',
     CHANNELS as MIFIBRA_CHANNEL_DIM primary key (CHANNEL_KEY) with synonyms=('marketing channels','channels') comment='Marketing channel information',
     CONTACTS as MIFIBRA_SF_CONTACTS primary key (CONTACT_ID) with synonyms=('leads','contacts','prospects') comment='Contact records generated from marketing campaigns',
-    CONTACTS_FOR_OPPORTUNITIES as MIFIBRA_SF_CONTACTS primary key (CONTACT_ID) with synonyms=('opportunity contacts') comment='Contact records generated from marketing campaigns, specifically for opportunities, not leads',
     OPPORTUNITIES as MIFIBRA_SF_OPPORTUNITIES primary key (OPPORTUNITY_ID) with synonyms=('deals','opportunities','sales pipeline') comment='Sales opportunities and revenue data',
     PRODUCTS as MIFIBRA_PRODUCT_DIM primary key (PRODUCT_KEY) with synonyms=('products','items') comment='Product dimension for campaign-specific analysis',
     REGIONS as MIFIBRA_REGION_DIM primary key (REGION_KEY) with synonyms=('territories','regions','markets') comment='Regional information for campaign analysis'
@@ -728,8 +768,6 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_MARKETING
     CAMPAIGNS_TO_PRODUCTS as CAMPAIGNS(PRODUCT_KEY) references PRODUCTS(PRODUCT_KEY),
     CAMPAIGNS_TO_REGIONS as CAMPAIGNS(REGION_KEY) references REGIONS(REGION_KEY),
     CONTACTS_TO_ACCOUNTS as CONTACTS(ACCOUNT_ID) references ACCOUNTS(ACCOUNT_ID),
-    CONTACTS_TO_CAMPAIGNS as CONTACTS(CAMPAIGN_NO) references CAMPAIGNS(CAMPAIGN_FACT_ID),
-    CONTACTS_TO_OPPORTUNITIES as CONTACTS_FOR_OPPORTUNITIES(OPPORTUNITY_ID) references OPPORTUNITIES(OPPORTUNITY_ID),
     OPPORTUNITIES_TO_ACCOUNTS as OPPORTUNITIES(ACCOUNT_ID) references ACCOUNTS(ACCOUNT_ID),
     OPPORTUNITIES_TO_CAMPAIGNS as OPPORTUNITIES(CAMPAIGN_ID) references CAMPAIGNS(CAMPAIGN_FACT_ID)
   )
@@ -764,14 +802,11 @@ create or replace semantic view MIFIBRA_AI_DEMO.MIFIBRA_SCHEMA.MIFIBRA_MARKETING
     PUBLIC CHANNELS.CHANNEL_KEY as CHANNEL_KEY,
     PUBLIC CHANNELS.CHANNEL_NAME as CHANNEL_NAME with synonyms=('channel','marketing channel') comment='Name of the marketing channel',
     PUBLIC CONTACTS.ACCOUNT_ID as ACCOUNT_ID,
-    PUBLIC CONTACTS.CAMPAIGN_NO as CAMPAIGN_NO,
     PUBLIC CONTACTS.CONTACT_ID as CONTACT_ID,
     PUBLIC CONTACTS.DEPARTMENT as DEPARTMENT with synonyms=('department','business unit') comment='Contact department',
     PUBLIC CONTACTS.EMAIL as EMAIL with synonyms=('email','email address') comment='Contact email address',
     PUBLIC CONTACTS.FIRST_NAME as FIRST_NAME with synonyms=('first name','contact name') comment='Contact first name',
     PUBLIC CONTACTS.LAST_NAME as LAST_NAME with synonyms=('last name','surname') comment='Contact last name',
-    PUBLIC CONTACTS.LEAD_SOURCE as LEAD_SOURCE with synonyms=('lead source','source') comment='How the contact was generated',
-    PUBLIC CONTACTS.OPPORTUNITY_ID as OPPORTUNITY_ID,
     PUBLIC CONTACTS.TITLE as TITLE with synonyms=('job title','position') comment='Contact job title',
     PUBLIC OPPORTUNITIES.ACCOUNT_ID as ACCOUNT_ID,
     PUBLIC OPPORTUNITIES.CAMPAIGN_ID as CAMPAIGN_ID with synonyms=('campaign fact id','marketing campaign id') comment='Campaign fact ID that links opportunity to marketing campaign',

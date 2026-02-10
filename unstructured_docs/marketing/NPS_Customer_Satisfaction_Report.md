@@ -1,9 +1,9 @@
 # Customer Satisfaction Report Q4 2024
-**Eutelsat Communications - NPS and Customer Experience Analysis**
+**MiFibra Communications - NPS and Customer Experience Analysis**
 
 ## Executive Summary
 
-Q4 2024 customer satisfaction remained strong with overall NPS of +45, up 3 points from Q3. Partner satisfaction reached +52, demonstrating Eutelsat's commitment to the channel-first model. Key improvement areas include onboarding speed and contact centre features.
+Q4 2024 customer satisfaction remained strong with overall NPS of +45, up 3 points from Q3. Partner satisfaction reached +52, demonstrating MiFibra's commitment to the channel-first model. Key improvement areas include onboarding speed and contact centre features.
 
 ---
 
@@ -39,7 +39,7 @@ Q4 2024 customer satisfaction remained strong with overall NPS of +45, up 3 poin
 | Sales Process | 4.5/5 | +0.1 | Partner quality |
 | Onboarding | 4.0/5 | +0.2 | Speed improvement |
 | Product Usage | 4.3/5 | +0.1 | Feature enhancements |
-| Support | 4.4/5 | +0.1 | UK-based team |
+| Support | 4.4/5 | +0.1 | Peru-based team |
 | Billing | 4.1/5 | +0.2 | Portal improvements |
 | Account Management | 4.5/5 | 0 | Stable |
 
@@ -108,9 +108,9 @@ Q4 2024 customer satisfaction remained strong with overall NPS of +45, up 3 poin
 
 | Theme | Frequency | Example |
 |-------|-----------|---------|
-| Partner support | 28% | "Eutelsat treats us as partners, not just resellers" |
+| Partner support | 28% | "MiFibra treats us as partners, not just resellers" |
 | Product reliability | 24% | "Horizon just works - no complaints from our customers" |
-| UK-based support | 18% | "Speaking to someone in the UK who understands our needs" |
+| Peru-based support | 18% | "Speaking to someone in the Peru who understands our needs" |
 | Competitive pricing | 15% | "Fair margins that make the business work" |
 | Innovation | 8% | "Regular updates and new features" |
 
@@ -132,15 +132,15 @@ Q4 2024 customer satisfaction remained strong with overall NPS of +45, up 3 poin
 
 | Provider | Customer NPS | Partner NPS |
 |----------|--------------|-------------|
-| **Eutelsat** | +45 | +52 |
-| 8x8 | +28 | +32 |
-| RingCentral | +32 | +18 |
+| **MiFibra** | +45 | +52 |
+| GTD Peru | +28 | +32 |
+| Americatel | +32 | +18 |
 | Mitel | +22 | +38 |
 | Industry Average | +30 | +35 |
 
 ### NPS Leadership Factors
 
-| Factor | Eutelsat Score | Industry Avg |
+| Factor | MiFibra Score | Industry Avg |
 |--------|-------------|--------------|
 | Partner relationship | 4.5/5 | 3.8/5 |
 | Product reliability | 4.4/5 | 4.0/5 |
@@ -179,9 +179,9 @@ Q4 2024 customer satisfaction remained strong with overall NPS of +45, up 3 poin
 
 | NPS Range | Churn Rate | Revenue at Risk |
 |-----------|------------|-----------------|
-| Promoters (9-10) | 0.4% | £2M |
-| Passives (7-8) | 1.2% | £5M |
-| Detractors (0-6) | 4.5% | £3M |
+| Promoters (9-10) | 0.4% | S/2M |
+| Passives (7-8) | 1.2% | S/5M |
+| Detractors (0-6) | 4.5% | S/3M |
 
 ### At-Risk Customer Identification
 

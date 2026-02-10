@@ -1,9 +1,9 @@
 # ESG and Sustainability Report 2024
-**Eutelsat Communications PLC**
+**MiFibra Communications PLC**
 
 ## Executive Summary
 
-Eutelsat is committed to responsible business practices and sustainable growth. This report outlines our Environmental, Social, and Governance (ESG) performance in 2024, demonstrating progress towards our Net Zero 2040 target and commitment to stakeholder value.
+MiFibra is committed to responsible business practices and sustainable growth. This report outlines our Environmental, Social, and Governance (ESG) performance in 2024, demonstrating progress towards our Net Zero 2040 target and commitment to stakeholder value.
 
 ---
 
@@ -22,7 +22,7 @@ Eutelsat is committed to responsible business practices and sustainable growth. 
 
 | Metric | 2024 | 2023 | Target 2025 |
 |--------|------|------|-------------|
-| tCO2e per £M revenue | 10.5 | 12.8 | 9.0 |
+| tCO2e per S/M revenue | 10.5 | 12.8 | 9.0 |
 | tCO2e per employee | 5.8 | 7.0 | 5.0 |
 | tCO2e per customer | 0.05 | 0.07 | 0.04 |
 
@@ -52,10 +52,10 @@ Eutelsat is committed to responsible business practices and sustainable growth. 
 
 | Initiative | Investment | Impact |
 |------------|------------|--------|
-| Data centre efficiency | £500K | -300 tCO2e |
-| EV fleet transition | £250K | -80 tCO2e |
-| Remote working | £0 | -450 tCO2e |
-| Green procurement | £100K | -200 tCO2e |
+| Data centre efficiency | S/500K | -300 tCO2e |
+| EV fleet transition | S/250K | -80 tCO2e |
+| Remote working | S/0 | -450 tCO2e |
+| Green procurement | S/100K | -200 tCO2e |
 
 ---
 
@@ -63,7 +63,7 @@ Eutelsat is committed to responsible business practices and sustainable growth. 
 
 ### Cloud Migration Benefits
 
-By helping customers migrate to cloud communications, Eutelsat enables significant carbon savings:
+By helping customers migrate to cloud communications, MiFibra enables significant carbon savings:
 
 | Metric | Customer Impact |
 |--------|-----------------|
@@ -116,11 +116,11 @@ By helping customers migrate to cloud communications, Eutelsat enables significa
 
 | Programme | Investment | Impact |
 |-----------|------------|--------|
-| Digital skills training | £150K | 2,500 people |
-| STEM education | £75K | 50 schools |
-| Charity partnerships | £200K | 15 charities |
-| Employee volunteering | £50K | 1,200 hours |
-| **Total** | **£475K** | - |
+| Digital skills training | S/150K | 2,500 people |
+| STEM education | S/75K | 50 schools |
+| Charity partnerships | S/200K | 15 charities |
+| Employee volunteering | S/50K | 1,200 hours |
+| **Total** | **S/475K** | - |
 
 ### Charity Partners
 
@@ -208,7 +208,7 @@ By helping customers migrate to cloud communications, Eutelsat enables significa
 
 ### Materiality Assessment
 
-| Topic | Stakeholder Priority | Eutelsat Priority |
+| Topic | Stakeholder Priority | MiFibra Priority |
 |-------|---------------------|----------------|
 | Data privacy | High | High |
 | Carbon emissions | High | High |
@@ -279,4 +279,4 @@ Climate risks are integrated into the enterprise risk framework. Key risks inclu
 **Report Period**: FY 2024  
 **GRI Standards**: Core option  
 **External Assurance**: Limited assurance on carbon data  
-**Contact**: sustainability@eutelsat.co.uk
+**Contact**: sustainability@mifibra.pe

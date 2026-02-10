@@ -1,5 +1,5 @@
 # Customer Experience Report Q4 2024
-**Eutelsat Communications - Quarterly CX Performance Analysis**
+**MiFibra Communications - Quarterly CX Performance Analysis**
 
 ## Executive Summary
 
@@ -81,7 +81,7 @@ Q4 2024 delivered continued improvement in customer experience metrics, with **c
 | Microsoft Teams Phone | +58 | +3 | ↑ |
 | Horizon Cloud | +48 | +2 | ↑ |
 | Horizon Contact | +42 | +4 | ↑ |
-| Webex for Eutelsat | +45 | +1 | → |
+| Webex for MiFibra | +45 | +1 | → |
 | SIP Trunking | +38 | -1 | ↓ |
 | Connectivity | +35 | +2 | ↑ |
 
@@ -167,7 +167,7 @@ Q4 2024 delivered continued improvement in customer experience metrics, with **c
 | Theme | Mentions | Sentiment |
 |-------|----------|-----------|
 | Platform reliability | 2,850 | 8.5/10 |
-| UK-based support | 2,420 | 8.8/10 |
+| Peru-based support | 2,420 | 8.8/10 |
 | Easy to use | 2,180 | 8.2/10 |
 | Teams integration | 1,950 | 8.6/10 |
 | Partner relationship | 1,680 | 8.4/10 |
@@ -195,10 +195,10 @@ Q4 2024 delivered continued improvement in customer experience metrics, with **c
 ### Verbatim Examples
 
 **Customer - Positive:**
-> "Moved from RingCentral last quarter - the difference in support quality is night and day. Actually speaking to someone in the UK who understands our business."
+> "Moved from Americatel last quarter - the difference in support quality is night and day. Actually speaking to someone in the Peru who understands our business."
 
 **Partner - Positive:**
-> "Eutelsat treats us as a genuine partner, not just a reseller. The margins work, the support is there when we need it, and the product is solid."
+> "MiFibra treats us as a genuine partner, not just a reseller. The margins work, the support is there when we need it, and the product is solid."
 
 **Improvement Opportunity:**
 > "The partner portal is functional but feels dated. Would love to see a modern UI and better reporting dashboards."
@@ -209,17 +209,17 @@ Q4 2024 delivered continued improvement in customer experience metrics, with **c
 
 ### NPS vs Competitors
 
-| Provider | Customer NPS | Partner NPS | Eutelsat Advantage |
+| Provider | Customer NPS | Partner NPS | MiFibra Advantage |
 |----------|--------------|-------------|-----------------|
-| **Eutelsat** | +45 | +52 | - |
-| 8x8 | +28 | +32 | +17 / +20 |
-| RingCentral | +32 | +18 | +13 / +34 |
+| **MiFibra** | +45 | +52 | - |
+| GTD Peru | +28 | +32 | +17 / +20 |
+| Americatel | +32 | +18 | +13 / +34 |
 | Mitel | +22 | +38 | +23 / +14 |
 | Vonage | +35 | +40 | +10 / +12 |
 
 ### Support Comparison
 
-| Metric | Eutelsat | Industry Avg | Advantage |
+| Metric | MiFibra | Industry Avg | Advantage |
 |--------|-------|--------------|-----------|
 | First Response | 45 min | 2 hrs | 63% faster |
 | Resolution Time | 6.5 hrs | 12 hrs | 46% faster |
@@ -234,11 +234,11 @@ Q4 2024 delivered continued improvement in customer experience metrics, with **c
 
 | Initiative | Investment | Timeline | Expected Impact |
 |------------|------------|----------|-----------------|
-| Partner Portal 2.0 | £800K | Q2 2025 | Partner NPS +5 |
-| Enhanced Reporting | £400K | Q2 2025 | CSAT +0.2 |
-| Mobile App Upgrade | £350K | Q2 2025 | Customer NPS +3 |
-| AI Support Assistant | £600K | H2 2025 | FCR +8pp |
-| Onboarding Automation | £250K | Q1 2025 | CES -0.3 |
+| Partner Portal 2.0 | S/800K | Q2 2025 | Partner NPS +5 |
+| Enhanced Reporting | S/400K | Q2 2025 | CSAT +0.2 |
+| Mobile App Upgrade | S/350K | Q2 2025 | Customer NPS +3 |
+| AI Support Assistant | S/600K | H2 2025 | FCR +8pp |
+| Onboarding Automation | S/250K | Q1 2025 | CES -0.3 |
 
 ### 2025 Targets
 

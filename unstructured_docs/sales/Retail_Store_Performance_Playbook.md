@@ -1,9 +1,9 @@
 # Channel Partner Performance Playbook
-**Eutelsat Communications - Partner Excellence Guide**
+**MiFibra Communications - Partner Excellence Guide**
 
 ## Executive Summary
 
-This playbook provides performance benchmarks, best practices, and improvement strategies for Eutelsat channel partners. Based on analysis of our top 100 partners, this guide outlines the characteristics of high-performing partners and pathways to excellence.
+This playbook provides performance benchmarks, best practices, and improvement strategies for MiFibra channel partners. Based on analysis of our top 100 partners, this guide outlines the characteristics of high-performing partners and pathways to excellence.
 
 ---
 
@@ -13,8 +13,8 @@ This playbook provides performance benchmarks, best practices, and improvement s
 
 | Metric | Platinum | Gold | Silver | Registered |
 |--------|----------|------|--------|------------|
-| Monthly Seats | 50+ | 20+ | 5+ | Any |
-| ARR | £3M+ | £500K+ | £100K+ | Active |
+| Monthly Subscribers | 50+ | 20+ | 5+ | Any |
+| ARR | S/3M+ | S/500K+ | S/100K+ | Active |
 | Growth Rate | 20%+ | 15%+ | 10%+ | Positive |
 | Customer NPS | 50+ | 45+ | 40+ | 35+ |
 | Churn Rate | <0.8% | <1.0% | <1.2% | <1.5% |
@@ -40,7 +40,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 
 | Element | Best Practice | Impact |
 |---------|---------------|--------|
-| Trained salespeople | 1 per £200K ARR | +25% growth |
+| Trained salespeople | 1 per S/200K ARR | +25% growth |
 | Product knowledge | Monthly updates | +15% win rate |
 | Competitive awareness | Battle cards used | +10% wins |
 | Solution selling | Needs-based approach | +20% deal size |
@@ -49,7 +49,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 
 | Element | Best Practice | Impact |
 |---------|---------------|--------|
-| Certified engineers | 1 per £150K ARR | -30% escalations |
+| Certified engineers | 1 per S/150K ARR | -30% escalations |
 | Demo environment | Full product suite | +35% close rate |
 | Pre-sales support | Qualified resources | +25% win rate |
 | Implementation | Trained team | +20 NPS points |
@@ -70,7 +70,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 | MDF utilisation | 100% of allocation | +30% leads |
 | Co-marketing | 2+ campaigns/quarter | +25% pipeline |
 | Content creation | Case studies, blogs | +20% credibility |
-| Event participation | Eutelsatverse + local | +15% relationships |
+| Event participation | MiFibra Connect + local | +15% relationships |
 
 #### 5. Operational Excellence
 
@@ -90,9 +90,9 @@ This playbook provides performance benchmarks, best practices, and improvement s
 | Milestone | Requirements | Support Available |
 |-----------|--------------|-------------------|
 | First 5 deals | Sales training complete | Fast-start programme |
-| £50K ARR | 2 certified staff | Technical mentorship |
+| S/50K ARR | 2 certified staff | Technical mentorship |
 | 5+ customers | Customer success process | Template library |
-| £100K ARR | Stable growth | Silver upgrade |
+| S/100K ARR | Stable growth | Silver upgrade |
 
 ### From Silver to Gold
 
@@ -101,7 +101,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 | Consistent growth | 15%+ monthly | Growth planning |
 | Technical depth | 3+ certified | Advanced training |
 | Marketing activity | MDF participation | Campaign support |
-| £500K ARR | Strong NPS | Gold upgrade |
+| S/500K ARR | Strong NPS | Gold upgrade |
 
 ### From Gold to Platinum
 
@@ -110,7 +110,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 | Market leadership | Regional or vertical | Co-investment |
 | Full capability | Demo lab, Tier 1 support | Premium resources |
 | Strategic alignment | Joint planning | Exec sponsorship |
-| £3M+ ARR | Excellence across metrics | Platinum upgrade |
+| S/3M+ ARR | Excellence across metrics | Platinum upgrade |
 
 ---
 
@@ -174,7 +174,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 
 | Metric | Performance |
 |--------|-------------|
-| ARR | £6.2M |
+| ARR | S/6.2M |
 | Growth | +25% YoY |
 | Customer NPS | +58 |
 | Churn | 0.5% |
@@ -185,13 +185,13 @@ This playbook provides performance benchmarks, best practices, and improvement s
 - Full demo environment
 - 100% MDF utilisation
 - Proactive QBRs with all customers
-- Dedicated Eutelsat product manager
+- Dedicated MiFibra product manager
 
 ### Turnaround Example: Partner X
 
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| ARR | £180K | £420K | +133% |
+| ARR | S/180K | S/420K | +133% |
 | Churn | 2.1% | 0.9% | -57% |
 | NPS | +32 | +48 | +16 |
 | Certifications | 1 | 5 | +400% |
@@ -211,7 +211,7 @@ This playbook provides performance benchmarks, best practices, and improvement s
 
 | Resource | Access | Purpose |
 |----------|--------|---------|
-| Eutelsat Academy | Portal | Self-paced learning |
+| MiFibra Academy | Portal | Self-paced learning |
 | Live training | Monthly | Interactive sessions |
 | Technical labs | Portal | Hands-on practice |
 | Certification exams | Portal | Validation |
@@ -241,10 +241,10 @@ This playbook provides performance benchmarks, best practices, and improvement s
 | Function | Contact | Purpose |
 |----------|---------|---------|
 | Channel Account Manager | Assigned | Day-to-day support |
-| Technical Pre-Sales | presales@eutelsat.co.uk | Solution design |
-| Partner Support | partnersupport@eutelsat.co.uk | Operational issues |
-| Partner Marketing | partnermarketing@eutelsat.co.uk | MDF, campaigns |
-| Partner Academy | academy@eutelsat.co.uk | Training, certification |
+| Technical Pre-Sales | presales@mifibra.pe | Solution design |
+| Partner Support | partnersupport@mifibra.pe | Operational issues |
+| Partner Marketing | partnermarketing@mifibra.pe | MDF, campaigns |
+| Partner Academy | academy@mifibra.pe | Training, certification |
 
 ---
 

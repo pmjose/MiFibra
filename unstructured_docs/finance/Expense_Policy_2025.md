@@ -43,7 +43,7 @@ All expenses must be pre-approved according to established authorization limits 
 
 ### Accommodation
 - **Daily Limits by City Tier**:
-  - Tier 1 Cities (NYC, SF, London): $350/night
+  - Tier 1 Cities (NYC, SF, Lima): $350/night
   - Tier 2 Cities (Chicago, Boston, Seattle): $250/night
   - Tier 3 Cities (Other major cities): $180/night
   - Tier 4 Cities (Smaller cities): $120/night

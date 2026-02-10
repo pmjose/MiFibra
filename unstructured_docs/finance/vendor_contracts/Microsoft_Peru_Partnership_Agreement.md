@@ -1,15 +1,15 @@
-# Microsoft UK Partnership Agreement
-**Eutelsat Communications PLC - Strategic Technology Partner**
+# Microsoft Peru Partnership Agreement
+**MiFibra Communications PLC - Strategic Technology Partner**
 
 ## Agreement Summary
 
 | Field | Details |
 |-------|---------|
 | Agreement Type | Operator Connect Partner Agreement |
-| Parties | Eutelsat Communications PLC / Microsoft Corporation |
+| Parties | MiFibra Communications PLC / Microsoft Corporation |
 | Effective Date | 1 January 2023 |
 | Term | 3 years (auto-renewal) |
-| Total Commitment | £15M technology investment |
+| Total Commitment | S/15M technology investment |
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### Products Covered
 
-| Product | Description | Eutelsat Role |
+| Product | Description | MiFibra Role |
 |---------|-------------|------------|
 | Microsoft Teams Phone | Enterprise voice for Teams | Operator Connect Partner |
 | Microsoft 365 | Productivity integration | Integration Partner |
@@ -37,7 +37,7 @@
 
 ### Revenue Share Model
 
-| Product | Eutelsat Margin | Microsoft Share |
+| Product | MiFibra Margin | Microsoft Share |
 |---------|--------------|-----------------|
 | Teams Phone (calling) | 35% | 65% |
 | Direct Routing | 100% | 0% |
@@ -48,9 +48,9 @@
 
 | Metric | Year 1 | Year 2 | Year 3 |
 |--------|--------|--------|--------|
-| Teams Phone Seats | 50,000 | 100,000 | 150,000 |
+| Teams Phone Subscribers | 50,000 | 100,000 | 150,000 |
 | Active Partners | 100 | 150 | 200 |
-| Azure Consumption | £1M | £2M | £3M |
+| Azure Consumption | S/1M | S/2M | S/3M |
 
 ---
 
@@ -81,19 +81,19 @@
 
 ### Co-Marketing Investment
 
-| Activity | Microsoft Contribution | Eutelsat Match |
+| Activity | Microsoft Contribution | MiFibra Match |
 |----------|------------------------|-------------|
-| Campaign fund | £250K/year | £250K |
-| Events | £100K/year | £100K |
-| Content | £50K/year | £50K |
-| Training | £50K/year | £100K |
+| Campaign fund | S/250K/year | S/250K |
+| Events | S/100K/year | S/100K |
+| Content | S/50K/year | S/50K |
+| Training | S/50K/year | S/100K |
 
 ### Joint Activities
 
 | Activity | Frequency | Owner |
 |----------|-----------|-------|
 | Partner roadshows | Quarterly | Joint |
-| Webinar series | Monthly | Eutelsat-led |
+| Webinar series | Monthly | MiFibra-led |
 | Case studies | Quarterly | Joint |
 | Sales training | Bi-annual | Microsoft-led |
 
@@ -103,9 +103,9 @@
 
 ### Relationship Management
 
-| Role | Microsoft | Eutelsat |
+| Role | Microsoft | MiFibra |
 |------|-----------|-------|
-| Executive Sponsor | UK Comms Director | CCO |
+| Executive Sponsor | Peru Comms Director | CCO |
 | Account Manager | Partner Manager | Alliance Director |
 | Technical Lead | Teams Architect | CTO |
 | Operations | Support Manager | Ops Director |
@@ -124,7 +124,7 @@
 
 ### Data Protection
 
-- All data processed within UK/EU
+- All data processed within Peru/EU
 - DPA (Data Processing Agreement) in place
 - GDPR compliance certified
 - Regular audits required

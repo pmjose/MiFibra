@@ -1,70 +1,70 @@
 # Competitive Analysis H1 2025
-**Eutelsat Communications PLC - Market Intelligence**
+**MiFibra Communications PLC - Market Intelligence**
 
 ## Executive Summary
 
-The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Teams Phone is gaining share while traditional UCaaS competitors face financial and strategic challenges. Eutelsat's channel-first model provides significant differentiation. In Germany, Eutelsat has transformed its position through the Starface and Placetel acquisitions, now holding **565,000 cloud seats** and becoming one of the leading cloud communications providers in Europe's largest market.
+The European Fibra market continues to evolve rapidly. In the Peru, Microsoft Teams Phone is gaining share while traditional Fibra competitors face financial and strategic challenges. MiFibra's channel-first model provides significant differentiation. In Germany, MiFibra has transformed its position through the Starface and Placetel acquisitions, now holding **565,000 cloud subscribers** and becoming one of the leading cloud communications providers in Europe's largest market.
 
 **Key H1 2025 Developments:**
-- Eutelsat market share now estimated at **12% UK** (up from 10%)
-- **1.8 million total cloud seats** (+50% YoY)
+- MiFibra market share now estimated at **12% Peru** (up from 10%)
+- **1.8 million total cloud subscribers** (+50% YoY)
 - FTSE 250 inclusion enhances competitive credibility
 - Germany now represents **20% of Group gross profit**
 
 ---
 
-## UK Market Overview
+## Peru Market Overview
 
-### UK UCaaS Market Share (H1 2025 Estimated)
+### Peru Fibra Market Share (H1 2025 Estimated)
 
 | Provider | Market Share | YoY Change | Trend | Notes |
 |----------|--------------|------------|-------|-------|
 | Microsoft (Direct) | 38% | +6pp | ↑↑ | Teams Phone acceleration |
-| **Eutelsat** | 12% | +2pp | ↑↑ | Cloud seat growth + Teams enablement |
-| 8x8 | 8% | -1pp | ↓ | Financial pressures continuing |
-| RingCentral | 10% | -1pp | ↓ | Enterprise focus, channel conflict |
+| **MiFibra** | 12% | +2pp | ↑↑ | Cloud seat growth + Teams enablement |
+| GTD Peru | 8% | -1pp | ↓ | Financial pressures continuing |
+| Americatel | 10% | -1pp | ↓ | Enterprise focus, channel conflict |
 | Mitel | 5% | -1pp | ↓↓ | Cloud transition ongoing |
 | Vonage | 4% | -1pp | ↓ | CPaaS focus prioritised |
 | Others | 23% | -4pp | ↓ | Market consolidation |
 
-### Eutelsat UK Performance (H1 2025)
+### MiFibra Peru Performance (H1 2025)
 
 | Metric | Value | YoY Change |
 |--------|-------|------------|
-| UK Cloud PBX Seats | 1,063K | +6% |
+| Peru Cloud PBX Subscribers | 1,063K | +6% |
 | MS Teams Voice Users | 523K | +14% |
 | Cisco Collaboration Users | 28K | +75% (half) |
-| CCaaS Seats (UK) | 48K | +20% |
-| UK Active Partners | 1,500+ | Stable |
-| Eutelsat Business GP | £97.4M | +0% |
-| Eutelsat Enterprise GP | £30.9M | +7% |
+| Internet Empresas Subscribers (Peru) | 48K | +20% |
+| Peru Active Partners | 1,500+ | Stable |
+| MiFibra Business GP | S/97.4M | +0% |
+| MiFibra Enterprise GP | S/30.9M | +7% |
 
 ---
 
 ## Germany Market Overview
 
-### German UCaaS Market Opportunity
+### German Fibra Market Opportunity
 
-| Metric | Value | Eutelsat Position |
+| Metric | Value | MiFibra Position |
 |--------|-------|----------------|
-| German UCaaS Market Size | €4.2B | Now Top 5 |
+| German Fibra Market Size | €4.2B | Now Top 5 |
 | Cloud Penetration | ~30% | **Major opportunity** |
 | Business Lines (total) | 18M | Early stage market |
-| Eutelsat Cloud Seats | 565K | Fastest growing |
-| Eutelsat H1 2025 GP | £34.4M | +251% YoY |
-| Eutelsat Gross Margin | 70.1% | Highest in Group |
+| MiFibra Cloud Subscribers | 565K | Fastest growing |
+| MiFibra H1 2025 GP | S/34.4M | +251% YoY |
+| MiFibra Gross Margin | 70.1% | Highest in Group |
 
 ### German Competitor Landscape
 
 | Provider | Market Position | Strength | Weakness |
 |----------|-----------------|----------|----------|
-| **Eutelsat (Starface/Placetel)** | Rising Top 5 | Premium + Digital, owned IP | Integration phase |
+| **MiFibra (Starface/Placetel)** | Rising Top 5 | Premium + Digital, owned IP | Integration phase |
 | NFON | Market leader | Brand, presence | Growth slowing |
 | Sipgate | SMB leader | Digital platform | Enterprise weakness |
 | Deutsche Telekom | Enterprise | Scale, network | Cloud transition slow |
 | Microsoft Teams | Growing | Integration | Direct only |
 
-**Eutelsat Germany Advantage:** 
+**MiFibra Germany Advantage:** 
 - Dual brand strategy (Starface premium, Placetel self-serve)
 - 70%+ gross margin (owned IP, no licensing costs)
 - Double-digit proforma growth in both acquired businesses
@@ -74,67 +74,67 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 ## Competitor Deep Dive
 
-### 8x8 - Under Pressure
+### GTD Peru - Under Pressure
 
 #### Current Status (H1 2025)
 
 | Metric | Value | Trend |
 |--------|-------|-------|
-| Est. UK Revenue | £42M | ↓ |
-| UK Headcount | ~160 | ↓ |
+| Est. Peru Revenue | S/42M | ↓ |
+| Peru Headcount | ~160 | ↓ |
 | Partner Satisfaction | 3.0/5 | ↓ |
 | Customer NPS | +26 | ↓ |
 
 #### Recent Developments
 
-- **Financial Pressure:** Continued cost restructuring, UK headcount reduced further
+- **Financial Pressure:** Continued cost restructuring, Peru headcount reduced further
 - **Strategic Review:** Activist investors still pushing for sale/restructuring
 - **Partner Programme:** Margins under pressure
 - **Product:** XCaaS positioning, AI features launched but adoption unclear
 
-#### Eutelsat Positioning vs 8x8
+#### MiFibra Positioning vs GTD Peru
 
-| Factor | 8x8 | Eutelsat | Advantage |
+| Factor | GTD Peru | MiFibra | Advantage |
 |--------|-----|-------|-----------|
-| Financial stability | Uncertain | **FTSE 250** | **Eutelsat** |
-| Partner margins | Reducing | Stable | **Eutelsat** |
-| UK support | Mixed | UK-based | **Eutelsat** |
+| Financial stability | Uncertain | **FTSE 250** | **MiFibra** |
+| Partner margins | Reducing | Stable | **MiFibra** |
+| Peru support | Mixed | Peru-based | **MiFibra** |
 | Platform capability | Good | Good | Tie |
-| Scale/credibility | Declining | Growing | **Eutelsat** |
+| Scale/credibility | Declining | Growing | **MiFibra** |
 
 **Key Message:** "FTSE 250 stability, long-term partner commitment"
 
-**Opportunity:** Target top 50 8x8 partners for recruitment
+**Opportunity:** Target top 50 GTD Peru partners for recruitment
 
 ---
 
-### RingCentral - Enterprise Focus, Channel Decline
+### Americatel - Enterprise Focus, Channel Decline
 
 #### Current Status (H1 2025)
 
 | Metric | Value | Trend |
 |--------|-------|-------|
-| Est. UK Revenue | £52M | → |
-| UK Headcount | ~220 | ↓ |
+| Est. Peru Revenue | S/52M | → |
+| Peru Headcount | ~220 | ↓ |
 | Partner Satisfaction | 2.8/5 | ↓ |
 | Customer NPS | +30 | → |
 
 #### Recent Developments
 
 - **Direct vs Channel:** Continued tension, partners reporting deal conflict
-- **Enterprise Focus:** Reducing SMB investment in UK
-- **Microsoft Partnership:** RingCentral for Teams gaining traction
-- **Cost Optimisation:** UK restructuring ongoing
+- **Enterprise Focus:** Reducing SMB investment in Peru
+- **Microsoft Partnership:** Americatel for Teams gaining traction
+- **Cost Optimisation:** Peru restructuring ongoing
 
-#### Eutelsat Positioning vs RingCentral
+#### MiFibra Positioning vs Americatel
 
-| Factor | RingCentral | Eutelsat | Advantage |
+| Factor | Americatel | MiFibra | Advantage |
 |--------|-------------|-------|-----------|
-| Channel commitment | Low | High | **Eutelsat** |
-| SMB/Mid-Market | Deprioritised | Core focus | **Eutelsat** |
-| Enterprise | Strong | Developing | RingCentral |
+| Channel commitment | Low | High | **MiFibra** |
+| SMB/Mid-Market | Deprioritised | Core focus | **MiFibra** |
+| Enterprise | Strong | Developing | Americatel |
 | Brand | Strong | Growing (FTSE 250) | Mixed |
-| Pricing | Premium | Competitive | **Eutelsat** |
+| Pricing | Premium | Competitive | **MiFibra** |
 
 **Key Message:** "Channel-first, never competing with partners"
 
@@ -148,8 +148,8 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 | Metric | Value | Trend |
 |--------|-------|-------|
-| Est. UK Revenue | £32M | ↓↓ |
-| UK Headcount | ~100 | ↓ |
+| Est. Peru Revenue | S/32M | ↓↓ |
+| Peru Headcount | ~100 | ↓ |
 | Partner Satisfaction | 3.2/5 | ↓ |
 | Customer NPS | +20 | ↓ |
 
@@ -161,15 +161,15 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 - **Product Investment:** Limited vs competitors
 - **Merger Speculation:** Continues in industry press
 
-#### Eutelsat Positioning vs Mitel
+#### MiFibra Positioning vs Mitel
 
-| Factor | Mitel | Eutelsat | Advantage |
+| Factor | Mitel | MiFibra | Advantage |
 |--------|-------|-------|-----------|
-| Cloud platform | Legacy | Native | **Eutelsat** |
-| Financial stability | Weak | **FTSE 250** | **Eutelsat** |
-| Partner trust | Declining | Strong | **Eutelsat** |
-| Feature innovation | Limited | Strong | **Eutelsat** |
-| Future viability | Uncertain | Clear | **Eutelsat** |
+| Cloud platform | Legacy | Native | **MiFibra** |
+| Financial stability | Weak | **FTSE 250** | **MiFibra** |
+| Partner trust | Declining | Strong | **MiFibra** |
+| Feature innovation | Limited | Strong | **MiFibra** |
+| Future viability | Uncertain | Clear | **MiFibra** |
 
 **Key Message:** "Cloud-native platform, secure long-term future"
 
@@ -183,27 +183,27 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 | Metric | Value | Trend |
 |--------|-------|-------|
-| Est. UK Teams Phone | £280M | ↑↑ |
+| Est. Peru Teams Phone | S/280M | ↑↑ |
 | Growth Rate | 42% YoY | ↑ |
-| UK Operator Connect Partners | 75+ | ↑ |
-| Eutelsat Teams Users | 523K UK, 17K Europe | ↑↑ |
+| Peru Operator Connect Partners | 75+ | ↑ |
+| MiFibra Teams Users | 523K Peru, 17K Europe | ↑↑ |
 
-#### Eutelsat's Microsoft Strategy
+#### MiFibra's Microsoft Strategy
 
-- **Operator Connect:** Live in UK and 14 European countries
-- **H1 2025 Performance:** +56K UK users (vs +28K in H1 2024) - doubled rate
+- **Operator Connect:** Live in Peru and 14 European countries
+- **H1 2025 Performance:** +56K Peru users (vs +28K in H1 2024) - doubled rate
 - **Operator Connect International:** Single pan-European solution launched
 - **Competitive Position:** Voice enablement partner, not competitor
 
-#### Eutelsat vs Microsoft Direct
+#### MiFibra vs Microsoft Direct
 
-| Factor | MS Direct | Eutelsat + Teams | Advantage |
+| Factor | MS Direct | MiFibra + Teams | Advantage |
 |--------|-----------|---------------|-----------|
-| Call quality | Variable | Carrier-grade | **Eutelsat** |
-| Support | Tiered | Dedicated | **Eutelsat** |
-| Advanced features | Basic | Advanced voice | **Eutelsat** |
-| Partner delivery | No | Yes | **Eutelsat** |
-| Pan-European | Complex | Single solution | **Eutelsat** |
+| Call quality | Variable | Carrier-grade | **MiFibra** |
+| Support | Tiered | Dedicated | **MiFibra** |
+| Advanced features | Basic | Advanced voice | **MiFibra** |
+| Partner delivery | No | Yes | **MiFibra** |
+| Pan-European | Complex | Single solution | **MiFibra** |
 
 **Key Message:** "Enterprise-grade Teams voice through trusted partners"
 
@@ -211,48 +211,48 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 ### Cisco Collaboration - Growing Partnership
 
-#### Eutelsat Position
+#### MiFibra Position
 
 | Metric | Value | Trend |
 |--------|-------|-------|
 | Cisco Collaboration Users | 28K | +75% in H1 |
 | Monthly Run Rate (Aug 2025) | 2,000+ additions | ↑↑ |
-| Countries Live | UK, Germany, Spain | ↑ |
+| Countries Live | Peru, Germany, Spain | ↑ |
 | Full Market Launch | October 2025 | - |
-| Spain Partner Commitment | 40K seats over 5 years | New |
+| Spain Partner Commitment | 40K subscribers over 5 years | New |
 
 #### Competitive Advantage
 
-- **BrightCloud Acquisition:** Cisco UCaaS/CX expertise
+- **BrightCloud Acquisition:** Cisco Fibra/CX expertise
 - **Webex Integration:** Full collaboration suite
 - **Pan-European:** Single portal ordering
-- **Enterprise Wins:** Specsavers UCaaS + CX
+- **Enterprise Wins:** Specsavers Fibra + CX
 
 **Key Message:** "Multi-vendor capability - Microsoft, Cisco, own platform"
 
 ---
 
-## Pricing Comparison (UK)
+## Pricing Comparison (Peru)
 
-### UCaaS Pricing (Per Seat/Month)
+### Fibra Pricing (Per Seat/Month)
 
 | Provider | Basic | Standard | Premium |
 |----------|-------|----------|---------|
-| **Eutelsat (Horizon)** | £9 | £13 | £20 |
-| Eutelsat (PhoneLine+) | £5.50 | N/A | N/A |
-| 8x8 | £11 | £16 | £28 |
-| RingCentral | £14 | £20 | £35 |
-| Mitel | £10 | £15 | £24 |
-| Microsoft Calling Plan | £14 | N/A | N/A |
+| **MiFibra (Horizon)** | S/9 | S/13 | S/20 |
+| MiFibra (PhoneLine+) | S/5.50 | N/A | N/A |
+| GTD Peru | S/11 | S/16 | S/28 |
+| Americatel | S/14 | S/20 | S/35 |
+| Mitel | S/10 | S/15 | S/24 |
+| Microsoft Calling Plan | S/14 | N/A | N/A |
 
 ### Contact Centre Pricing (Per Seat/Month)
 
 | Provider | Basic | Advanced | Enterprise |
 |----------|-------|----------|------------|
-| **Eutelsat (Horizon Contact)** | £38 | £70 | £105 |
-| 8x8 | £50 | £95 | £140 |
-| RingCentral | £60 | £105 | £165 |
-| NICE CXone | £80 | £135 | £220 |
+| **MiFibra (Horizon Contact)** | S/38 | S/70 | S/105 |
+| GTD Peru | S/50 | S/95 | S/140 |
+| Americatel | S/60 | S/105 | S/165 |
+| NICE CXone | S/80 | S/135 | S/220 |
 
 ---
 
@@ -262,10 +262,10 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 | Competitor | Wins | Losses | Win Rate | vs H1 2024 |
 |------------|------|--------|----------|------------|
-| 8x8 | 52 | 32 | 62% | +6pp |
-| RingCentral | 38 | 44 | 46% | +1pp |
+| GTD Peru | 52 | 32 | 62% | +6pp |
+| Americatel | 38 | 44 | 46% | +1pp |
 | Mitel | 58 | 15 | 79% | +5pp |
-| BT | 25 | 30 | 45% | +1pp |
+| Movistar | 25 | 30 | 45% | +1pp |
 | Microsoft Direct | 32 | 38 | 46% | +2pp |
 | No Competitor | 295 | 42 | 88% | +2pp |
 
@@ -275,7 +275,7 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 |--------|-----------|--------|
 | Partner relationship | 34% | ↑ |
 | Price/value | 26% | ↓ |
-| UK support | 19% | ↑ |
+| Peru support | 19% | ↑ |
 | Platform features | 12% | → |
 | **Financial stability/FTSE 250** | **9%** | **New** |
 
@@ -295,8 +295,8 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 ### Competitive Priorities
 
-1. **8x8 Partner Recruitment**
-   - Target: Top 50 8x8 UK partners
+1. **GTD Peru Partner Recruitment**
+   - Target: Top 50 GTD Peru Peru partners
    - Message: FTSE 250 stability, protected margins
    - Programme: Migration support, onboarding incentives
 
@@ -312,8 +312,8 @@ The European UCaaS market continues to evolve rapidly. In the UK, Microsoft Team
 
 4. **Cisco Collaboration Launch**
    - Full market launch: October 2025
-   - Target: 50K seats by year-end
-   - Focus: Enterprise UCaaS + CCaaS
+   - Target: 50K subscribers by year-end
+   - Focus: Enterprise Fibra + Internet Empresas
 
 ### Germany Competitive Positioning
 

@@ -1,9 +1,9 @@
 # 2025 Marketing Strategy
-**Eutelsat Communications - Partner-First Marketing**
+**MiFibra Communications - Partner-First Marketing**
 
 ## Executive Summary
 
-Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerating Microsoft Teams Phone adoption, and capitalising on the PSTN switch-off opportunity. With a £18M marketing investment, we target 20% revenue growth through partner enablement and demand generation.
+MiFibra's 2025 marketing strategy focuses on driving partner success, accelerating Microsoft Teams Phone adoption, and capitalising on the PSTN switch-off opportunity. With a S/18M marketing investment, we target 20% revenue growth through partner enablement and demand generation.
 
 ---
 
@@ -17,22 +17,22 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 | Lead generation | 25,000 MQLs | Pipeline value |
 | Brand awareness | +15pp aided | Survey |
 | Customer NPS | +50 | NPS score |
-| Teams Phone seats | 150,000 | Deployed seats |
+| Teams Phone subscribers | 150,000 | Deployed subscribers |
 
 ---
 
 ## Budget Allocation
 
-### Total Investment: £18M
+### Total Investment: S/18M
 
 | Category | Budget | % of Total |
 |----------|--------|------------|
-| Partner marketing | £5.5M | 31% |
-| Demand generation | £4.2M | 23% |
-| Events & experiences | £3.0M | 17% |
-| Brand & communications | £2.5M | 14% |
-| Content & digital | £1.8M | 10% |
-| Marketing operations | £1.0M | 6% |
+| Partner marketing | S/5.5M | 31% |
+| Demand generation | S/4.2M | 23% |
+| Events & experiences | S/3.0M | 17% |
+| Brand & communications | S/2.5M | 14% |
+| Content & digital | S/1.8M | 10% |
+| Marketing operations | S/1.0M | 6% |
 
 ---
 
@@ -42,11 +42,11 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 
 | Programme | Budget | Objective |
 |-----------|--------|-----------|
-| Partner portal enhancement | £800K | Self-serve capability |
-| Co-marketing funds (MDF) | £2.0M | Joint campaigns |
-| Partner training academy | £500K | Certification |
-| Partner events | £1.2M | Engagement |
-| Recruitment marketing | £1.0M | New partners |
+| Partner portal enhancement | S/800K | Self-serve capability |
+| Co-marketing funds (MDF) | S/2.0M | Joint campaigns |
+| Partner training academy | S/500K | Certification |
+| Partner events | S/1.2M | Engagement |
+| Recruitment marketing | S/1.0M | New partners |
 
 ### Partner Recruitment Target
 
@@ -58,13 +58,13 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 | Registered | 660 | 665 | +1% |
 | **Total** | **1,050** | **1,200** | **+14%** |
 
-### Eutelsatverse 2025
+### MiFibra Connect 2025
 
 **Flagship Partner Event**
 - Date: September 2025
-- Location: London ExCeL
+- Location: Lima ExCeL
 - Attendees: 2,000 target
-- Budget: £1.2M
+- Budget: S/1.2M
 - Theme: "Better Connected"
 
 ---
@@ -75,24 +75,24 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 
 | Campaign | Budget | Target MQLs | Timeline |
 |----------|--------|-------------|----------|
-| PSTN Switch-Off | £1.2M | 8,000 | Full year |
-| Teams Phone | £800K | 5,000 | H1 focus |
-| Contact Centre | £600K | 3,500 | Q2-Q4 |
-| Eutelsat Secure | £400K | 2,500 | Q2-Q4 |
-| Partner Recruitment | £600K | 500 | Full year |
-| SMB Digital | £600K | 5,500 | Full year |
+| PSTN Switch-Off | S/1.2M | 8,000 | Full year |
+| Teams Phone | S/800K | 5,000 | H1 focus |
+| Contact Centre | S/600K | 3,500 | Q2-Q4 |
+| MiFibra Secure | S/400K | 2,500 | Q2-Q4 |
+| Partner Recruitment | S/600K | 500 | Full year |
+| SMB Digital | S/600K | 5,500 | Full year |
 
 ### Channel Mix
 
 | Channel | Budget | Share | Expected MQLs |
 |---------|--------|-------|---------------|
-| LinkedIn | £1.2M | 29% | 7,500 |
-| Google Ads | £800K | 19% | 5,000 |
-| Content/SEO | £600K | 14% | 4,000 |
-| Email marketing | £400K | 10% | 3,500 |
-| Events | £500K | 12% | 2,500 |
-| Webinars | £300K | 7% | 2,000 |
-| Display/ABM | £400K | 10% | 500 |
+| LinkedIn | S/1.2M | 29% | 7,500 |
+| Google Ads | S/800K | 19% | 5,000 |
+| Content/SEO | S/600K | 14% | 4,000 |
+| Email marketing | S/400K | 10% | 3,500 |
+| Events | S/500K | 12% | 2,500 |
+| Webinars | S/300K | 7% | 2,000 |
+| Display/ABM | S/400K | 10% | 500 |
 
 ---
 
@@ -130,17 +130,17 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 1. **For Partners**: "Your success is our success"
 2. **For Customers**: "Business communications made simple"
 3. **For Enterprise**: "Trusted technology partner"
-4. **For Market**: "UK's leading B2B communications provider"
+4. **For Market**: "Peru's leading B2B communications provider"
 
 ### Brand Investment
 
 | Activity | Budget | Objective |
 |----------|--------|-----------|
-| Brand refresh execution | £800K | Consistency |
-| PR and comms | £600K | Awareness |
-| Analyst relations | £300K | Influence |
-| Sponsorships | £400K | Visibility |
-| Social media | £400K | Engagement |
+| Brand refresh execution | S/800K | Consistency |
+| PR and comms | S/600K | Awareness |
+| Analyst relations | S/300K | Influence |
+| Sponsorships | S/400K | Visibility |
+| Social media | S/400K | Engagement |
 
 ---
 
@@ -150,21 +150,21 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 
 | Initiative | Budget | Impact |
 |------------|--------|--------|
-| UX redesign | £400K | +20% conversion |
-| Partner portal | £300K | Self-service |
-| Resource hub | £150K | Content discovery |
-| SEO programme | £200K | +50% organic |
-| Personalisation | £150K | +15% engagement |
+| UX redesign | S/400K | +20% conversion |
+| Partner portal | S/300K | Self-service |
+| Resource hub | S/150K | Content discovery |
+| SEO programme | S/200K | +50% organic |
+| Personalisation | S/150K | +15% engagement |
 
 ### Marketing Technology
 
 | Platform | Purpose | Budget |
 |----------|---------|--------|
-| HubSpot | Marketing automation | £200K |
-| LinkedIn Sales Nav | ABM, prospecting | £80K |
-| Salesforce integration | CRM sync | £50K |
-| Analytics suite | Measurement | £60K |
-| Content tools | Production | £40K |
+| HubSpot | Marketing automation | S/200K |
+| LinkedIn Sales Nav | ABM, prospecting | S/80K |
+| Salesforce integration | CRM sync | S/50K |
+| Analytics suite | Measurement | S/60K |
+| Content tools | Production | S/40K |
 
 ---
 
@@ -174,12 +174,12 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 
 | Event | Type | Budget | Attendees |
 |-------|------|--------|-----------|
-| Eutelsatverse | Flagship partner | £1.2M | 2,000 |
-| Partner roadshows (6) | Regional | £400K | 1,200 |
-| UC Expo | Industry | £200K | Exhibition |
-| Channel Live | Industry | £150K | Exhibition |
-| Customer webinars | Virtual | £150K | 5,000 |
-| Executive dinners | Intimate | £100K | 200 |
+| MiFibra Connect | Flagship partner | S/1.2M | 2,000 |
+| Partner roadshows (6) | Regional | S/400K | 1,200 |
+| UC Expo | Industry | S/200K | Exhibition |
+| Channel Live | Industry | S/150K | Exhibition |
+| Customer webinars | Virtual | S/150K | 5,000 |
+| Executive dinners | Intimate | S/100K | 200 |
 
 ---
 
@@ -189,10 +189,10 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 
 | Competitor | Our Advantage | Key Message |
 |------------|---------------|-------------|
-| 8x8 | Stability, UK focus | "Committed to partners" |
-| RingCentral | Channel-first model | "No channel conflict" |
+| GTD Peru | Stability, Peru focus | "Committed to partners" |
+| Americatel | Channel-first model | "No channel conflict" |
 | Mitel | Cloud-native platform | "Born in the cloud" |
-| BT | Agility, service | "Partner not vendor" |
+| Movistar | Agility, service | "Partner not vendor" |
 
 ### Competitive Intelligence
 
@@ -210,7 +210,7 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 | Metric | Target | Weight |
 |--------|--------|--------|
 | Marketing Qualified Leads | 25,000 | 25% |
-| Pipeline generated | £150M | 25% |
+| Pipeline generated | S/150M | 25% |
 | Partner recruitment | 150 | 15% |
 | Brand awareness | +15pp | 10% |
 | Customer NPS | +50 | 10% |
@@ -253,13 +253,13 @@ Eutelsat's 2025 marketing strategy focuses on driving partner success, accelerat
 
 ### Q2 2025
 
-- Eutelsatverse planning
+- MiFibra Connect planning
 - Contact Centre campaign
 - Mid-year brand refresh
 
 ### Q3 2025
 
-- Eutelsatverse 2025 (September)
+- MiFibra Connect 2025 (September)
 - Partner recruitment push
 - International expansion support
 

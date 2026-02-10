@@ -1,9 +1,9 @@
 # Campaign Performance Report Q4 2024
-**Eutelsat Communications - Marketing Analytics**
+**MiFibra Communications - Marketing Analytics**
 
 ## Executive Summary
 
-Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M spend, achieving a 4.8x pipeline-to-spend ratio. Key successes include the PSTN switch-off campaign (2,100 MQLs) and Microsoft Teams Phone acceleration (1,450 MQLs).
+Q4 2024 marketing delivered strong results with 6,850 MQLs generated from S/4.2M spend, achieving a 4.8x pipeline-to-spend ratio. Key successes include the PSTN switch-off campaign (2,100 MQLs) and Microsoft Teams Phone acceleration (1,450 MQLs).
 
 ---
 
@@ -13,12 +13,12 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Metric | Q4 2024 | Q4 2023 | YoY Change |
 |--------|---------|---------|------------|
-| Marketing Spend | £4.2M | £3.8M | +11% |
+| Marketing Spend | S/4.2M | S/3.8M | +11% |
 | MQLs Generated | 6,850 | 5,200 | +32% |
 | SQLs Accepted | 3,420 | 2,500 | +37% |
-| Pipeline Created | £48M | £35M | +37% |
-| Closed Won | £12M | £9M | +33% |
-| Cost per MQL | £613 | £731 | -16% |
+| Pipeline Created | S/48M | S/35M | +37% |
+| Closed Won | S/12M | S/9M | +33% |
+| Cost per MQL | S/613 | S/731 | -16% |
 
 ### Funnel Metrics
 
@@ -38,16 +38,16 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Campaign | Spend | MQLs | CPL | Pipeline | ROI |
 |----------|-------|------|-----|----------|-----|
-| PSTN Switch-Off | £850K | 2,100 | £405 | £14M | 16.5x |
-| Teams Phone Push | £620K | 1,450 | £428 | £9.5M | 15.3x |
-| Partner Recruitment | £380K | 185 | £2,054 | £8M | 21.1x |
-| Contact Centre | £420K | 920 | £457 | £6.5M | 15.5x |
-| Eutelsat Secure Launch | £280K | 650 | £431 | £3.8M | 13.6x |
-| SMB Digital | £520K | 1,200 | £433 | £4.2M | 8.1x |
-| Brand Awareness | £450K | N/A | N/A | N/A | N/A |
-| Partner Events | £380K | 345 | £1,101 | £2M | 5.3x |
-| Other | £300K | - | - | - | - |
-| **Total** | **£4.2M** | **6,850** | **£613** | **£48M** | **11.4x** |
+| PSTN Switch-Off | S/850K | 2,100 | S/405 | S/14M | 16.5x |
+| Teams Phone Push | S/620K | 1,450 | S/428 | S/9.5M | 15.3x |
+| Partner Recruitment | S/380K | 185 | S/2,054 | S/8M | 21.1x |
+| Contact Centre | S/420K | 920 | S/457 | S/6.5M | 15.5x |
+| MiFibra Secure Launch | S/280K | 650 | S/431 | S/3.8M | 13.6x |
+| SMB Digital | S/520K | 1,200 | S/433 | S/4.2M | 8.1x |
+| Brand Awareness | S/450K | N/A | N/A | N/A | N/A |
+| Partner Events | S/380K | 345 | S/1,101 | S/2M | 5.3x |
+| Other | S/300K | - | - | - | - |
+| **Total** | **S/4.2M** | **6,850** | **S/613** | **S/48M** | **11.4x** |
 
 ---
 
@@ -57,21 +57,21 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Channel | Spend | MQLs | CPL | Conv. Rate |
 |---------|-------|------|-----|------------|
-| LinkedIn | £980K | 2,150 | £456 | 2.8% |
-| Google Ads | £650K | 1,680 | £387 | 3.2% |
-| Email | £180K | 1,250 | £144 | 4.5% |
-| Content/SEO | £220K | 980 | £224 | 1.8% |
-| Display/ABM | £320K | 420 | £762 | 1.2% |
-| Webinars | £150K | 370 | £405 | 12.5% |
+| LinkedIn | S/980K | 2,150 | S/456 | 2.8% |
+| Google Ads | S/650K | 1,680 | S/387 | 3.2% |
+| Email | S/180K | 1,250 | S/144 | 4.5% |
+| Content/SEO | S/220K | 980 | S/224 | 1.8% |
+| Display/ABM | S/320K | 420 | S/762 | 1.2% |
+| Webinars | S/150K | 370 | S/405 | 12.5% |
 
 ### Partner Channel Performance
 
 | Activity | Spend | Partner Leads | Customer MQLs |
 |----------|-------|---------------|---------------|
-| Partner Portal | £120K | 2,800 | 1,450 |
-| MDF Campaigns | £450K | - | 1,200 |
-| Partner Events | £280K | 185 | 650 |
-| Partner Training | £150K | 320 | - |
+| Partner Portal | S/120K | 2,800 | 1,450 |
+| MDF Campaigns | S/450K | - | 1,200 |
+| Partner Events | S/280K | 185 | 650 |
+| Partner Training | S/150K | 320 | - |
 
 ---
 
@@ -82,10 +82,10 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 | Metric | Target | Actual | Status |
 |--------|--------|--------|--------|
 | MQLs | 1,800 | 2,100 | ✓ +17% |
-| Pipeline | £12M | £14M | ✓ +17% |
+| Pipeline | S/12M | S/14M | ✓ +17% |
 | Partner Participation | 350 | 420 | ✓ +20% |
 | Content Downloads | 3,000 | 4,200 | ✓ +40% |
-| Webinar Attendees | 800 | 1,150 | ✓ +44% |
+| Webinar Attendees | 800 | 1,150 | ✓ +51% |
 
 **Key Tactics:**
 - "Are You Ready?" assessment tool (2,800 completions)
@@ -99,7 +99,7 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 | Metric | Target | Actual | Status |
 |--------|--------|--------|--------|
 | MQLs | 1,200 | 1,450 | ✓ +21% |
-| Pipeline | £8M | £9.5M | ✓ +19% |
+| Pipeline | S/8M | S/9.5M | ✓ +19% |
 | Demo Requests | 400 | 520 | ✓ +30% |
 | Partner Certifications | 80 | 95 | ✓ +19% |
 
@@ -120,7 +120,7 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 |---------|-----------|------|-------|
 | PSTN Migration Guide | 2,400 | 480 | 20% |
 | Teams Phone ROI Calculator | 1,800 | 285 | 16% |
-| UCaaS Buyer's Guide | 1,250 | 188 | 15% |
+| Fibra Buyer's Guide | 1,250 | 188 | 15% |
 | Contact Centre Trends | 980 | 142 | 14% |
 | Partner Success Playbook | 850 | 95 | 11% |
 
@@ -142,10 +142,10 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Partner Tier | MDF Spend | MQLs | Pipeline |
 |--------------|-----------|------|----------|
-| Platinum | £280K | 580 | £4.2M |
-| Gold | £120K | 420 | £2.5M |
-| Silver | £50K | 200 | £0.8M |
-| **Total** | **£450K** | **1,200** | **£7.5M** |
+| Platinum | S/280K | 580 | S/4.2M |
+| Gold | S/120K | 420 | S/2.5M |
+| Silver | S/50K | 200 | S/0.8M |
+| **Total** | **S/450K** | **1,200** | **S/7.5M** |
 
 ### Partner Recruitment
 
@@ -173,7 +173,7 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 ### Share of Voice
 
-| Platform | Eutelsat | 8x8 | RingCentral |
+| Platform | MiFibra | GTD Peru | Americatel |
 |----------|-------|-----|-------------|
 | LinkedIn | 22% | 18% | 24% |
 | Trade media | 28% | 15% | 20% |
@@ -187,15 +187,15 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Region | MQLs | % of Total | Pipeline |
 |--------|------|------------|----------|
-| London | 1,850 | 27% | £14M |
-| South East | 1,050 | 15% | £7M |
-| North West | 920 | 13% | £6M |
-| West Midlands | 650 | 9% | £4.5M |
-| Scotland | 580 | 8% | £4M |
-| Yorkshire | 520 | 8% | £3.5M |
-| Other UK | 780 | 11% | £5M |
-| International | 500 | 7% | £4M |
-| **Total** | **6,850** | **100%** | **£48M** |
+| Lima | 1,850 | 27% | S/14M |
+| Lima Metropolitana | 1,050 | 15% | S/7M |
+| La Libertad | 920 | 13% | S/6M |
+| Arequipa | 650 | 9% | S/4.5M |
+| Arequipa | 580 | 8% | S/4M |
+| Lambayeque | 520 | 8% | S/3.5M |
+| Other Peru | 780 | 11% | S/5M |
+| International | 500 | 7% | S/4M |
+| **Total** | **6,850** | **100%** | **S/48M** |
 
 ---
 
@@ -205,10 +205,10 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Competitor | Opportunities | Win Rate | vs Q3 |
 |------------|---------------|----------|-------|
-| 8x8 | 85 | 58% | +5pp |
-| RingCentral | 62 | 48% | +3pp |
+| GTD Peru | 85 | 58% | +5pp |
+| Americatel | 62 | 48% | +3pp |
 | Mitel | 48 | 65% | +8pp |
-| BT | 35 | 42% | +2pp |
+| Movistar | 35 | 42% | +2pp |
 | None (new) | 320 | 72% | +4pp |
 
 ---
@@ -227,12 +227,12 @@ Q4 2024 marketing delivered strong results with 6,850 MQLs generated from £4.2M
 
 | Campaign | Q1 Budget | Target MQLs |
 |----------|-----------|-------------|
-| PSTN Switch-Off | £950K | 2,500 |
-| Teams Phone | £700K | 1,800 |
-| Partner Recruitment | £400K | 50 partners |
-| Contact Centre | £500K | 1,200 |
-| Brand/Awareness | £350K | N/A |
-| **Total** | **£2.9M** | **5,500** |
+| PSTN Switch-Off | S/950K | 2,500 |
+| Teams Phone | S/700K | 1,800 |
+| Partner Recruitment | S/400K | 50 partners |
+| Contact Centre | S/500K | 1,200 |
+| Brand/Awareness | S/350K | N/A |
+| **Total** | **S/2.9M** | **5,500** |
 
 ---
 

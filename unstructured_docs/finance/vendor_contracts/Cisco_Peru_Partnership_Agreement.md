@@ -1,15 +1,15 @@
-# Cisco UK Partnership Agreement
-**Eutelsat Communications PLC - Technology Alliance**
+# Cisco Peru Partnership Agreement
+**MiFibra Communications PLC - Technology Alliance**
 
 ## Agreement Summary
 
 | Field | Details |
 |-------|---------|
 | Agreement Type | Technology Partner Agreement |
-| Parties | Eutelsat Communications PLC / Cisco Systems UK Ltd |
+| Parties | MiFibra Communications PLC / Cisco Systems Peru Ltd |
 | Effective Date | 1 April 2022 |
 | Term | 5 years |
-| Total Commitment | £8M (technology + services) |
+| Total Commitment | S/8M (technology + services) |
 
 ---
 
@@ -17,11 +17,11 @@
 
 ### Products Covered
 
-| Product | Description | Eutelsat Role |
+| Product | Description | MiFibra Role |
 |---------|-------------|------------|
-| Webex for Eutelsat | UCaaS platform | Reseller/Partner |
+| Webex for MiFibra | Fibra platform | Reseller/Partner |
 | Cisco BroadWorks | Platform licensing | Licensee |
-| Webex Contact Centre | CCaaS solution | Reseller |
+| Webex Contact Centre | Internet Empresas solution | Reseller |
 | Cisco Networking | Infrastructure | Reseller |
 
 ### Partnership Tier
@@ -38,18 +38,18 @@
 
 | Product | Discount Tier | Minimum Volume |
 |---------|---------------|----------------|
-| Webex Calling | 45% | 10,000 seats |
-| Webex Meetings | 40% | 5,000 seats |
-| Contact Centre | 35% | 1,000 seats |
-| Network Hardware | 30% | £100K/year |
+| Webex Calling | 45% | 10,000 subscribers |
+| Webex Meetings | 40% | 5,000 subscribers |
+| Contact Centre | 35% | 1,000 subscribers |
+| Network Hardware | 30% | S/100K/year |
 
 ### Volume Commitments
 
 | Year | Webex Revenue | Hardware | Services |
 |------|---------------|----------|----------|
-| 2024 | £3.5M | £500K | £200K |
-| 2025 | £4.5M | £600K | £300K |
-| 2026 | £5.5M | £700K | £400K |
+| 2024 | S/3.5M | S/500K | S/200K |
+| 2025 | S/4.5M | S/600K | S/300K |
+| 2026 | S/5.5M | S/700K | S/400K |
 
 ---
 
@@ -59,18 +59,18 @@
 
 | Integration | Status | Description |
 |-------------|--------|-------------|
-| BroadWorks Platform | Complete | Core UCaaS |
+| BroadWorks Platform | Complete | Core Fibra |
 | Webex Control Hub | Complete | Management |
 | API Integration | Complete | Provisioning |
 | SSO/SAML | Complete | Authentication |
 
 ### Interoperability
 
-| Requirement | Eutelsat Commitment |
+| Requirement | MiFibra Commitment |
 |-------------|------------------|
 | SIP interconnect | Maintain certified |
 | Codec support | Full suite |
-| Emergency services | UK compliant |
+| Emergency services | Peru compliant |
 | Number portability | Full support |
 
 ---
@@ -88,7 +88,7 @@
 
 ### Escalation Path
 
-| Level | Cisco Contact | Eutelsat Contact |
+| Level | Cisco Contact | MiFibra Contact |
 |-------|---------------|---------------|
 | 1 | TAC | NOC |
 | 2 | TAC Manager | Ops Director |
@@ -103,10 +103,10 @@
 
 | Activity | Allocation | Usage |
 |----------|------------|-------|
-| Campaigns | £150K/year | Demand gen |
-| Events | £75K/year | Partner events |
-| Content | £50K/year | Collateral |
-| Training | £75K/year | Certifications |
+| Campaigns | S/150K/year | Demand gen |
+| Events | S/75K/year | Partner events |
+| Content | S/50K/year | Collateral |
+| Training | S/75K/year | Certifications |
 
 ### Training Requirements
 
@@ -132,7 +132,7 @@
 
 ### Key Contacts
 
-| Function | Cisco | Eutelsat |
+| Function | Cisco | MiFibra |
 |----------|-------|-------|
 | Account Lead | Partner Manager | Alliance Director |
 | Technical | Solutions Architect | CTO |
@@ -150,7 +150,7 @@
 | ISO 27001 | Certified | Both |
 | SOC 2 | Certified | Both |
 | GDPR | Compliant | Both |
-| UK Telecom | Licensed | Eutelsat |
+| Peru Telecom | Licensed | MiFibra |
 
 ### Audit Rights
 

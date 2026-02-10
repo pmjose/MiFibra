@@ -1,9 +1,9 @@
 # Customer Retention Playbook
-**Eutelsat Communications - Churn Reduction Guide**
+**MiFibra Communications - Churn Reduction Guide**
 
 ## Executive Summary
 
-This playbook provides strategies and tactics for reducing customer churn across Eutelsat's customer base. With current churn at 0.9% monthly (10.8% annual), our target is to reduce this to 0.8% monthly (9.2% annual), protecting £8M in annual recurring revenue.
+This playbook provides strategies and tactics for reducing customer churn across MiFibra's customer base. With current churn at 0.9% monthly (10.8% annual), our target is to reduce this to 0.8% monthly (9.2% annual), protecting S/8M in annual recurring revenue.
 
 ---
 
@@ -15,7 +15,7 @@ This playbook provides strategies and tactics for reducing customer churn across
 |--------|---------|---------|--------|
 | Monthly Churn | 0.9% | 1.1% | -0.2pp |
 | Annual Churn | 10.8% | 12.5% | -1.7pp |
-| Monthly MRR Churn | £350K | £380K | -8% |
+| Monthly MRR Churn | S/350K | S/380K | -8% |
 | Customers Lost | 85 | 98 | -13% |
 
 ### Churn by Segment
@@ -55,11 +55,11 @@ This playbook provides strategies and tactics for reducing customer churn across
 
 | Competitor | % of Losses | Average Value | Win-Back Rate |
 |------------|-------------|---------------|---------------|
-| Microsoft Direct | 35% | £2,500 ARR | 15% |
-| 8x8 | 18% | £4,200 ARR | 25% |
-| RingCentral | 15% | £5,800 ARR | 20% |
-| Mitel | 12% | £3,800 ARR | 35% |
-| Other | 20% | £2,100 ARR | 10% |
+| Microsoft Direct | 35% | S/2,500 ARR | 15% |
+| GTD Peru | 18% | S/4,200 ARR | 25% |
+| Americatel | 15% | S/5,800 ARR | 20% |
+| Mitel | 12% | S/3,800 ARR | 35% |
+| Other | 20% | S/2,100 ARR | 10% |
 
 ---
 
@@ -104,9 +104,9 @@ This playbook provides strategies and tactics for reducing customer churn across
 **Retention Offers:**
 | Customer Value | Max Discount | Term Required |
 |----------------|--------------|---------------|
-| High (>£100K ARR) | 25% | 36 months |
-| Medium (£30-100K) | 18% | 24 months |
-| Standard (<£30K) | 12% | 24 months |
+| High (>S/100K ARR) | 25% | 36 months |
+| Medium (S/30-100K) | 18% | 24 months |
+| Standard (<S/30K) | 12% | 24 months |
 
 ### Service Issue Playbook
 
@@ -136,10 +136,10 @@ This playbook provides strategies and tactics for reducing customer churn across
 
 | Customer Value | Review Frequency | Participants |
 |----------------|------------------|--------------|
-| Strategic (£100K+) | Monthly | Exec, CAM, Customer |
-| Major (£30-100K) | Quarterly | CAM, Customer |
-| Standard (£10-30K) | Semi-annual | CAM, Customer |
-| SMB (<£10K) | Annual | Digital touch |
+| Strategic (S/100K+) | Monthly | Exec, CAM, Customer |
+| Major (S/30-100K) | Quarterly | CAM, Customer |
+| Standard (S/10-30K) | Semi-annual | CAM, Customer |
+| SMB (<S/10K) | Annual | Digital touch |
 
 ### Health Review Agenda
 
@@ -188,10 +188,10 @@ This playbook provides strategies and tactics for reducing customer churn across
 
 | Campaign | Attempts | Won Back | Rate | Revenue |
 |----------|----------|----------|------|---------|
-| Q1 | 45 | 12 | 27% | £185K ARR |
-| Q2 | 52 | 15 | 29% | £220K ARR |
-| Q3 | 48 | 18 | 38% | £280K ARR |
-| Q4 | 55 | 22 | 40% | £340K ARR |
+| Q1 | 45 | 12 | 27% | S/185K ARR |
+| Q2 | 52 | 15 | 29% | S/220K ARR |
+| Q3 | 48 | 18 | 38% | S/280K ARR |
+| Q4 | 55 | 22 | 40% | S/340K ARR |
 
 ---
 
@@ -210,9 +210,9 @@ This playbook provides strategies and tactics for reducing customer churn across
 
 | Activity | Incentive |
 |----------|-----------|
-| Save at-risk customer | +£500 bonus |
-| Win-back (30 days) | +£1,000 bonus |
-| Win-back (90 days) | +£750 bonus |
+| Save at-risk customer | +S/500 bonus |
+| Win-back (30 days) | +S/1,000 bonus |
+| Win-back (90 days) | +S/750 bonus |
 | Upgrade to reduce risk | Standard commission |
 
 ---
@@ -227,7 +227,7 @@ This playbook provides strategies and tactics for reducing customer churn across
 | Annual churn | 10.8% | 9.2% | -1.6pp |
 | Save rate | 35% | 45% | +10pp |
 | Win-back rate | 35% | 45% | +10pp |
-| Revenue protected | £4M | £8M | +100% |
+| Revenue protected | S/4M | S/8M | +100% |
 
 ### Reporting Cadence
 

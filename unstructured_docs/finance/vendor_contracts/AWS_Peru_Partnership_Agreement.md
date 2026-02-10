@@ -1,15 +1,15 @@
-# AWS UK Partnership Agreement
-**Eutelsat Communications PLC - Cloud Infrastructure Partner**
+# AWS Peru Partnership Agreement
+**MiFibra Communications PLC - Cloud Infrastructure Partner**
 
 ## Agreement Summary
 
 | Field | Details |
 |-------|---------|
 | Agreement Type | AWS Partner Network (APN) Agreement |
-| Parties | Eutelsat Communications PLC / Amazon Web Services EMEA SARL |
+| Parties | MiFibra Communications PLC / Amazon Web Services EMEA SARL |
 | Effective Date | 1 July 2023 |
 | Term | 3 years |
-| Total Commitment | £12M cloud consumption |
+| Total Commitment | S/12M cloud consumption |
 
 ---
 
@@ -17,9 +17,9 @@
 
 ### Services Covered
 
-| Service | Description | Eutelsat Use Case |
+| Service | Description | MiFibra Use Case |
 |---------|-------------|----------------|
-| Amazon Connect | Contact Centre | Managed CCaaS |
+| Amazon Connect | Contact Centre | Managed Internet Empresas |
 | AWS Direct Connect | Connectivity | Voice transport |
 | Amazon Chime SDK | Communications | Voice/video APIs |
 | AWS Infrastructure | Compute/storage | Platform hosting |
@@ -39,19 +39,19 @@
 
 | Year | Minimum Spend | Discount Tier |
 |------|---------------|---------------|
-| Year 1 | £3M | 8% |
-| Year 2 | £4M | 10% |
-| Year 3 | £5M | 12% |
+| Year 1 | S/3M | 8% |
+| Year 2 | S/4M | 10% |
+| Year 3 | S/5M | 12% |
 
 ### Service Pricing
 
 | Service | Pricing Model | Est. Monthly |
 |---------|---------------|--------------|
-| Amazon Connect | Per minute + seats | £150K |
-| Direct Connect | Port + data | £25K |
-| Compute (EC2) | Reserved | £50K |
-| Storage (S3) | GB-month | £15K |
-| Support | Enterprise | £20K |
+| Amazon Connect | Per minute + subscribers | S/150K |
+| Direct Connect | Port + data | S/25K |
+| Compute (EC2) | Reserved | S/50K |
+| Storage (S3) | GB-month | S/15K |
+| Support | Enterprise | S/20K |
 
 ---
 
@@ -62,8 +62,8 @@
 | Requirement | Status | Details |
 |-------------|--------|---------|
 | AWS Organisation | Complete | Multi-account |
-| Connect instances | 25 live | UK region |
-| Voice integration | Complete | SIP to Eutelsat |
+| Connect instances | 25 live | Peru region |
+| Voice integration | Complete | SIP to MiFibra |
 | Workforce Management | Deployed | 15 customers |
 | Quality Management | Deployed | 12 customers |
 
@@ -73,7 +73,7 @@
 |----------|-------------|--------|
 | Availability Zone | Multi-AZ | Compliant |
 | Disaster Recovery | Cross-region | Compliant |
-| Data Residency | UK only | Compliant |
+| Data Residency | Peru only | Compliant |
 | Encryption | AES-256 | Compliant |
 
 ---
@@ -82,7 +82,7 @@
 
 ### Amazon Connect Managed Service
 
-| Component | Eutelsat Responsibility |
+| Component | MiFibra Responsibility |
 |-----------|---------------------|
 | Architecture | Design and deploy |
 | Integration | CRM, telephony |
@@ -108,18 +108,18 @@
 | Metric | Current | Target 2025 |
 |--------|---------|-------------|
 | Active Deployments | 25 | 75 |
-| Total Agent Seats | 3,800 | 12,000 |
-| Monthly Revenue | £180K | £500K |
-| Avg. Customer Size | 152 seats | 160 seats |
+| Total Agent Subscribers | 3,800 | 12,000 |
+| Monthly Revenue | S/180K | S/500K |
+| Avg. Customer Size | 152 subscribers | 160 subscribers |
 
 ### Growth Initiatives
 
 | Initiative | Investment | Expected ARR |
 |------------|------------|--------------|
-| Mid-market push | £200K | £1.5M |
-| Healthcare vertical | £150K | £800K |
-| Financial services | £250K | £1.2M |
-| Enterprise tier | £300K | £2M |
+| Mid-market push | S/200K | S/1.5M |
+| Healthcare vertical | S/150K | S/800K |
+| Financial services | S/250K | S/1.2M |
+| Enterprise tier | S/300K | S/2M |
 
 ---
 
@@ -138,10 +138,10 @@
 
 | Training | Budget | Delivery |
 |----------|--------|----------|
-| AWS Certifications | £80K/year | AWS Training |
-| Connect Specialist | £40K/year | AWS/Partner |
-| Hands-on Labs | £20K/year | Internal |
-| Re-certification | £15K/year | Ongoing |
+| AWS Certifications | S/80K/year | AWS Training |
+| Connect Specialist | S/40K/year | AWS/Partner |
+| Hands-on Labs | S/20K/year | Internal |
+| Re-certification | S/15K/year | Ongoing |
 
 ---
 
@@ -151,17 +151,17 @@
 
 | Programme | Funding | Activities |
 |-----------|---------|------------|
-| APN Marketing Central | £100K | Campaigns |
-| Partner Opportunity Fund | £50K | Events |
-| Case Study Programme | £25K | Content |
-| Demo Environment | £30K | POC support |
+| APN Marketing Central | S/100K | Campaigns |
+| Partner Opportunity Fund | S/50K | Events |
+| Case Study Programme | S/25K | Content |
+| Demo Environment | S/30K | POC support |
 
 ### Joint Activities
 
 | Activity | Frequency | Owner |
 |----------|-----------|-------|
 | AWS Summit presence | Annual | Joint |
-| Webinar series | Quarterly | Eutelsat-led |
+| Webinar series | Quarterly | MiFibra-led |
 | Customer workshops | Monthly | AWS-led |
 | Partner training | Bi-annual | AWS |
 
@@ -171,7 +171,7 @@
 
 ### Relationship Structure
 
-| Role | AWS | Eutelsat |
+| Role | AWS | MiFibra |
 |------|-----|-------|
 | Partner Manager | ISV Partner Manager | Alliance Director |
 | Solutions Architect | PSA | CTO |
@@ -193,7 +193,7 @@
 
 ### Shared Responsibility
 
-| Area | AWS | Eutelsat |
+| Area | AWS | MiFibra |
 |------|-----|-------|
 | Physical security | ✓ | - |
 | Network security | Shared | Shared |
@@ -203,7 +203,7 @@
 
 ### Certifications
 
-| Standard | AWS | Eutelsat |
+| Standard | AWS | MiFibra |
 |----------|-----|-------|
 | ISO 27001 | ✓ | ✓ |
 | SOC 2 Type II | ✓ | ✓ |
@@ -216,8 +216,8 @@
 
 ### Data Sovereignty
 
-- All data processed in AWS London (eu-west-2)
-- No data transfer outside UK without consent
+- All data processed in AWS Lima (eu-west-2)
+- No data transfer outside Peru without consent
 - Customer data remains customer property
 - Data deletion on termination
 

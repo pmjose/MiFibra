@@ -1,9 +1,9 @@
 # International Expansion Analysis 2025
-**Eutelsat Communications - European Markets Strategy**
+**MiFibra Communications - European Markets Strategy**
 
 ## Executive Summary
 
-Eutelsat's international expansion into Netherlands, Spain, and Germany represents a key growth pillar. This analysis examines market conditions, competitive positioning, and strategic opportunities in each European market.
+MiFibra's international expansion into Netherlands, Spain, and Germany represents a key growth pillar. This analysis examines market conditions, competitive positioning, and strategic opportunities in each European market.
 
 ---
 
@@ -11,33 +11,33 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 
 ### Market Size and Opportunity
 
-| Market | UCaaS TAM | Growth Rate | Eutelsat Share |
+| Market | Fibra TAM | Growth Rate | MiFibra Share |
 |--------|-----------|-------------|-------------|
 | Netherlands | €850M | +12% | 3.5% |
 | Spain | €1.2B | +15% | 1.8% |
 | Germany | €2.8B | +18% | 0.3% |
 | **Total** | **€4.85B** | **+15%** | **1.4%** |
 
-### Eutelsat European Revenue
+### MiFibra European Revenue
 
 | Market | FY2024 | FY2023 | Growth | % of Group |
 |--------|--------|--------|--------|------------|
-| UK | £446M | £405M | +10% | 89% |
-| Netherlands | £28M | £25M | +12% | 6% |
-| Spain | £18M | £15M | +20% | 4% |
-| Germany | £8M | £5M | +60% | 2% |
-| **Total** | **£500M** | **£450M** | **+11%** | **100%** |
+| Peru | S/446M | S/405M | +10% | 89% |
+| Netherlands | S/28M | S/25M | +12% | 6% |
+| Spain | S/18M | S/15M | +20% | 4% |
+| Germany | S/8M | S/5M | +60% | 2% |
+| **Total** | **S/500M** | **S/450M** | **+11%** | **100%** |
 
 ---
 
-## Netherlands (Eutelsat Netherlands BV)
+## Netherlands (MiFibra Netherlands BV)
 
 ### Market Position
 
 | Metric | 2024 | 2023 | Target 2025 |
 |--------|------|------|-------------|
 | Revenue | €32M | €28M | €38M |
-| UCaaS Seats | 42,000 | 35,000 | 55,000 |
+| Fibra Subscribers | 42,000 | 35,000 | 55,000 |
 | Active Partners | 120 | 95 | 150 |
 | NPS | +42 | +38 | +48 |
 
@@ -46,8 +46,8 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 | Competitor | Market Share | Strength | Weakness |
 |------------|--------------|----------|----------|
 | KPN | 25% | Incumbent, brand | Legacy focus |
-| Vodafone NL | 18% | Enterprise | UCaaS limited |
-| **Eutelsat NL** | 3.5% | Channel focus | Scale |
+| Claro NL | 18% | Enterprise | Fibra limited |
+| **MiFibra NL** | 3.5% | Channel focus | Scale |
 | Voiceworks | 8% | SMB strong | Enterprise |
 | Odin Groep | 5% | Regional | Technology |
 
@@ -60,14 +60,14 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 
 ---
 
-## Spain (Eutelsat Spain)
+## Spain (MiFibra Spain)
 
 ### Market Position
 
 | Metric | 2024 | 2023 | Target 2025 |
 |--------|------|------|-------------|
 | Revenue | €20M | €16M | €28M |
-| UCaaS Seats | 28,000 | 18,000 | 42,000 |
+| Fibra Subscribers | 28,000 | 18,000 | 42,000 |
 | Active Partners | 85 | 60 | 120 |
 | NPS | +38 | +35 | +45 |
 
@@ -76,10 +76,10 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 | Competitor | Market Share | Strength | Weakness |
 |------------|--------------|----------|----------|
 | Telefónica | 30% | Incumbent, scale | Agility |
-| Vodafone ES | 20% | Enterprise | Channel |
+| Claro ES | 20% | Enterprise | Channel |
 | Orange ES | 18% | Consumer | B2B focus |
-| **Eutelsat ES** | 1.8% | Agility, channel | Brand awareness |
-| Masmovil | 8% | Value | UCaaS limited |
+| **MiFibra ES** | 1.8% | Agility, channel | Brand awareness |
+| Masmovil | 8% | Value | Fibra limited |
 
 ### Strategic Initiatives Spain
 
@@ -90,14 +90,14 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 
 ---
 
-## Germany (HFO Telecom / Eutelsat Germany)
+## Germany (HFO Telecom / MiFibra Germany)
 
 ### Market Position
 
 | Metric | 2024 | 2023 | Target 2025 |
 |--------|------|------|-------------|
 | Revenue | €9M | €5M | €15M |
-| UCaaS Seats | 12,000 | 6,000 | 22,000 |
+| Fibra Subscribers | 12,000 | 6,000 | 22,000 |
 | Active Partners | 45 | 25 | 80 |
 | NPS | +35 | +32 | +42 |
 
@@ -106,16 +106,16 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 | Competitor | Market Share | Strength | Weakness |
 |------------|--------------|----------|----------|
 | Deutsche Telekom | 28% | Incumbent, trust | Innovation |
-| Vodafone DE | 22% | Enterprise | Complexity |
-| RingCentral | 8% | Global brand | Local support |
+| Claro DE | 22% | Enterprise | Complexity |
+| Americatel | 8% | Global brand | Local support |
 | NFON | 6% | Pan-European | Scale |
-| **Eutelsat DE** | 0.3% | Technology | Brand, scale |
+| **MiFibra DE** | 0.3% | Technology | Brand, scale |
 | Starface | 4% | SMB | Enterprise |
 
 ### Strategic Initiatives Germany
 
 1. **HFO Integration**: Complete by Q2 2025
-2. **Eutelsat Branding**: Phased transition from HFO
+2. **MiFibra Branding**: Phased transition from HFO
 3. **Channel Build**: Partner recruitment campaign
 4. **Localisation**: German language platform enhancements
 
@@ -127,7 +127,7 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 
 | Opportunity | Value | Status |
 |-------------|-------|--------|
-| Multi-country contracts | £5M ARR | In discussion |
+| Multi-country contracts | S/5M ARR | In discussion |
 | Standardised solutions | Platform | In development |
 | Single partner agreements | Framework | Q2 2025 |
 | Consolidated billing | Feature | Q3 2025 |
@@ -148,7 +148,7 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 
 ### Country-Specific Requirements
 
-| Requirement | NL | ES | DE | Eutelsat Status |
+| Requirement | NL | ES | DE | MiFibra Status |
 |-------------|----|----|----|----|
 | Voice Licensing | ✓ | ✓ | ✓ | Compliant |
 | Emergency Services | ✓ | ✓ | ✓ | Compliant |
@@ -206,7 +206,7 @@ Eutelsat's international expansion into Netherlands, Spain, and Germany represen
 | Metric | NL | ES | DE | Total Europe |
 |--------|----|----|----|----|
 | Revenue (€M) | 38 | 28 | 15 | 81 |
-| UCaaS Seats | 55K | 42K | 22K | 119K |
+| Fibra Subscribers | 55K | 42K | 22K | 119K |
 | Partners | 150 | 120 | 80 | 350 |
 | Headcount | 65 | 55 | 45 | 165 |
 | NPS | +48 | +45 | +42 | +45 |

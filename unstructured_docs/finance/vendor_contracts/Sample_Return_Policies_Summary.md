@@ -1,8 +1,8 @@
 # Vendor SLA and Credit Policies Summary
-**Eutelsat Communications PLC**
+**MiFibra Communications PLC**
 
 ## Overview
-This document summarises the service level agreements and credit policies for Eutelsat's key technology partners.
+This document summarises the service level agreements and credit policies for MiFibra's key technology partners.
 
 ---
 
@@ -23,7 +23,7 @@ This document summarises the service level agreements and credit policies for Eu
 
 ### Contact for SLA Issues
 - Partner Support: Microsoft Partner Center
-- Escalation: UK Partner Manager
+- Escalation: Peru Partner Manager
 
 ---
 
@@ -44,7 +44,7 @@ This document summarises the service level agreements and credit policies for Eu
 
 ### Contact for SLA Issues
 - Technical Assistance Center (TAC)
-- Escalation: UK Account SE
+- Escalation: Peru Account SE
 
 ---
 
@@ -73,14 +73,14 @@ This document summarises the service level agreements and credit policies for Eu
 
 ## Network Partners
 
-### BT Wholesale
+### Movistar Wholesale
 | Service | SLA | Credit |
 |---------|-----|--------|
 | SIP Trunk Availability | 99.95% | Pro-rated |
 | Fault Repair (P1) | 4 hours | Credits after 6 hours |
 | Fault Repair (P2) | 24 hours | Credits after 36 hours |
 
-### Virgin Media Business
+### Win Business
 | Service | SLA | Credit |
 |---------|-----|--------|
 | Ethernet Availability | 99.95% | Pro-rated |
@@ -119,11 +119,11 @@ This document summarises the service level agreements and credit policies for Eu
 
 | Vendor | Uptime Achieved | SLA Met | Credits Received |
 |--------|-----------------|---------|------------------|
-| Microsoft | 99.98% | ✓ | £0 |
-| Cisco | 99.96% | ✓ | £0 |
-| AWS | 99.99% | ✓ | £0 |
-| BT Wholesale | 99.94% | ✗ | £12,500 |
-| Virgin Media | 99.97% | ✓ | £0 |
+| Microsoft | 99.98% | ✓ | S/0 |
+| Cisco | 99.96% | ✓ | S/0 |
+| AWS | 99.99% | ✓ | S/0 |
+| Movistar Wholesale | 99.94% | ✗ | S/12,500 |
+| Win | 99.97% | ✓ | S/0 |
 
 ---
 

@@ -1,9 +1,9 @@
 # Digital Transformation Report 2024
-**Eutelsat Communications - Technology Adoption Analysis**
+**MiFibra Communications - Technology Adoption Analysis**
 
 ## Executive Summary
 
-This report analyses digital transformation trends affecting Eutelsat's customer base and the adoption of cloud communications technologies. Key findings include accelerating Teams Phone adoption, strong partner portal engagement, and growing demand for AI-powered features.
+This report analyses digital transformation trends affecting MiFibra's customer base and the adoption of cloud communications technologies. Key findings include accelerating Teams Phone adoption, strong partner portal engagement, and growing demand for AI-powered features.
 
 ---
 
@@ -13,7 +13,7 @@ This report analyses digital transformation trends affecting Eutelsat's customer
 
 | Customer Stage | 2023 | 2024 | 2025E |
 |----------------|------|------|-------|
-| Fully Cloud (UCaaS) | 35% | 48% | 62% |
+| Fully Cloud (Fibra) | 35% | 48% | 62% |
 | Hybrid (Cloud + PBX) | 28% | 25% | 20% |
 | On-Premise PBX | 37% | 27% | 18% |
 
@@ -36,13 +36,13 @@ This report analyses digital transformation trends affecting Eutelsat's customer
 |--------|---------|---------|--------|
 | Customers with Teams | 85% | 92% | +7pp |
 | Teams Phone Enabled | 18% | 35% | +17pp |
-| Eutelsat Teams Phone | 8% | 15% | +7pp |
+| MiFibra Teams Phone | 8% | 15% | +7pp |
 | Direct Routing | 60% | 45% | -15pp |
 | Operator Connect | 40% | 55% | +15pp |
 
 ### Teams Phone Customer Profile
 
-| Segment | Adoption Rate | Avg Seats |
+| Segment | Adoption Rate | Avg Subscribers |
 |---------|---------------|-----------|
 | Enterprise (250+) | 45% | 850 |
 | Mid-Market (50-249) | 32% | 120 |
@@ -191,7 +191,7 @@ This report analyses digital transformation trends affecting Eutelsat's customer
 | Desk Phones | 58% | 48% | ↓ |
 | Softphone (Desktop) | 72% | 85% | ↑ |
 | Softphone (Mobile) | 45% | 68% | ↑ |
-| Headsets (USB/BT) | 62% | 78% | ↑ |
+| Headsets (USB/Movistar) | 62% | 78% | ↑ |
 | Video Devices | 28% | 42% | ↑ |
 
 ### Top Hardware Vendors (Partner Sales)
@@ -213,7 +213,7 @@ This report analyses digital transformation trends affecting Eutelsat's customer
 | Priority | Very Important | Important |
 |----------|----------------|-----------|
 | Call Encryption | 85% | 12% |
-| Data Residency (UK) | 72% | 18% |
+| Data Residency (Peru) | 72% | 18% |
 | Access Controls | 68% | 25% |
 | Audit Logging | 55% | 32% |
 | Fraud Protection | 62% | 28% |
@@ -236,7 +236,7 @@ This report analyses digital transformation trends affecting Eutelsat's customer
 
 | Technology | 2024 | 2025 Forecast | Driver |
 |------------|------|---------------|--------|
-| Cloud UCaaS | 48% | 62% | PSTN switch-off |
+| Cloud Fibra | 48% | 62% | PSTN switch-off |
 | Teams Phone | 35% | 52% | Microsoft momentum |
 | AI Features | 15% | 35% | Contact centre |
 | Video Meetings | 42% | 55% | Hybrid work |

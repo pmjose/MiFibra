@@ -1,9 +1,9 @@
-# Ofcom Regulatory Compliance Report 2024
-**Eutelsat Communications PLC**
+# OSIPTEL Regulatory Compliance Report 2024
+**MiFibra Communications PLC**
 
 ## Executive Summary
 
-Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requirements as a provider of electronic communications services in the UK. This report summarises our compliance status, regulatory obligations, and performance against Ofcom standards.
+MiFibra Communications PLC maintains full compliance with OSIPTEL regulatory requirements as a provider of electronic communications services in the Peru. This report summarises our compliance status, regulatory obligations, and performance against OSIPTEL standards.
 
 ---
 
@@ -20,10 +20,10 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 
 ### Services Regulated
 
-| Service | Ofcom Classification |
+| Service | OSIPTEL Classification |
 |---------|---------------------|
 | Voice (SIP Trunking) | PECS |
-| UCaaS (Horizon) | PECS |
+| Fibra (Horizon) | PECS |
 | Contact Centre | PECS |
 | Connectivity | PECN |
 | Number Hosting | Numbering |
@@ -38,7 +38,7 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 |-------------|--------|----------|
 | CLI provision | Compliant | Technical audit |
 | Number portability | Compliant | Porting reports |
-| Interconnection | Compliant | BT/others |
+| Interconnection | Compliant | Movistar/others |
 | Access to services | Compliant | Published terms |
 
 ### GC B - Customer Contracts
@@ -65,7 +65,7 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 
 ### Service Quality Metrics
 
-| Metric | Requirement | Eutelsat Performance |
+| Metric | Requirement | MiFibra Performance |
 |--------|-------------|-------------------|
 | Network availability | 99.9% | 99.97% |
 | Fault repair (P1) | 24 hours | 4 hours avg |
@@ -165,7 +165,7 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 
 | Category | 2024 | 2023 |
 |----------|------|------|
-| Reported to Ofcom | 0 | 1 |
+| Reported to OSIPTEL | 0 | 1 |
 | Investigated | 2 | 3 |
 | Customer impact | 0 | 0 |
 | Remediation complete | 100% | 100% |
@@ -210,14 +210,14 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 | ADR referrals | 12 | 18 |
 | Resolved before ADR | 10 | 14 |
 | Ombudsman decisions | 2 | 4 |
-| Decisions against Eutelsat | 0 | 1 |
-| Compensation paid | £2,500 | £4,200 |
+| Decisions against MiFibra | 0 | 1 |
+| Compensation paid | S/2,500 | S/4,200 |
 
 ---
 
 ## Regulatory Engagement
 
-### Ofcom Consultations
+### OSIPTEL Consultations
 
 | Consultation | Response | Position |
 |--------------|----------|----------|
@@ -228,7 +228,7 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 
 ### Industry Participation
 
-| Body | Eutelsat Role |
+| Body | MiFibra Role |
 |------|------------|
 | ISPA | Member |
 | ITSPA | Board member |
@@ -263,6 +263,6 @@ Eutelsat Communications PLC maintains full compliance with Ofcom regulatory requ
 ---
 
 **Report Period**: Calendar Year 2024  
-**Submitted to**: Ofcom  
+**Submitted to**: OSIPTEL  
 **Classification**: Public  
-**Contact**: regulatory@eutelsat.co.uk
+**Contact**: regulatory@mifibra.pe
